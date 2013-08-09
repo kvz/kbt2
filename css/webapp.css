@@ -1,0 +1,9 @@
+button.interval {
+	width:  54px !important;
+	height: 50px !important;
+}
+
+section[role="region"] {
+  position: fixed;
+  width: 100%;
+}

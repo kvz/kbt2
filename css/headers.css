@@ -382,4 +382,3 @@ html[dir="rtl"] section[role="region"] > header:first-child > a .icon:after {
 html[dir="rtl"] section[role="region"] > header:first-child .icon.icon-back {
   background-image: url(../images/headers/icons/back-rtl.png);
 }
-

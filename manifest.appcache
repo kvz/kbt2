@@ -1,8 +1,9 @@
 CACHE MANIFEST
-# Version 0.6799999
+# Version 0.679999999
 
 index.html
 css/base.css
+css/webapp.css
 js/base.js
 js/webapp.js
 js/offline.js
