@@ -98,11 +98,6 @@
   };
 
   var updateText = function(text) {
-    console.log('updateText');
-    if (!text) {
-      text = currentMilliSecs;
-    }
-    text = formatter(text, false);
     while(buttonCounter.firstChild) {
       buttonCounter.removeChild(buttonCounter.firstChild);
     }
@@ -116,10 +111,10 @@
         currentMilliSecs = 0;
       }
 
-      updateText(currentMilliSecs+1000);
+      updateText(formatter(currentMilliSecs + 1000, false));  
 
       if (currentMilliSecs === 0) {
-        updateText();
+        updateText(formatter(0, false));  
         completeCounter();
       }
     }
@@ -137,5 +132,5 @@
     console.log('Orientation locked to portrait');
   }
 
-  updateText();  
+  updateText(formatter(0, false));  
 })(); 
