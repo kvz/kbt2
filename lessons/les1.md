@@ -1,13 +1,3 @@
-- pen en brief meer
-- stopwatch
-- logitech mee
-
-
-# les1 - 90min
-
-Hallo allemaal ik ben Kevin. Ik val in voor jullie vaste trainer die ook Kevin heet. Wel zo makkelijk en verwarrend.
-Kevin heeft meer ervaring met lesgeven, dus ik loop met een briefje rond, en als je iets niet snapt, gewoon vragen.
-
 # 20.30 Warming up – 20min
 
 Ok we beginnen met een looppas!
@@ -94,7 +84,6 @@ Swingback: 4min
  - Pushup diamonds: 10
  - Pushup wide: 10
  - Pushup langzaam: 10
-
 
 # 21.50 Power down 10m
 

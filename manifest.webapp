@@ -1,6 +1,6 @@
 {
   "name": "kbt",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "kbt desc",
   "type": "web",
   "launch_path": "index.html",

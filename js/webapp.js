@@ -56,6 +56,11 @@
     } else {
       styleBusy(true);
     }
+    
+    if ('vibrate' in navigator) {
+      navigator.vibrate(200);
+    }
+
   };
 
   var initCounter = function (secs) {
@@ -63,10 +68,6 @@
     activeSeconds    = secs;
     doPauze(false);
     clearTimeout(timer);
-
-    if ('vibrate' in navigator) {
-      navigator.vibrate(300);
-    }
 
     doCount(secs);
   };
@@ -76,7 +77,7 @@
     doPauze(true);
 
     if ('vibrate' in navigator) {
-      navigator.vibrate(1500);
+      navigator.vibrate(2000);
     }
 
     // alert(formatter(activeSeconds * 1000, false) + ' Timer Complete');

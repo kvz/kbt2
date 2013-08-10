@@ -31,7 +31,7 @@
             <menu type="toolbar">
                 <button id="install"><span class="icon icon-add">add</span></button>
 
-                <button data-seconds="2"  class="interval">2s</button>
+                <button data-seconds="30"  class="interval">30s</button>
                 <button data-seconds="60"  class="interval">1m</button>
                 <button data-seconds="120" class="interval">2m</button>
                 <button data-seconds="180" class="interval">3m</button>
@@ -60,12 +60,11 @@
     <script type="text/javascript" src="js/offline.js"></script>
     <script type="text/javascript">
         var xhReq = new XMLHttpRequest();
-        xhReq.open("GET", "/lessons/les2.md", false);
+        xhReq.open('GET', '/lessons/les2.md', false);
         xhReq.send(null);
         var serverResponse = xhReq.responseText;
-
-        var lesson = document.querySelector('#lesson');
-        lesson.innerHTML = markdown.toHTML(serverResponse);
+        var lesson         = document.querySelector('#lesson');
+        lesson.innerHTML   = markdown.toHTML(serverResponse);
     </script>
 </body>
 </html>
