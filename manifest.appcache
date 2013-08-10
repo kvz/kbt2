@@ -1,10 +1,13 @@
 CACHE MANIFEST
 # Version 0.679999999
 
+lessons/les1.md
+lessons/les2.md
 index.html
 css/base.css
 css/webapp.css
 js/base.js
+js/markdown.js
 js/webapp.js
 js/offline.js
 

@@ -76,10 +76,10 @@
     doPauze(true);
 
     if ('vibrate' in navigator) {
-      navigator.vibrate(1000);
+      navigator.vibrate(1500);
     }
 
-    alert(formatter(activeSeconds * 1000, false) + ' Timer Complete');
+    // alert(formatter(activeSeconds * 1000, false) + ' Timer Complete');
 
     activeSeconds = false;
   }

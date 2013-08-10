@@ -1,10 +1,10 @@
 // Install app
 if (navigator.mozApps) {
     var checkIfInstalled = navigator.mozApps.getSelf();
-    var manifestURL = location.href.substring(0, location.href.lastIndexOf("/")) + "/manifest.webapp";
+    var manifestURL      = location.href.substring(0, location.href.lastIndexOf("/")) + "/manifest.webapp";
     checkIfInstalled.onsuccess = function () {
         console.log(checkIfInstalled);
-        if (checkIfInstalled.result && checkIfInstalled.result.manifest.version === '0.0.3') {
+        if (checkIfInstalled.result && checkIfInstalled.result.manifest.version === '0.0.4') {
             // Already installed
             var installationInstructions = document.querySelector("#installation-instructions");
             if (installationInstructions) {
