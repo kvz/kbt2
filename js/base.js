@@ -1,10 +1,8 @@
 // Install app
 if (navigator.mozApps) {
     var checkIfInstalled = navigator.mozApps.getSelf();
-    var manifestURL      = location.href.substring(0, location.href.lastIndexOf("/")) + "/manifest.webapp";
     checkIfInstalled.onsuccess = function () {
-        console.log(checkIfInstalled);
-        if (checkIfInstalled.result && checkIfInstalled.result.manifest.version === '0.0.4') {
+        if (checkIfInstalled.result) {
             // Already installed
             var installationInstructions = document.querySelector("#installation-instructions");
             if (installationInstructions) {
@@ -12,7 +10,8 @@ if (navigator.mozApps) {
             }
         }
         else {
-            var install = document.querySelector("#install");
+            var install = document.querySelector("#install"),
+                manifestURL = location.href.substring(0, location.href.lastIndexOf("/")) + "/manifest.webapp";
             install.className = "show-install";
             install.onclick = function () {
                 var installApp = navigator.mozApps.install(manifestURL);
