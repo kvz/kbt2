@@ -65,7 +65,7 @@
     clearTimeout(timer);
 
     if ('vibrate' in navigator) {
-      navigator.vibrate(400);
+      navigator.vibrate(300);
     }
 
     doCount(secs);
@@ -74,11 +74,12 @@
   var completeCounter = function () {
     clearTimeout(timer);
     doPauze(true);
-    alert(formatter(activeSeconds * 1000, false) + ' Timer Complete');
 
     if ('vibrate' in navigator) {
       navigator.vibrate(1000);
     }
+
+    alert(formatter(activeSeconds * 1000, false) + ' Timer Complete');
 
     activeSeconds = false;
   }
