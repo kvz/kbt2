@@ -87,10 +87,10 @@ Stopwatch.prototype.vibrate = function (ms) {
     return;
   }
 
-  self.elements['body'].className = '';
-  setTimeout(function () {
-    self.elements['body'].className = 'skin-dark';
-  }, ms);
+  // self.elements['body'].className = '';
+  // setTimeout(function () {
+  //   self.elements['body'].className = 'skin-dark';
+  // }, ms);
   navigator.vibrate(ms);
 };
 
