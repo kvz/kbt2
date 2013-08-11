@@ -58,13 +58,5 @@
     <script type="text/javascript" src="js/base.js"></script>
     <script type="text/javascript" src="js/webapp.js"></script>
     <script type="text/javascript" src="js/offline.js"></script>
-    <script type="text/javascript">
-        var xhReq = new XMLHttpRequest();
-        xhReq.open('GET', '/lessons/les2.md', false);
-        xhReq.send(null);
-        var serverResponse = xhReq.responseText;
-        var lesson         = document.querySelector('#lesson');
-        lesson.innerHTML   = markdown.toHTML(serverResponse);
-    </script>
 </body>
 </html>
