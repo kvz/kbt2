@@ -148,11 +148,11 @@
 
     // Set an alarm and store it's id
     var request = navigator.mozAlarms.add(alarmDate, 'ignoreTimezone', {
-      message: 'Do something dude!'
+      message: 'Timer ' + formatter(activeSeconds * 1000, false) + ' Complete';
     });
 
     request.onsuccess = function () {
-      console.log('A new alarm has been set:' + this.result);      
+      // console.log('A new alarm has been set:' + this.result);      
       alarmId = this.result.id;
     }  
   };
