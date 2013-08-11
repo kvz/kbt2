@@ -80,7 +80,7 @@
  - pushup wides: 10
  - pushup mijn tel hoog, laag: 10
  - pushup langzaam: 10
- - pushup elkaars handen aantikken
+ - crunches elkaars handen aantikken
  - in elkaar haken & aantikken
  - elkaars benen naar de grond duwen
  - tik over & onder je kuiten

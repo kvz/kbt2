@@ -2,114 +2,117 @@
 
 Ok we beginnen met een looppas!
 
- - armen los (L, R, Beiden)
- - uitstoten
- - knieen hoog
- - hakken billen (snel)
- - heupen los
- - lopen
- - jumping jacks
+ 1. armen los (L, R, Beiden)
+ 1. uitstoten
+ 1. knieen hoog
+ 1. hakken billen (snel)
+ 1. heupen los
+ 1. lopen
+ 1. sprintjes (goed afzetten)
+ 1. jumping jacks
 
 Even stil staan
 
- - squads: 10
- - springende squads: 10
- - lunges vooruit: 16
- - lunges gesprongen: 10 (hoog springen, laag opvangen)
+ 1. squads: 10
+ 1. springende squads: 10
+ 1. lunges vooruit: 10
+ 1. lunges gesprongen: 10 (hoog springen, laag opvangen)
 
 Even ademen
 
- - rekken
- - uitrekken, handen hoog
- - uitrekken, handen losgooien
+ 1. uitrekken, handen hoog
+ 1. uitrekken, handen losgooien
 
 Trappen
 
- - L Knie: 15
- - R Knie: 15
- - L Knie - L Roundhouse: 10
- - R Knie - R Roundhouse: 10
-
-Rekken
-
- - benen wijd, voor/achter met je handen: 1min
- - benen stukje terug, naar je knie met je neus: Links/Rechts: 1min
- - linkerbeen rechterhand aanraken, en andersom. steeds hoger. recht omhoog: 30sec
- - linkerbeen rechterhand aanraken, en andersom. steeds hoger. naar binnen: 30sec
- - linkerbeen rechterhand aanraken, en andersom. steeds hoger. naar buiten: 30sec
+ 1. L Afhouders: 15
+ 1. R Afhouders: 15
+ 1. L Knie - L Roundhouse: 10
+ 1. R Knie - R Roundhouse: 10 
 
 # 20.50 Techniek – 60min
 
 Goed gewerkt! Spullen aan en een partner zoeken.
-Wie zit er het langst op kickboksen?
+
+Losstoten en bewegen: 5min
+
+ 1. Links rechts losstoten (om en om) (en bewegen): 1min
+ 1. L Hoek erbij: 1min
+ 1. R Lowkick erbij (blokken): 1min
+ 1. crunch & punch: 1min
+
+Onderdoor Duiken (FR): 4min
+
+ 1. Jab - Cross - R Shift - (L Hoek)
+ 1. Jab - Cross - R Shift - (L Hoek) - Cross - L Hoek
+ 1. Jab - Cross - R Shift - (L Hoek) - Cross - L Hoek - Cross - Cross
+ 1. op die ellebogen en planken: 1min
 
 Boksen: 4min
 
- - Jab – Body Cross – L Hoek – R Hoek: 3min
- - veren & springen: 10: 1min
+ 1. Jab – R Uppercut – L Hoek – Cross: 2min
 
-Boksen: 4min
+## Rek-intermezzo
 
- - Jab – R Uppercut – L Hoek – L Hoek: 3min
- - om en om: roundhouses: 1min
+ 1. benen wijd, voor/achter met je handen: 1min
+ 1. benen stukje terug, naar je knie met je neus: Links/Rechts: 1min
+ 1. omhoog. linkerbeen schoppen en rechterhand aanraken, andersom. steeds hoger: 15 links/15 rechts
+ 1. Been op elkaars schouders: 5sec op de max vasthouden, alle benen wisselen
+ 1. om en om: low, round, high
 
-Boksen: 5min
+Trio setje: 20min
 
- - Jab – R Uppercut - L Hoek - Cross: 3min
- - 3x 20sec snel stoten: 2min
+ 1. (1) Jab – R Lowkick: 3min
+ 1. (2) Jab – Cross – L Roundhouse: 4min
+ 1. (3) Jab – Cross – L Hoek – R Highkick: 4min
+ 1. 1+2+3 – 1min langzaam + 3min vol, each: 8min
+ 1. burpies. dames mogen op de knieen: 10: 1min
 
-Een setje. Eerst elk stapje oefenen: 20min
+Doubleslip (FR): 6min
 
- - (1) Jab – R Lowkick: 3min
- - (2) Jab – Cross – L Roundhouse: 4min
- - (3) Jab – Cross – L Hoek – R Highkick: 4min
- - 1+2+3 – 1min langzaam + 3min vol, each: 8min
- - burpies. dames mogen op de knieen: 10: 1min
+ 1. Jab - Cross - R Slip - (Jab) - L Slip - (Cross): 1min
+ 1. Jab - Cross - R Slip - (Jab) - L Slip - (Cross) - L Hoek - Cross: 2min
+ 1. Jab - Cross - R Slip - (Jab) - L Slip - (Cross) - L Hoek - Cross - L Roundhouse - Cross: 3min
+ 1. rekken. voeten kruisen, neus naar je knieen: 1min
 
-Duiken: 4min
+Trap vangen en counteren: 7min
 
- - Jab - Cross - (L Hoek) - R Shift - Cross - Lever - R Lowkick: 3min
- - planken: 1min
-
-Doubleslip: 4min
-
- - Jab - Cross - R Slip - (Jab) - L Slip - (Cross) - L Hoek - Cross - L Hoek
- - Jab - Cross - R Slip - (Jab) - L Slip - (Cross) - L Hoek - Cross - L Roundhouse
-
-Trap vangen, en counteren: 7min
-
- - Cross - Lever - R Lowkick: 1m
- - Cross - Lever - R Lowkick - L Roundhouse - (Block): 2m
- - Cross - Lever - R Lowkick - L Roundhouse - (Block) - (Cross) - (L Roundhouse): 3m
- - crunch & punch: 1min
+ 1. Cross - Lever - R Lowkick: 1m
+ 1. Cross - Lever - R Lowkick - L Roundhouse - (Block): 2m
+ 1. Cross - Lever - R Lowkick - L Roundhouse - (Block) - (Cross) - (L Roundhouse): 3m
+ 1. crunch & punch: 1min
 
 Swingback: 4min
 
- - Jab – Body Cross - (Jab) - Swingback - Cross - Lever - R Lowkick: 3min
- - Pushup diamonds: 10
- - Pushup wide: 10
- - Pushup langzaam: 10
-
+ 1. Jab – Body Cross - Swingback - (Jab)- Cross - Lever - R Lowkick: 3min
+ 1. om en om: roundhouses
 
 # 21.50 Power down 10m
 
 Spullen uit
 
-- Haken
-- Duwen
-- Been op elkaars schouders
-
-We gaan even de hartslag omlaag brengen.
-Op je knieen zitten. Handen open. Borst vooruit. Adem met je buik. Sluit je af voor iedereen. Neus in..  Mond uit.. Neus in.. Mond uit..
-Goed gewerkt jongens. Bedankt voor jullie aandacht!
-Klappen
-
+ 1. Benen Duwen: 10
+ 1. Haken: 1min
+ 1. Scharen: 1min
+ 1. Rug liggen en voet & hand aanraken. Links & Rechts: 10
+ 1. Pushup diamonds: 5
+ 1. Pushup wide: 5
+ 1. Pushup langzaam: 5
+ 1. Op je knieeen, uitrekken naar voren.
+ 1. blijf op knieen, rechtop zitten
+ 1. hartslag omlaag
+ 1. borst vooruit
+ 1. ogen dicht
+ 1. neus in mond uit
+ 1. sluit je een minuut af voor iedereen
+ 1. Goed gewerkt jongens. Bedankt voor jullie aandacht! 
 
 # Aandachtspunten
 
- - stopwatch
- - muziek
- - geen schaduwboksen!
- - als we naar de grond gaan, zeggen dat de spullen aan moeten blijven
- - einde moet een flow zijn: duidelijk moment aangeven: spullen uit, dan afbouwen met intense workout, opdrukvarianten, rek op de knien rechtop, bort vooruit, ogen dicht, neus in, mond uit. hebbes.
- - niet bij de structuur van de les betrekken, alleen maar doen. ze moeten niet meedenken. ze moeten ondergaan. 
+ 1. niet bij de structuur van de les betrekken, alleen maar doen. ze moeten niet meedenken. ze moeten ondergaan. 
+
+# Theorie
+
+ 1. hoek: elasticiteit
+ 1. leverstoot: alsof je iemand spiest met een zwaard en bij z'n shouder eruit wil komen
+ 1. kicks: niet omhoog, maar alsof je een boom omkapt. draai 90 graden.

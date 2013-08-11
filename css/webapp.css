@@ -1,6 +1,22 @@
+#main {
+  font-size: 12px;
+}
+#main h4 {
+  font-size: 13px;
+}
+#main h3 {
+  font-size: 14px;
+}
+#main h2 {
+  font-size: 16px;
+}
+#main h1 {
+  font-size: 18px;
+}
+
 button.interval {
-	width:  54px !important;
-	height: 50px !important;
+  width:  54px !important;
+  height: 50px !important;
 }
 
 section[role="region"] {
