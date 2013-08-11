@@ -148,7 +148,7 @@
 
     // Set an alarm and store it's id
     var request = navigator.mozAlarms.add(alarmDate, 'ignoreTimezone', {
-      message: 'Timer ' + formatter(activeSeconds * 1000, false) + ' Complete';
+      message: 'Timer ' + formatter(activeSeconds * 1000, false) + ' Complete'
     });
 
     request.onsuccess = function () {
@@ -156,6 +156,7 @@
       alarmId = this.result.id;
     }  
   };
+
 
   var cancelAlarm = function() {
     if (!('mozAlarms' in navigator)) {
@@ -165,7 +166,6 @@
       navigator.mozAlarms.remove(alarmId);
     }
   };
-
   var loadLesson = function (lesson) {
     var xhReq = new XMLHttpRequest();
     xhReq.open('GET', '/lessons/' + lesson + '.md', false);
@@ -181,6 +181,7 @@
       console.log('Orientation locked to portrait');
     }
   }
+
 
   updateText(formatter(0, false));  
   loadLesson('les2');

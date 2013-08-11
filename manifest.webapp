@@ -1,6 +1,6 @@
 {
   "name": "kbt",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "kbt desc",
   "type": "web",
   "launch_path": "index.html",
@@ -22,9 +22,6 @@
   "permissions": {
     "alarms": {
       "description": "Required for intervals"
-    },
-    "desktop-notification": {
-        "description" : "To show notifications"
     }
   }
 }
