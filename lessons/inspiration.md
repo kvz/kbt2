@@ -106,3 +106,24 @@ reverse crunch   = http://www.youtube.com/watch?v=WlTvnfOr6_Q
 
  - http://www.youtube.com/watch?v=aGrcmEEEevw - How To Dodge Punches - Trav's Head Movement Training
  - http://www.builtlean.com/2011/03/02/push-up-variations-exercise/ - 10 different pushups
+
+
+
+
+
+
+
+Losstoten en bewegen: 5min
+
+ 1. Links rechts losstoten (om en om) (en bewegen): 1min
+ 1. L Hoek erbij: 1min
+ 1. R Lowkick erbij (blokken): 1min
+ 1. crunch & punch: 1min
+
+Trio setje: 20min
+
+ 1. (1) Jab – R Lowkick: 3min
+ 1. (2) Jab – Cross – L Roundhouse: 4min
+ 1. (3) Jab – Cross – L Hoek – R Highkick: 4min
+ 1. 1+2+3 – 1min langzaam + 3min vol, each: 8min
+ 1. burpies. dames mogen op de knieen: 10: 1min
