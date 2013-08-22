@@ -75,14 +75,14 @@
           stopwatch.loadLesson('les3');
 
           // Main
-          // if ('mozLockOrientation' in screen) {
-          //   var portraitLock = screen.mozLockOrientation('portrait-primary');
-          //   if (portraitLock) {
-          //     console.log('Orientation locked to portrait');
-          //   } else {
-          //     alert('Unable to lock orientation');
-          //   }
-          // }
+          if ('mozLockOrientation' in screen) {
+            var portraitLock = screen.mozLockOrientation('portrait-primary');
+            if (portraitLock) {
+              console.log('locked to portrait');
+            } else {
+              alert('Unable to lock orientation');
+            }
+          }
         })(); 
     </script>
 </body>
