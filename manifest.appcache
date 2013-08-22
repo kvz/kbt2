@@ -1,8 +1,9 @@
 CACHE MANIFEST
-# Version 0.67999999999999
+# Version 0.679999999999999
 
 lessons/les1.md
 lessons/les2.md
+lessons/les3.md
 index.html
 css/base.css
 css/webapp.css

@@ -72,15 +72,17 @@
 
           // Invoke methods like this
           stopwatch.bind();
-          stopwatch.loadLesson('les2');
+          stopwatch.loadLesson('les3');
 
           // Main
-          if ('mozLockOrientation' in screen) {
-            var portraitLock = screen.mozLockOrientation('portrait');
-            if (portraitLock) {
-              console.log('Orientation locked to portrait');
-            }
-          }
+          // if ('mozLockOrientation' in screen) {
+          //   var portraitLock = screen.mozLockOrientation('portrait-primary');
+          //   if (portraitLock) {
+          //     console.log('Orientation locked to portrait');
+          //   } else {
+          //     alert('Unable to lock orientation');
+          //   }
+          // }
         })(); 
     </script>
 </body>

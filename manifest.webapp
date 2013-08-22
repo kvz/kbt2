@@ -1,6 +1,6 @@
 {
   "name": "kbt",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "kickbox trainer",
   "type": "web",
   "launch_path": "index.html",
@@ -29,5 +29,6 @@
       "desktop-notification":{
           "description": "Required to notify timer's end"
       }
-  }
+  },
+  "orientation": ["portrait-primary"]
 }
