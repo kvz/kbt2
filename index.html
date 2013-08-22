@@ -83,6 +83,16 @@
               alert('Unable to lock orientation');
             }
           }
+
+          window.addEventListener("focus", function(event) { 
+            if ('mozLockOrientation' in screen) {
+              var portraitLock = screen.mozLockOrientation('portrait-primary');
+              if (portraitLock) {
+                console.log('locked to portrait');
+              }
+            }
+          }, false);
+
         })(); 
     </script>
 </body>
