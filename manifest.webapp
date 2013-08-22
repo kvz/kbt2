@@ -1,6 +1,6 @@
 {
   "name": "kbt",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "kickbox trainer",
   "type": "web",
   "launch_path": "index.html",
