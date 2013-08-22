@@ -1,5 +1,5 @@
-#main {
-  font-size: 13px;
+#main, #main code {
+  font: 13px "mozTT",sans-serif;
 }
 #main h4 {
   font-size: 13px;
@@ -15,6 +15,10 @@
 }
 #main i, #main em {
   color: red;
+  font-style: normal;
+}
+#main code {
+  color: green;
 }
 
 button.interval {
