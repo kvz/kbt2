@@ -39,7 +39,7 @@ Stopwatch.prototype.bind = function (){
     });
   }, false);
 
-  self.updateText(self.formatter(0, false));  
+  self.updateText(self.formatter(0, false));
 };
 
 Stopwatch.prototype.styleBusy = function (busy) {
@@ -133,21 +133,24 @@ Stopwatch.prototype.doCount = function(secs) {
       self.currentMilliSecs = 0;
     }
 
-    self.updateText(self.formatter(self.currentMilliSecs + 1000, false));  
+    self.updateText(self.formatter(self.currentMilliSecs + 1000, false));
 
     if (self.currentMilliSecs === 0) {
-      self.updateText(self.formatter(0, false));  
+      self.updateText(self.formatter(0, false));
       self.completeCounter();
     }
   }
 
   self.timer = setTimeout(function () {
-    self.doCount(secs);      
-  }, self.config.milliStep);      
+    self.doCount(secs);
+  }, self.config.milliStep);
 };
 
 Stopwatch.prototype.setAlarm = function (ms_in_future) {
   if (!('mozAlarms' in navigator)) {
+    return;
+  }
+  if (!('mozSetMessageHandler' in navigator)) {
     return;
   }
 
@@ -160,9 +163,16 @@ Stopwatch.prototype.setAlarm = function (ms_in_future) {
   });
 
   request.onsuccess = function () {
-    // console.log('A new alarm has been set:' + this.result);      
+    console.log('A new alarm has been set:' + this.result);
     this.alarmId = this.result.id;
-  }  
+  }
+
+  navigator.mozSetMessageHandler('alarm', function(mozAlarm) {
+    navigator.vibrate(2000);
+
+    var notification = navigator.mozNotification.createNotification('There you go', mozAlarm.data.label);
+    notification.show();
+  });
 };
 
 Stopwatch.prototype.cancelAlarm = function() {

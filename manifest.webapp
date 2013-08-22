@@ -1,6 +1,6 @@
 {
   "name": "kbt",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "kickbox trainer",
   "type": "web",
   "launch_path": "index.html",
@@ -19,9 +19,15 @@
   "chrome": { "navigation": false },
   "fullscreen": true,
   "installs_allowed_from": ["*"],
+  "messages": [
+      { "alarm": "/index.html" }
+   ],
   "permissions": {
-    "alarms": {
-      "description": "Required for intervals"
-    }
+      "alarms": {
+          "description": "Required to notify timer's end"
+      },
+      "desktop-notification":{
+          "description": "Required to notify timer's end"
+      }
   }
 }
