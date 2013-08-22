@@ -13,6 +13,9 @@
 #main h1 {
   font-size: 18px;
 }
+#main i, #main em {
+  color: red;
+}
 
 button.interval {
   width:  54px !important;
