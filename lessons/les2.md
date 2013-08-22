@@ -119,6 +119,7 @@ Alle spullen mogen uit
 # Aandachtspunten
 
  1. niet bij de structuur van de les betrekken, alleen maar doen. ze moeten niet meedenken. ze moeten ondergaan. 
+ 1. niet schaduwboksen
 
 # Theorie
 
