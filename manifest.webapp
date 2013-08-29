@@ -14,7 +14,7 @@
   "developer": {
     "name": "Kevin van Zonneveld",
     "url": "http://kvz.io"
-  },q
+  },
   "default_locale": "en",
   "chrome": { "navigation": false },
   "fullscreen": true,
