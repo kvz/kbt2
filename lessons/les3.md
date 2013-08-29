@@ -9,10 +9,9 @@ Ok we beginnen met een looppas!
  1. uitstoten: 2 rondjes
  1. *knieen hoog: 1 rondje*
  1. hakken billen (snel): 1 rondje
- 1. heupen los: half rondje
- 1. voorste krom staan. bokkiespringen: 1 rondje
- 1. loopas: 1 rondje
+ 1. `heupen los: half rondje`
  1. jumping jacks / andere kant / om en om: 3 rondjes
+ 1. loopas: 1 rondje. sneller. klappen. nog een halve minuut.
 
 Even stil staan met je gezicht naar het midden
 
@@ -23,9 +22,9 @@ Even stil staan met je gezicht naar het midden
 
 Even ademen
 
- 1. uitrekken, handen hoog
- 1. uitrekken, handen losgooien
- 1. hoofd knikken. schudden. zijkant. ronddraaien
+ 1. `uitrekken, handen hoog`
+ 1. `uitrekken, handen losgooien`
+ 1. `hoofd knikken. schudden. zijkant. ronddraaien`
 
 Trappen
 
@@ -68,8 +67,8 @@ Doubleslip (FR): 6min
  
 ## Rek-intermezzo
 
- 1. benen wijd, voor/achter met je handen: 1min
- 1. benen stukje terug, naar je knie met je neus: Links/Rechts: 30sec
+ 1. `benen wijd, voor/achter met je handen: 1min`
+ 1. `benen stukje terug, naar je knie met je neus: Links/Rechts: 30sec`
  1. omhoog. linkerbeen schoppen en rechterhand aanraken, andersom. steeds hoger: 15 links/15 rechts
 
 Volgende oefening. Trap vangen en counteren: 7min
@@ -92,28 +91,29 @@ Trio setje: 20min
 
 Alle spullen mogen uit
 
- 1. Benen Duwen: 15
+ 1. Benen Duwen: 20
  1. Haken: 1min
  1. Scharen: 1min
  1. Rug liggen en voet & hand kruislinks aanraken. grond niet raken: links 10 rechts 10
  1. Diamonds Pushups: 5
- 1. wide Pushups: 5
+ 1. Wide Pushups: 5
  1. langzaam Pushups: 10
- 1. Op je knieeen, handen op de grond. rek je uit naar voren.
- 1. blijf op knieen, maar ga rechtop zitten
- 1. ogen dicht
- 1. borst vooruit
- 1. sluit je af voor iedereen
- 1. en dan gaan we die hartslag omlaag brengen
- 1. neus in.. mond uit..
- 1. adem vanuit je buik
- 1. neus in.. mond uit.. 
+ 1. `Op je knieeen, handen op de grond. rek je uit naar voren.`
+ 1. `blijf op knieen, maar ga rechtop zitten`
+ 1. `ogen dicht`
+ 1. `borst vooruit`
+ 1. `sluit je af voor iedereen`
+ 1. `en dan gaan we die hartslag omlaag brengen`
+ 1. `neus in.. mond uit..`
+ 1. `adem vanuit je buik`
+ 1. `neus in.. mond uit..`
  1. Ok jongens lekker gewerkt. Bedankt voor jullie aandacht! 
 
 # Aandachtspunten
 
  1. zit ze op de hielen. lange oefeningen opsplitsen en afwisselen met explosief geweld. 
  1. 5 dingen in 1 combo is te veel. opbreken.
+ 1. JA: Blokken
 
 # Theorie
 
