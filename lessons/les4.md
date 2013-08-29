@@ -1,5 +1,5 @@
 les4
-# 20.30 Warming up – 20min
+# 20.30 Warming up: 20min
 
 Ok we beginnen met een looppas!
 
@@ -35,43 +35,43 @@ Trappen
  1. L Knie - L Roundhouse: 10
  1. R Knie - R Roundhouse: 10 
 
-# 20.50 Trapkussens - 15min
+# 20.50 Trapkussens: 15min
 
 Goed gewerkt! Zoek een partner, en pak een trapkussen
 
  1. R Lowkick. ieder 10 en dan zelf wisselen: 1min
- 1. L Roundhouse: kickboxer1. allemaal tegelijk 10 op tel -> kickboxer2. 10 op tel
- 1. *R Roundhouse: kickboxer1. 1-2-3-4-5-4-3-2-1 -> kickboxer2. 1-2-3-4-5-4-3-2-1*
- 1. baantjes. L Afhouder. kickboxer2 terug: 1min
- 1. *burpies: 10*
+ 1. L Roundhouse: kickboxer1. allemaal tegelijk 10 op tel -> kickboxer2. 10 op tel: 1min
+ 1. *R Roundhouse: kickboxer1. 1-2-3-4-5-4-3-2-1 -> kickboxer2. 1-2-3-4-5-4-3-2-1*: 2min
+ 1. baantjes. L Afhouder. kickboxer2 terug: 2min
+ 1. *burpies: 10*: 1min
  1. baantjes. L Afhouder - R Roundhouse: 2min
- 1. *crunch & punch: 20*
- 1. baantjes. L Afhouder Gesprongen - R Roundhouse. kickboxer2 terug: 3min
- 1. *R Roundhouse: kickboxer1. 1-2-3-4-5-4-3-2-1 -> kickboxer2. 1-2-3-4-5-4-3-2-1*
+ 1. *crunch & punch: 20*: 1min
+ 1. baantjes. L Afhouder - R Roundhouse - R Afhouder - L Roundhouse. kickboxer2 terug: 3min
+ 1. *L Roundhouse: kickboxer1. 1-2-3-4-5-4-3-2-1 -> kickboxer2. 1-2-3-4-5-4-3-2-1*: 2min
 
-# 21.05 Techniek – 45min
+# 21.05 Techniek: 45min
 
 Trapkussens aan de kant, en alle spullen mogen aan!
 
-Stoten: 5min
+Duck: 10min
 
  1. Jab - Cross. om en om: 1min
  1. Jab - Cross - L Hoek - L Duik (R Hoek). 3 om 3: 2min
- 1. *lunges: 16*
+ 1. *lunges: 16*: 1min
  1. Jab - Cross - L Hoek - L Duik (R Hoek) - L Hoek - Cross - L Uppercut. 3 om 3: 3min
- 1. *springen.. knieen in de lucht: 10*
+ 1. *springen.. knieen in de lucht: 10*: 1min
 
 Stoten: 5min
 
- 1. Jab - Jab(zacht) - R Uppercut - L Hoek - Cross(explosief): 2min
+ 1. Jab - Jab(zacht) - R Uppercut - L Hoek - Cross(explosief). ritme 1-2-123: 2min
  1. *Jab - Cross 2-4-6-8-10-8-6-4-2. tel voor de ander. zelf wisselen: 1min*
  1. *L Uppercut - R Uppercut 2-4-6-8-10-8-6-4-2. tel voor de ander. zelf wisselen: 1min*
  
-## Rek-intermezzo
+## Rek-intermezzo: 5min
 
  1. `benen wijd, voor/achter met je handen: 1min`
  1. `benen stukje terug, naar je knie met je neus: Links/Rechts: 30sec`
- 1. omhoog. linkerbeen schoppen en rechterhand aanraken, andersom. steeds hoger: 15 links/15 rechts
+ 1. omhoog. linkerbeen schoppen en rechterhand aanraken, andersom. steeds hoger: 15 links/15 rechts: 2min
 
 Volgende oefening. Trap vangen en counteren: 7min
 
@@ -89,7 +89,7 @@ Indien tijd: Trio setje: 20min
  1. 1+2+3 – 1min langzaam + 3min vol, each: 8min
  1. *burpies. dames mogen op de knieen: 10*
 
-# 21.50 Power down 10m
+# 21.50 Power down: 10m
 
 Alle spullen mogen uit
 

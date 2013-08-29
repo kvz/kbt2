@@ -1,6 +1,6 @@
 {
   "name": "kbt",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "kickbox trainer",
   "type": "web",
   "launch_path": "index.html",
@@ -14,7 +14,7 @@
   "developer": {
     "name": "Kevin van Zonneveld",
     "url": "http://kvz.io"
-  },
+  },q
   "default_locale": "en",
   "chrome": { "navigation": false },
   "fullscreen": true,
