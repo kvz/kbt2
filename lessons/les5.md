@@ -8,22 +8,34 @@ Maar ik zou zeggen pak allemaal een zak, dan beginnen we rustig met een warming 
 
  1. ABC `rustig instoten`. Probeer alle stoten uit. Maak ze lang, maar zeker niet hard
  1. ABC `heupen los`
+ 1. A  Roundhouse: 5x opt tel
+    B  `zak vasthouden`
  1. L Roundhouse: 5x opt tel
  1. ABC *squads: 10*
  1. ABC *springende squads: 10*
  1. ABC *lunges vooruit: 10*
  1. ABC *lunges gesprongen: 10 (hoog springen, laag opvangen)*
- 1. ABC `rust`
+ 1. ABC `iedereen rust`
 
 # 19.10 Techniek: 10min
 
 Dan beginnen we met de volgende techniek
 
- 1. AC Jab – Cross: 10x op tel, dan met de klok doordraaien: 5min
+Als je met z'n drieen bent, zijn er altijd 2 personen aan het werk op de zak.
+
+ 1. A Jab – Cross: 10x op tel, dan met de klok doordraaien: 3min
     B  *situps*
- 1. AC Jab – Cross: 10x op tel, dan met de klok doordraaien
-    B  *situps*
- 1. AC Jab – R Lowkick: 10x op tel, dan met de klok doordraaien
+ 1. A Jab – Cross - Lever: 10x op tel, dan met de klok doordraaien: 3min
+    B  *pushups*
+ 1. A Jab – Cross - Lever - R Lowkick: 10x op tel, dan met de klok doordraaien: 3min
+    B  *pushups*
+
+ 1. AB *iedereen planken*: 1min
+ 1. AB *iedereen planken*: 1min
+
+ 1. A Jab – Cross - Lever - R Lowkick - L Roundhouse: 10x op tel, dan met de klok doordraaien: 3min
+    B  *pushups*
+ 1. A Jab – R Lowkick: 10x op tel, dan met de klok doordraaien
     B  *situps*
 
 # Legend
