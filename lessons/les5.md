@@ -7,19 +7,24 @@ Goeieavond allemaal, mijn naam is Kevin. Net als de jongen die normaal deze less
 Maar ik zou zeggen pak allemaal een zak, dan beginnen we rustig met een warming up.
 
  1. ABC `rustig instoten`. Probeer alle stoten uit. Maak ze lang, maar zeker niet hard
- 1. ABC `heupen los: half rondje`
- 1. *squads: 10*
- 1. *springende squads: 10*
- 1. *lunges vooruit: 10*
- 1. *lunges gesprongen: 10 (hoog springen, laag opvangen)*
- 1. `rust`
+ 1. ABC `heupen los`
+ 1. L Roundhouse: 5x opt tel
+ 1. ABC *squads: 10*
+ 1. ABC *springende squads: 10*
+ 1. ABC *lunges vooruit: 10*
+ 1. ABC *lunges gesprongen: 10 (hoog springen, laag opvangen)*
+ 1. ABC `rust`
 
 # 19.10 Techniek: 10min
 
 Dan beginnen we met de volgende techniek
 
- 1. AC Jab – R Lowkick: 1min
-    B  `Rust`
+ 1. AC Jab – Cross: 10x op tel, dan met de klok doordraaien: 5min
+    B  *situps*
+ 1. AC Jab – Cross: 10x op tel, dan met de klok doordraaien
+    B  *situps*
+ 1. AC Jab – R Lowkick: 10x op tel, dan met de klok doordraaien
+    B  *situps*
 
 # Legend
 
