@@ -1,8 +1,9 @@
 var http = require('http');
 var send = require('send');
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 4000;
 
 http.createServer(function(req, res) {
+  console.log(req.url)
   if (req.url === '/') {
     res.writeHead(301, {'Location': '/index.html'});
     res.end();

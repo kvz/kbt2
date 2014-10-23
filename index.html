@@ -72,7 +72,7 @@
 
           // Invoke methods like this
           stopwatch.bind();
-          stopwatch.loadLesson('les4');
+          stopwatch.loadLesson('les5');
 
           // Main
           if ('mozLockOrientation' in screen) {
@@ -84,7 +84,7 @@
             }
           }
 
-          window.addEventListener("focus", function(event) { 
+          window.addEventListener("focus", function(event) {
             if ('mozLockOrientation' in screen) {
               var portraitLock = screen.mozLockOrientation('portrait-primary');
               if (portraitLock) {
@@ -93,7 +93,7 @@
             }
           }, false);
 
-        })(); 
+        })();
     </script>
 </body>
 </html>
