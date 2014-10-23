@@ -108,11 +108,6 @@ reverse crunch   = http://www.youtube.com/watch?v=WlTvnfOr6_Q
  - http://www.builtlean.com/2011/03/02/push-up-variations-exercise/ - 10 different pushups
 
 
-
-
-
-
-
 Losstoten en bewegen: 5min
 
  1. Links rechts losstoten (om en om) (en bewegen): 1min
@@ -127,3 +122,9 @@ Trio setje: 20min
  1. (3) Jab – Cross – L Hoek – R Highkick: 4min
  1. 1+2+3 – 1min langzaam + 3min vol, each: 8min
  1. burpies. dames mogen op de knieen: 10: 1min
+
+
+# Bokszak Winnaars
+
+ - 1 minuutje Alles Geven! 20s rustig stoten. 10s hard. 20 rustig 10 hard. 3 rondjes max. iedereen tegelijk op de zak
+ - Simpel en hard
