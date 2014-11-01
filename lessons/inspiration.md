@@ -80,14 +80,18 @@
  - pushup wides: 10
  - pushup mijn tel hoog, laag: 10
  - pushup langzaam: 10
+ - plank, spiderman
+ - planken, vuisten, wisselen, 1 arm omhoog
+ 
  - crunches elkaars handen aantikken
  - in elkaar haken & aantikken
  - elkaars benen naar de grond duwen
+
  - tik over & onder je kuiten
- - planken, vuisten, wisselen, 1 arm omhoog
- - plank, spiderman
- - fietsen
+ - linkerhand-rechtervoet, andersom, beiden tegelijk
+ - schouders van de grond, hielen aantikken
  - benen 10cm van de grond
+ - fietsen
  - scharen
 
 # Spel
