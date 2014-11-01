@@ -128,3 +128,11 @@ Trio setje: 20min
 
  - 1 minuutje Alles Geven! 20s rustig stoten. 10s hard. 20 rustig 10 hard. 3 rondjes max. iedereen tegelijk op de zak
  - Simpel en hard
+ - Don: beginnen met 2 rondjes freestylen. 2 minuten. 30s rust.
+ - Don: 3 minuten lang: A 3x oefening op zak, ander vasthouden. Dan wisselen. AB 20 situps met uitstoot op eigen tel. Wie klaar is kan even uitrusten. Oefiningen opbouwen:
+  - Jab - Cross - L Hoek
+  - Jab - Cross - L Hoek - R Outside Knee
+  - Jab - Cross - L Hoek - R Outside Knee - L afstand houden - R Roundhouse
+ - Don: 1-2-3-4-5-6-7-8-9-10..10 tellen uitrusten..9-8-7-6-5-4-3-2-1: Jab - R Lowkick
+ - Don: A 20 situps, B Freestylen. 3 minuten.
+ - Don: 
