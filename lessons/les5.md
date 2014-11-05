@@ -7,6 +7,7 @@ Goeieavond allemaal, mijn naam is Kevin. Net als de jongen die normaal deze less
 Maar ik zou zeggen pak allemaal een zak, dan beginnen we rustig met een warming up.
 
  1. ABC `rustig instoten`. Probeer alle stoten uit. Maak ze lang, maar zeker niet hard
+
  1. ABC `heupen los`
  1. AC Roundhouse: 5x opt tel  
     B `zak vasthouden`

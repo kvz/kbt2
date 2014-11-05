@@ -135,7 +135,7 @@ Trio setje: 20min
  - Jamal: 20s burpie-180. 10s rust. 20s rugliggen,opstaan,springen. 10s rust. 20s zak: Jab - R Hoek - L Hoek - R Lowkick - 30srust of wissel.
  - Jamal: ^-- Lunges, Spring Lunges, Spring Squat: R Hoek - L Hoek - R Lowkick - L Roundhouse
  - Don: beginnen met 2 rondjes freestylen. 2 minuten. 30s rust.
- - Don: 3 minuten lang: A 3x oefening op zak, ander vasthouden. Dan wisselen. AB 20 situps met uitstoot op eigen tel. Wie klaar is kan even uitrusten. Oefiningen opbouwen:
+ - Don: 3 minuten lang: AC 3x oefening op zak, B vasthouden. Dan wisselen. 20 situps met uitstoot op eigen tel. Wie klaar is kan even uitrusten. Oefiningen opbouwen:
   - Jab - Cross - L Hoek
   - Jab - Cross - L Hoek - R Outside Knee
   - Jab - Cross - L Hoek - R Outside Knee - L afstand houden - R Roundhouse
