@@ -243,7 +243,7 @@ section[role="region"] > header:first-child > a .icon {
   position: static;
   height: 4.9rem;
   margin: 0;
-  width: 2rem;
+  width: 1.6rem;
 }
 
 section[role="region"] > header:first-child > button .icon:after,
@@ -253,7 +253,7 @@ section[role="region"] > header:first-child > a .icon:after {
   left: 0;
   top: 0;
   z-index: -1;
-  width: 2rem;
+  width: 1.6rem;
   height: 4.9rem;
   background: #9d3d26 url(../images/headers/ui/negative.png) repeat-x 0 0;
 }
