@@ -80,14 +80,18 @@
  - pushup wides: 10
  - pushup mijn tel hoog, laag: 10
  - pushup langzaam: 10
+ - plank, spiderman
+ - planken, vuisten, wisselen, 1 arm omhoog
+ 
  - crunches elkaars handen aantikken
  - in elkaar haken & aantikken
  - elkaars benen naar de grond duwen
+
  - tik over & onder je kuiten
- - planken, vuisten, wisselen, 1 arm omhoog
- - plank, spiderman
- - fietsen
+ - linkerhand-rechtervoet, andersom, beiden tegelijk
+ - schouders van de grond, hielen aantikken
  - benen 10cm van de grond
+ - fietsen
  - scharen
 
 # Spel
@@ -130,3 +134,10 @@ Trio setje: 20min
  - Simpel en hard
  - Jamal: 20s burpie-180. 10s rust. 20s rugliggen,opstaan,springen. 10s rust. 20s zak: Jab - R Hoek - L Hoek - R Lowkick - 30srust of wissel.
  - Jamal: ^-- Lunges, Spring Lunges, Spring Squat: R Hoek - L Hoek - R Lowkick - L Roundhouse
+ - Don: beginnen met 2 rondjes freestylen. 2 minuten. 30s rust.
+ - Don: 3 minuten lang: A 3x oefening op zak, ander vasthouden. Dan wisselen. AB 20 situps met uitstoot op eigen tel. Wie klaar is kan even uitrusten. Oefiningen opbouwen:
+  - Jab - Cross - L Hoek
+  - Jab - Cross - L Hoek - R Outside Knee
+  - Jab - Cross - L Hoek - R Outside Knee - L afstand houden - R Roundhouse
+ - Don: 1-2-3-4-5-6-7-8-9-10..10 tellen uitrusten..9-8-7-6-5-4-3-2-1: Jab - R Lowkick
+ - Don: A 20 situps, B Freestylen. 3 minuten.
