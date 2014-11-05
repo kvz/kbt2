@@ -128,3 +128,5 @@ Trio setje: 20min
 
  - 1 minuutje Alles Geven! 20s rustig stoten. 10s hard. 20 rustig 10 hard. 3 rondjes max. iedereen tegelijk op de zak
  - Simpel en hard
+ - Jamal: 20s burpie-180. 10s rust. 20s rugliggen,opstaan,springen. 10s rust. 20s zak: Jab - R Hoek - L Hoek - R Lowkick - 30srust of wissel.
+ - Jamal: ^-- Lunges, Spring Lunges, Spring Squat: R Hoek - L Hoek - R Lowkick - L Roundhouse
