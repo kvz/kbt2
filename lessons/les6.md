@@ -13,13 +13,13 @@ Goedenavond allemaal, mijn naam is Kevin. Ik val in. Grootste jongens zakken oph
 
 # 19.10 Basis
 
- - Boksers: Jab - Cross - L Hoek - .. - L Hoek
- - Zelf wisselen nadat B klaar is
+Boksers: Jab - Cross - L Hoek - .. - L Hoek  
+Zelf wisselen nadat B klaar is
 
- 1. AC  Jab - Cross - L Hoek. 3min
+ 1. AC  Jab - Cross - L Hoek. 3min  
     B   *20 situps*
  1. ABC `Rust & uitleg`
- 1. AC  Jab - Cross - L Hoek - R Lowkick. 3min
+ 1. AC  Jab - Cross - L Hoek - R Lowkick. 3min  
     B   *20 situps*
  1. ABC `Rust & rekken`
 
@@ -33,8 +33,8 @@ Goedenavond allemaal, mijn naam is Kevin. Ik val in. Grootste jongens zakken oph
 Basis techniek van net doen we nu op tel, en dan bouwen we hem verder uit
 Altijd 2 kickboksers aan het werk op de zak.
 
- - Boksers: Jab - Cross - L Hoek - .. - L Hoek - Cross
- - Ik wissel. Mijn tel.
+Boksers: Jab - Cross - L Hoek - .. - L Hoek - Cross  
+Ik wissel. Mijn tel.  
 
  1. AC  Jab – Cross - L Hoek - R Lowkick: 10x op tel. 3min  
     B   *dubbel forward lunges op tel*
@@ -51,8 +51,8 @@ Altijd 2 kickboksers aan het werk op de zak.
 
 # Leegtrappen
 
- - Boksers: Jab - Jab - Cross - Slip - Cross
- - Ik wissel. Mijn tel
+Boksers: Jab - Jab - Cross - Slip - Cross
+Ik wissel. Mijn tel
 
  1. AC  R Roundhouse. 1-2-3-4-5-4-3-2-1x op tel. 3min  
     B   `rust`
@@ -61,11 +61,11 @@ Altijd 2 kickboksers aan het werk op de zak.
 
 # Bonus
 
- - Boksers: Cross - .. - Cross - Lever - Cross
- - Zelf wisselen nadat AC klaar zijn
+Boksers: Cross - .. - Cross - Lever - L Hoek  
+Zelf wisselen nadat AC klaar zijn. B Rust als er tijd over is
 
- 1. AC  Jab - Cross - Lever - R Highkick. 3x
-    B   *10x grond aantikken, springen* klaar? `rusten`
+ 1. AC  Jab - Cross - Lever - R Highkick. 3x  
+    B   *10x grond aantikken, springen*
  1. ABC `iedereen rust`
 
 # 19.45 Alles geven
