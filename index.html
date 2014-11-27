@@ -63,9 +63,9 @@
             "milliStep": 500,
             "fadeFactor": 0.6,
             "elements": {
-                "body": document.querySelector('body'),
-                "counter": document.querySelector('button.counter'),
-                "lesson": document.querySelector('#lesson'),
+                "body"     : document.querySelector('body'),
+                "counter"  : document.querySelector('button.counter'),
+                "lesson"   : document.querySelector('#lesson'),
                 "intervals": document.querySelectorAll('button.interval'),
             }
           });
@@ -80,7 +80,7 @@
             if (portraitLock) {
               console.log('locked to portrait');
             } else {
-              alert('Unable to lock orientation');
+              console.error('Unable to lock orientation');
             }
           }
 
