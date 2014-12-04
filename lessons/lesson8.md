@@ -1,4 +1,4 @@
-les8.1 (kb & b)
+les8.2 (kb & b)
 
 # Warming up
 
@@ -46,26 +46,29 @@ Aantal | Oefening
 
 # Techniek
 
- G | Fase 1 | Fase 2 | Fase 3
+  G  | Fase 1 | Fase 2 | Fase 3
 :---:| :----- |:------ |:------
-B | Jab rUppercut lHoek Cross | |
-B | Jab Cross lHoek | .. lHoek | Cross lHoek
-B | Jab Cross | .. Cross | lHoek rHoek Lever
-K | Cross Lever rLowkick | |
-K | Jab Cross Lever | rHighkick | |
-K | Jab Cross lHoek | rLowkick | Lroundhouse
-K | Jab Cross Lever | rHighkick | |
+  *  | Jab rUppercut lHoek Cross | |
+  B  | Jab Cross rSlip+Lever rOverhand | |
+  B  | Jab Cross lHoek | Fade lHoek | Cross lHoek
+  B  | Jab Cross rSlip Cross | lHoek lShift lHoek | Cross
+  B  | Jab Cross | Fade Cross | lHoek rHoek Lever
+  K  | Cross Lever rLowkick | |
+  K  | rKnee Cross | lHoek | rLowkick
+  K  | Jab Plexus Fade | Cross Lever | rLowkick
+  K  | Jab Cross lHoek | rLowkick | lRoundhouse
+  K  | Jab Cross Lever | rHighkick | |
 
 # Aanzetten
 
- Oefening | Uitleg
-:-------- |:------
-alles geven | 1min. 20s `rustig`. 10s *hard*. 20s `rustig`. 20s *hard*
-Jab Cross | 50x. B telt
-Jab Jab Cross | 1x tot 5x en terug. AC werk. B rust.
-lHoek rHoek Lever | 1x tot 5x en terug. AC werk. B rust.
-Jab rLowkick | 1x tot 5x en terug. AC werk. B rust.
-rRoundhouse | 1x tot 5x en terug. AC werk. B rust.
+  G  |  Oefening | Uitleg
+:---:| :-------- |:------
+  *  | alles geven | 1min. 20s `rustig`. 10s *hard*. 20s `rustig`. 20s *hard*
+  *  | Jab Cross | 50x. B telt
+  *  | Jab Jab Cross | 1x tot 5x en terug. AC werk. B rust.
+  B  | lHoek rHoek Lever | 1x tot 5x en terug. AC werk. B rust.
+  K  | Jab rLowkick | 1x tot 5x en terug. AC werk. B rust.
+  K  | rRoundhouse | 1x tot 5x en terug. AC werk. B rust.
 
 # Niet vergeten
 
@@ -103,4 +106,6 @@ Opties voor B: rust, zak vasthouden, grond werken.
  1. *power / intense*
  1. `stretch / relax`
 
+# More
 
+https://en.wikipedia.org/wiki/Boxing#Defense :)
