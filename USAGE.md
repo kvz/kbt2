@@ -4,3 +4,4 @@
  - Add it to the lesson switcher menu in `index.html`
  - Run `make start` to test it
  - Run `make publish` to publish
+
