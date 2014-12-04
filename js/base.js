@@ -1,13 +1,14 @@
+var installationInstructions = document.querySelector("#installation-instructions");
+if (installationInstructions) {
+    installationInstructions.style.display = "none";
+}
+
 // Install app
 if (navigator.mozApps) {
     var checkIfInstalled = navigator.mozApps.getSelf();
     checkIfInstalled.onsuccess = function () {
         if (checkIfInstalled.result) {
             // Already installed
-            var installationInstructions = document.querySelector("#installation-instructions");
-            if (installationInstructions) {
-                installationInstructions.style.display = "none";
-            }
         }
         else {
             var install = document.querySelector("#install"),
@@ -26,6 +27,7 @@ if (navigator.mozApps) {
     };
 }
 else {
+    installationInstructions.style.display = "none";
     console.log("Open Web Apps not supported");
 }
 

@@ -185,12 +185,22 @@ Stopwatch.prototype.cancelAlarm = function() {
   }
 };
 
-Stopwatch.prototype.loadLesson = function (lesson) {
+Stopwatch.prototype.loadConfig = function (cb) {
+  var self    = this;
+  var oReq    = new XMLHttpRequest();
+  oReq.onload = function () {
+    cb(null, JSON.parse(this.responseText));
+  };
+  oReq.open('GET', '/config.json', true);
+  oReq.send();
+}
+
+Stopwatch.prototype.loadMarkdown = function (url) {
   var self    = this;
   var oReq    = new XMLHttpRequest();
   oReq.onload = function () {
     self.elements['lesson'].innerHTML = markdown.toHTML(this.responseText);
   };
-  oReq.open('GET', '/lessons/' + lesson + '.md', true);
+  oReq.open('GET', url, true);
   oReq.send();
 };

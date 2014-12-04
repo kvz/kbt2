@@ -72,7 +72,9 @@
 
           // Invoke methods like this
           stopwatch.bind();
-          stopwatch.loadLesson('lesson8');
+          stopwatch.loadConfig(function(err, config) {
+            stopwatch.loadMarkdown(config.markdown_index);
+          });
 
           // Main
           if ('mozLockOrientation' in screen) {
