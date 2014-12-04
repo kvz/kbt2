@@ -1,5 +1,40 @@
 les8 (kb & b)
 
+# Warming up
+
+Oefening | Aantal | Wissel
+:--- | :---: | ---:
+`instoten` | `eigen tempo` |
+`heupen los` | 30s |
+`alles los` | 30s |
+*squats* | 10x |
+*jump squats* | 10x |
+
+# Rekken
+
+Oefening | Aantal | Wissel
+:--- | :---: | ---:
+`eleboog vastpakken` | `eigen tempo` |
+
+
+# Techniek
+
+
+Oefening | Aantal | Wissel
+--- | --- | ---
+`instoten` | `renders` |
+
+# Hartslag omhoog
+
+Oefening | Aantal | Wissel
+--- | --- | ---
+`instoten` | `renders` |
+
+
+
+# Powering down
+
+
 # 19.00 Warming up: 10min
 
 (kick)Boksers op de mat, grootste jongens even de zakken ophangen
