@@ -1,9 +1,12 @@
 SHELL := /usr/bin/env bash
 
+install:
+	npm install
+
 start: update
 	node server.js
 
-update:
+update: install
 	./scripts/manifest.sh > ./manifest.appcache
 
 publish: update
@@ -14,6 +17,7 @@ publish: update
 	git push
 
 .PHONY: \
+	install \
 	update \
 	publish \
 	start \
