@@ -37,11 +37,11 @@ Aantal | Oefening
 10x    | *opdrukken, 1 arm opgooien*
 10x    | *opdrukken, 1 tel hoog, 1 laag*
 3x10s  | `op knieen, handen plat: voor, links, rechts`
-20x    | *cruch & uitstoot*
-10x    | *cruch & uitstoot, langzaam op techniek*
-2x10x  | *cruch, hand plat, kruislings voet+hand aantikken*
-10x    | *cruch, alles plat, voeten+handen aantikken*
-25x    | *cruch, enkels aantikken*
+20x    | *crunch & uitstoot*
+10x    | *crunch & uitstoot, langzaam op techniek*
+2x10x  | *crunch, hand plat, kruislings voet+hand aantikken*
+10x    | *crunch, alles plat, voeten+handen aantikken*
+25x    | *crunch, enkels aantikken*
 10s    | `plat, uitrekken`
 
 # Techniek
@@ -50,7 +50,7 @@ Aantal | Oefening
 :---:| :----- |:------ |:------
   *  | Jab rUppercut lHoek Cross | |
   B  | Jab Cross rSlip+Lever rOverhand | |
-  B  | Jab Cross lHoek | Fade lHoek | Cross lHoek
+  B  | Jab Cross lHoek | .. lHoek | Cross lHoek
   B  | Jab Cross rSlip Cross | lHoek lShift lHoek | Cross
   B  | Jab Cross | Fade Cross | lHoek rHoek Lever
   K  | Cross Lever rLowkick | |
