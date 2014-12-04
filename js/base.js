@@ -8,9 +8,11 @@ if (navigator.mozApps) {
     var checkIfInstalled = navigator.mozApps.getSelf();
     checkIfInstalled.onsuccess = function () {
         if (checkIfInstalled.result) {
-            // Already installed
-        }
-        else {
+            // Already installed, try update
+            console.log("Checking for update");
+            checkIfInstalled.checkForUpdate();
+        } else {
+            // Install
             var install = document.querySelector("#install"),
                 manifestURL = location.href.substring(0, location.href.lastIndexOf("/")) + "/manifest.webapp";
             install.className = "show-install";
