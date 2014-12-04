@@ -1,4 +1,5 @@
 les4
+
 # 20.30 Warming up: 20min
 
 Ok we beginnen met een looppas!
@@ -33,7 +34,7 @@ Trappen
  1. L Afhouders: 15
  1. R Afhouders: 15
  1. L Knie - L Roundhouse: 10
- 1. R Knie - R Roundhouse: 10 
+ 1. R Knie - R Roundhouse: 10
 
 # 20.50 Trapkussens: 15min
 
@@ -66,7 +67,7 @@ Stoten: 5min
  1. Jab - Jab(zacht) - R Uppercut - L Hoek - Cross(explosief). ritme 1-2-123: 2min
  1. *Jab - Cross 2-4-6-8-10-8-6-4-2. tel voor de ander. zelf wisselen: 1min*
  1. *L Uppercut - R Uppercut 2-4-6-8-10-8-6-4-2. tel voor de ander. zelf wisselen: 1min*
- 
+
 ## Rek-intermezzo: 5min
 
  1. `benen wijd, voor/achter met je handen: 1min`
@@ -114,7 +115,7 @@ Alle spullen mogen uit
 
 # Aandachtspunten
 
- 1. zit ze op de hielen. lange oefeningen opsplitsen en afwisselen met explosief geweld. 
+ 1. zit ze op de hielen. lange oefeningen opsplitsen en afwisselen met explosief geweld.
  1. 5 dingen in 1 combo is te veel. opbreken.
  1. JA: Blokken
 

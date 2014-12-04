@@ -1,4 +1,5 @@
 les3
+
 # 20.30 Warming up – 20min
 
 Ok we beginnen met een looppas!
@@ -31,7 +32,7 @@ Trappen
  1. L Afhouders: 15
  1. R Afhouders: 15
  1. L Knie - L Roundhouse: 10
- 1. R Knie - R Roundhouse: 10 
+ 1. R Knie - R Roundhouse: 10
 
 # 20.50 Trapkussens - 15min
 
@@ -64,7 +65,7 @@ Doubleslip (FR): 6min
  1. *lunges: 16*
  1. Jab - Cross - R Slip - (Jab) - L Slip - (Cross) - L Hoek - Cross - L Roundhouse - Cross: 3min
  1. *springen.. knieen in de lucht: 10*
- 
+
 ## Rek-intermezzo
 
  1. `benen wijd, voor/achter met je handen: 1min`
@@ -107,11 +108,11 @@ Alle spullen mogen uit
  1. `neus in.. mond uit..`
  1. `adem vanuit je buik`
  1. `neus in.. mond uit..`
- 1. Ok jongens lekker gewerkt. Bedankt voor jullie aandacht! 
+ 1. Ok jongens lekker gewerkt. Bedankt voor jullie aandacht!
 
 # Aandachtspunten
 
- 1. zit ze op de hielen. lange oefeningen opsplitsen en afwisselen met explosief geweld. 
+ 1. zit ze op de hielen. lange oefeningen opsplitsen en afwisselen met explosief geweld.
  1. 5 dingen in 1 combo is te veel. opbreken.
  1. JA: Blokken
 

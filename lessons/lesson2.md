@@ -1,4 +1,5 @@
 les2
+
 # 20.30 Warming up – 20min
 
 Ok we beginnen met een looppas!
@@ -32,7 +33,7 @@ Trappen
  1. L Afhouders: 15
  1. R Afhouders: 15
  1. L Knie - L Roundhouse: 10
- 1. R Knie - R Roundhouse: 10 
+ 1. R Knie - R Roundhouse: 10
 
 # 20.50 Trapkussens - 10min
 
@@ -66,7 +67,7 @@ Onderdoor Duiken (FR): 10min
  1. benen stukje terug, naar je knie met je neus: Links/Rechts: 30sec
  1. omhoog. linkerbeen schoppen en rechterhand aanraken, andersom. steeds hoger: 15 links/15 rechts
  1. Been op elkaars schouders: 5sec op de max vasthouden, alle benen wisselen
- 1. om en om: low, round, high: 2min 
+ 1. om en om: low, round, high: 2min
 
 Trap vangen en counteren: 7min
 
@@ -114,11 +115,11 @@ Alle spullen mogen uit
  1. en dan gaan we die hartslag omlaag brengen
  1. adem vanuit je buik
  1. neus in.. mond uit. neus in.. mond uit.
- 1. Ok jongens lekker gewerkt. Bedankt voor jullie aandacht! 
+ 1. Ok jongens lekker gewerkt. Bedankt voor jullie aandacht!
 
 # Aandachtspunten
 
- 1. niet bij de structuur van de les betrekken, alleen maar doen. ze moeten niet meedenken. ze moeten ondergaan. 
+ 1. niet bij de structuur van de les betrekken, alleen maar doen. ze moeten niet meedenken. ze moeten ondergaan.
  1. niet schaduwboksen
 
 # Theorie

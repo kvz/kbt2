@@ -9,9 +9,9 @@ Maar ik zou zeggen pak allemaal een zak, dan beginnen we rustig met een warming 
  1. ABC `rustig instoten`. Probeer alle stoten uit. Maak ze lang, maar zeker niet hard
 
  1. ABC `heupen los`
- 1. AC Roundhouse: 5x opt tel  
+ 1. AC Roundhouse: 5x opt tel
     B `zak vasthouden`
- 1. AC L Roundhouse: 5x opt tel  
+ 1. AC L Roundhouse: 5x opt tel
     B `zak vasthouden`
  1. ABC *squads: 10*
  1. ABC *jump squads: 10*
@@ -25,11 +25,11 @@ Dan beginnen we met een basis techniek, en die breiden we langzaam uit
 
 Als je met z'n drieen bent, zijn er altijd 2 personen aan het werk op de zak.
 
- 1. AC Jab – Cross: 10x op tel, dann met de klok doordraaien: 3min  
+ 1. AC Jab – Cross: 10x op tel, dann met de klok doordraaien: 3min
     B *situps*
- 1. AC Jab – Cross - Lever: 10x op tel, wisselen: 3min  
+ 1. AC Jab – Cross - Lever: 10x op tel, wisselen: 3min
     B *pushups*
- 1. AC Jab – Cross - Lever - R Lowkick: 5x op tel, wisselen: 3min  
+ 1. AC Jab – Cross - Lever - R Lowkick: 5x op tel, wisselen: 3min
     B *squats*
 
 Wakkerschudden
@@ -41,23 +41,23 @@ Wakkerschudden
 
 Techniek Afmaken
 
- 1. AC Jab – Cross - Lever - R Lowkick - L Roundhouse: 5x op tel, wisselen: 5min  
+ 1. AC Jab – Cross - Lever - R Lowkick - L Roundhouse: 5x op tel, wisselen: 5min
    B  *pushups*
  1. ABC `iedereen rust`
 
 Leegtrappen (bij boksen is het Jab - Cross)
 
- 1. AC L Roundhouse: kickboxer1. 1-2-3-4-5-4-3-2-1x op tel, wisselen: 3min  
+ 1. AC L Roundhouse: kickboxer1. 1-2-3-4-5-4-3-2-1x op tel, wisselen: 3min
     B  *situps met uitstoten*
- 1. AC R Roundhouse: kickboxer1. 1-2-3-4-5-4-3-2-1: 3min  
+ 1. AC R Roundhouse: kickboxer1. 1-2-3-4-5-4-3-2-1: 3min
     B  *fietsen*
 
 Freestylen
 
- 1. A *freestylen*: 3min  
+ 1. A *freestylen*: 3min
     BC `rust`
  1. ABC `iedereen rust`: 1min
- 1. A *freestylen*: 3min  
+ 1. A *freestylen*: 3min
     BC `rust`
 
 Warming down

@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Version 1.1417702105
+# Version 1.1417703115
 
 config.json
 css/base.css
@@ -18,7 +18,7 @@ images/toolbars/icons/update.png
 images/toolbars/ui/background.png
 index.html
 js/base.js
-js/markdown.js
+js/marked.js
 js/offline.js
 js/stopwatch.js
 lessons/inspiration.md

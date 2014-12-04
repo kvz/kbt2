@@ -1,12 +1,10 @@
-les8(kb & b) BLABLA HOI HOI
-
-DAG
+les8 (kb & b)
 
 # 19.00 Warming up: 10min
 
-(kick)Boksers op de mat, grootste jongens even de zakken ophangen  
-Alle spullen mogen aan  
-Goedenavond allemaal. Leuk dat jullie er zijn.  
+(kick)Boksers op de mat, grootste jongens even de zakken ophangen
+Alle spullen mogen aan
+Goedenavond allemaal. Leuk dat jullie er zijn.
 
  1. ABC `rustig instoten eigen tempo`. Maak ze lang, maar zeker niet hard
  1. ABC `heupen los`
@@ -17,16 +15,16 @@ Goedenavond allemaal. Leuk dat jullie er zijn.
 
 # 19.10 Basis-Techniek 1/2
 
-Boksers: Jab - Cross - L Hoek - .. - L Hoek - Cross  
-Ik tel tot 10 en wissel 1x. Dan volgende techniek. Max 1 op de grond.  
+Boksers: Jab - Cross - L Hoek - .. - L Hoek - Cross
+Ik tel tot 10 en wissel 1x. Dan volgende techniek. Max 1 op de grond.
 
- 1. AC  Jab - Cross  
+ 1. AC  Jab - Cross
     B   *forward lunges op tel. 1 tel = 1 been*
  1. ABC `Rust. Uitleg`
- 1. AC  Jab - Cross - L Hoek  
+ 1. AC  Jab - Cross - L Hoek
     B   *backward lunges op tel. 1 tel = 1 been*
  1. ABC `Rust. Uitleg`
- 1. AC  Jab - Cross - L Hoek - R Lowkick  
+ 1. AC  Jab - Cross - L Hoek - R Lowkick
     B   *opdrukken op tel. 1 tel hoog, 1 tel laag*
  1. ABC `Benen Rekken. Voorlig steun. Linkervoet bij linkerhand. Rechterknie zakken. viceversa.`
 
@@ -37,13 +35,13 @@ Ik tel tot 10 en wissel 1x. Dan volgende techniek. Max 1 op de grond.
 
 # Basis-Techniek 2/2
 
-Terug naar dezelfde techniek om hem er goed in te krijgen.  
-Zelf wisselen als B klaar is. 3 minuten.  
+Terug naar dezelfde techniek om hem er goed in te krijgen.
+Zelf wisselen als B klaar is. 3 minuten.
 
- 1. AC  Jab – Cross - L Hoek - R Lowkick.  
+ 1. AC  Jab – Cross - L Hoek - R Lowkick.
     B   *20 situps +uitstoot*
  1. ABC *allemaal planken*. 1min
- 1. AC  Jab – Cross - L Hoek - R Lowkick - L Roundhouse.  
+ 1. AC  Jab – Cross - L Hoek - R Lowkick - L Roundhouse.
     B   *20 situps +uitstoot*
 
 # Wakkerschudden
@@ -55,34 +53,34 @@ Zelf wisselen als B klaar is. 3 minuten.
 
 # Leeglopen naar 8
 
-Boksers: Jab - Jab - Cross  
-1-2-3-4-5-6-7-8-`10s rust`-7-6-5-4-3-2-1x op tel.  
+Boksers: Jab - Jab - Cross
+1-2-3-4-5-6-7-8-`10s rust`-7-6-5-4-3-2-1x op tel.
 
- 1. AC  Jab - R Lowkick.  
+ 1. AC  Jab - R Lowkick.
     B   `Rust. Zak vast`
 
 # Techniek: Waar is m'n hand
 
-Eerst zelf oefenen eigen tempo. 3min  
-Daarna: Ik tel tot 10.  
+Eerst zelf oefenen eigen tempo. 3min
+Daarna: Ik tel tot 10.
 
  1. ABC Jab - R Uppercut - L Hoek - Cross
  1. ABC `Rekken`
 
 # Leeglopen naar 5
 
-Boksers: R Hoek - Lever - Milt  
-1-2-3-4-5-4-3-2-1x op tel.  
+Boksers: R Hoek - Lever - Milt
+1-2-3-4-5-4-3-2-1x op tel.
 
- 1. AC  R Roundhouse.  
+ 1. AC  R Roundhouse.
     B   `Rust. Zak vast`
 
 # Techniek: Higkick
 
-Boksers: Cross - .. - Cross - L Hoek - R Hoek - Lever  
-Zelf wisselen als AC klaar zijn. 3 minuten  
+Boksers: Cross - .. - Cross - L Hoek - R Hoek - Lever
+Zelf wisselen als AC klaar zijn. 3 minuten
 
- 1. AC  Jab - Cross - Lever - R Highkick  
+ 1. AC  Jab - Cross - Lever - R Highkick
     B   *burpies. 10x*. `Rust`
  1. ABC `Rust`
 

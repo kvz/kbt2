@@ -199,7 +199,18 @@ Stopwatch.prototype.loadMarkdown = function (url) {
   var self    = this;
   var oReq    = new XMLHttpRequest();
   oReq.onload = function () {
-    self.elements['lesson'].innerHTML = markdown.toHTML(this.responseText);
+    marked.setOptions({
+      renderer: new marked.Renderer(),
+      gfm: true,
+      tables: true,
+      breaks: true,
+      pedantic: false,
+      sanitize: true,
+      smartLists: true,
+      smartypants: false
+    });
+
+    self.elements['lesson'].innerHTML = marked(this.responseText);
   };
   oReq.open('GET', url, true);
   oReq.send();

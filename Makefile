@@ -5,6 +5,7 @@ help:
 
 install: help
 	npm install
+	cp node_modules/marked/lib/marked.js ./js/
 
 start: update
 	node server.js

@@ -13,13 +13,13 @@ Goedenavond allemaal, mijn naam is Kevin. Ik val in. Grootste jongens zakken oph
 
 # 19.10 Basis
 
-Boksers bouwen op naar: Jab - Cross - L Hoek - .. - L Hoek  
-Ik wissel. Mijn tel.  
+Boksers bouwen op naar: Jab - Cross - L Hoek - .. - L Hoek
+Ik wissel. Mijn tel.
 
- 1. AC  Jab - Cross - L Hoek. 10x op tel. 3 rondjes  
+ 1. AC  Jab - Cross - L Hoek. 10x op tel. 3 rondjes
     B   *forward lunges op tel. 1 tel = 2 benen*
  1. ABC `Rust. Uitleg`
- 1. AC  Jab - Cross - L Hoek - R Lowkick. 10x op tel. 3 rondjes  
+ 1. AC  Jab - Cross - L Hoek - R Lowkick. 10x op tel. 3 rondjes
     B   *opdrukken op tel. hoog = 1 tel, laag = 1 tel*
  1. ABC `Rust. Rekken`
 
@@ -33,12 +33,12 @@ Ik wissel. Mijn tel.
 Zelfde techniek oefenen maar nu zelf wisselen na 20 situps.
 Na 3 minuten bouwen we hem wat uit.
 
-Boksers bouwen op naar: Jab - Cross - L Hoek - .. - L Hoek - Cross  
+Boksers bouwen op naar: Jab - Cross - L Hoek - .. - L Hoek - Cross
 
- 1. AC  Jab – Cross - L Hoek - R Lowkick.  
+ 1. AC  Jab – Cross - L Hoek - R Lowkick.
     B   *20 situps*
  1. ABC *iedereen planken*: 1min
- 1. AC  Jab – Cross - L Hoek - R Lowkick - L Roundhouse.  
+ 1. AC  Jab – Cross - L Hoek - R Lowkick - L Roundhouse.
     B   *20 situps*
 
 # Wakkerschudden
@@ -53,17 +53,17 @@ Boksers bouwen op naar: Jab - Cross - L Hoek - .. - L Hoek - Cross
 Boksers bouwen op naar: Lever - Milt - L Hoek
 Ik wissel. Mijn tel
 
- 1. AC  R Roundhouse. 1-2-3-4-5-4-3-2-1x op tel.  
+ 1. AC  R Roundhouse. 1-2-3-4-5-4-3-2-1x op tel.
     B   `Rust. Zak vast`
- 1. B   R Roundhouse. 1-2-3-4-5-4-3-2-1x op tel.  
+ 1. B   R Roundhouse. 1-2-3-4-5-4-3-2-1x op tel.
     AC  `Rust. Zak vast`
 
 # Bonus
 
-Boksers bouwen op naar: Cross - .. - Cross - Lever - L Hoek  
+Boksers bouwen op naar: Cross - .. - Cross - Lever - L Hoek
 Zelf wisselen nadat AC klaar zijn. B Rust als er tijd over is
 
- 1. AC  Jab - Cross - Lever - R Highkick. 3x  
+ 1. AC  Jab - Cross - Lever - R Highkick. 3x
     B   *10x grond aantikken, springen*
  1. ABC `iedereen rust`
 
