@@ -1,4 +1,4 @@
-les8 (kb & b)
+les8.1 (kb & b)
 
 # Warming up
 
@@ -27,10 +27,10 @@ Aantal | Oefening
 30s    | `benen wijd, voor, beneden, achter`
 2x10s  | `benen wijd, knieen opzoeken`
 2x10s  | `kleermakerszit, knieen uiteen drukken`
+10x    | *burpies*
 10x    | *burpies, rol naar achter*
 10x    | *springen, veren*
 10x    | *springen, continu*
-10x    | *burpies*
 10x    | *opdrukken*
 10x    | *opdrukken superman*
 10x    | *opdrukken diamond*
@@ -38,6 +38,7 @@ Aantal | Oefening
 10x    | *opdrukken, 1 tel hoog, 1 laag*
 3x10s  | `op knieen, handen plat: voor, links, rechts`
 20x    | *cruch & uitstoot*
+10x    | *cruch & uitstoot, langzaam op techniek*
 2x10x  | *cruch, hand plat, kruislings voet+hand aantikken*
 10x    | *cruch, alles plat, voeten+handen aantikken*
 25x    | *cruch, enkels aantikken*
@@ -45,25 +46,26 @@ Aantal | Oefening
 
 # Techniek
 
-Fase 1 | Fase 2 | Fase 3
-:----- |:------ |:------
-Jab, rUppercut, lHoek, Cross | |
-Jab, Cross, lHoek |.., lHoek | Cross, lHoek
-Jab, Cross, .., Cross | lHoek, rHoek | Lever
-Cross, Lever, rLowkick
-Jab, Cross, lHoek | rLowkick | Lroundhouse
-Jab, Cross, Lever | rHighkick | |
+ G | Fase 1 | Fase 2 | Fase 3
+:---:| :----- |:------ |:------
+B | Jab rUppercut lHoek Cross | |
+B | Jab Cross lHoek | .. lHoek | Cross lHoek
+B | Jab Cross | .. Cross | lHoek rHoek Lever
+K | Cross Lever rLowkick | |
+K | Jab Cross Lever | rHighkick | |
+K | Jab Cross lHoek | rLowkick | Lroundhouse
+K | Jab Cross Lever | rHighkick | |
 
 # Aanzetten
 
  Oefening | Uitleg
 :-------- |:------
-alles geven | 1min. 20s `rustig`, 10s *hard*, 20s `rustig`, 20s *hard*
-Jab, Cross | 50x. B telt
-Jab, Jab, Cross | 1x tot 5x en terug. AC werk, B rust.
-lHoek, rHoek, Lever | 1x tot 5x en terug. AC werk, B rust.
-Jab, rLowkick | 1x tot 5x en terug. AC werk, B rust.
-rRoundhouse | 1x tot 5x en terug. AC werk, B rust.
+alles geven | 1min. 20s `rustig`. 10s *hard*. 20s `rustig`. 20s *hard*
+Jab Cross | 50x. B telt
+Jab Jab Cross | 1x tot 5x en terug. AC werk. B rust.
+lHoek rHoek Lever | 1x tot 5x en terug. AC werk. B rust.
+Jab rLowkick | 1x tot 5x en terug. AC werk. B rust.
+rRoundhouse | 1x tot 5x en terug. AC werk. B rust.
 
 # Niet vergeten
 
@@ -85,8 +87,8 @@ Goed gewerkt. Bedankt voor jullie aandacht. Applaus voor jezelf. En leg de zakke
 
 Eerst zelf proberen
 
-  1. 3x op eigen tel, zelf meteen doordraaien. 1 tegelijk. 2min
-  1. 10x op mijn tel. ik draai door. AC tegelijk.
+  1. 3x op eigen tel. Zelf meteen doordraaien. 1 tegelijk. 2min
+  1. 10x op mijn tel. Ik draai door. AC tegelijk.
   2. AC op zak, B rust. Wissel als AC klaar is
   3. AC op zak, B op grond. Wissel als AC klaar is
   4. AC op zak, B op grond. Wissel als B klaar is
