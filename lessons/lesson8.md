@@ -1,4 +1,4 @@
-les7 (kb & b)
+les8(kb & b)
 
 # 19.00 Warming up: 10min
 
@@ -108,4 +108,5 @@ Goed gewerkt. Bedankt voor jullie aandacht. Applaus voor jezelf. En leg de zakke
  1. technique / normal
  1. *power / intense*
  1. `stretch / relax`
+
 
