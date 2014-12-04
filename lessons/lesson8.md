@@ -2,140 +2,101 @@ les8 (kb & b)
 
 # Warming up
 
-Oefening | Aantal | Wissel
-:--- | :---: | ---:
-`instoten` | `eigen tempo` |
-`heupen los` | 30s |
-`alles los` | 30s |
-*squats* | 10x |
-*jump squats* | 10x |
+Aantal | Oefening
+------:|:--------
+3min   | `instoten`
+30s    | `heupen los`
+30s    | `alles los`
+10x    | *squats*
+10x    | *jump squats*
+10x    | *front lunges*
+10x    | *back lunges*
+10x    | *jump lunges*
 
-# Rekken
+# Rekken / Poweren
 
-Oefening | Aantal | Wissel
-:--- | :---: | ---:
-`eleboog vastpakken` | `eigen tempo` |
+Aantal | Oefening
+------:|:--------
+30s    | *knieheffen & uitstoten*
+30s    | `adem`
+2x10s  | `eleboog vastpakken`
+2x10s  | `arm voorlangs`
+30s    | `knieen indraaien`
+2x10   | `benen omhoog gooien`
+10s    | `lang maken`
+30s    | `benen wijd, voor, beneden, achter`
+2x10s  | `benen wijd, knieen opzoeken`
+2x10s  | `kleermakerszit, knieen uiteen drukken`
+10x    | *burpies, rol naar achter*
+10x    | *springen, veren*
+10x    | *springen, continu*
+10x    | *burpies*
+10x    | *opdrukken*
+10x    | *opdrukken superman*
+10x    | *opdrukken diamond*
+10x    | *opdrukken, 1 arm opgooien*
+10x    | *opdrukken, 1 tel hoog, 1 laag*
+3x10s  | `op knieen, handen plat: voor, links, rechts`
+20x    | *cruch & uitstoot*
+2x10x  | *cruch, hand plat, kruislings voet+hand aantikken*
+10x    | *cruch, alles plat, voeten+handen aantikken*
+25x    | *cruch, enkels aantikken*
+10s    | `plat, uitrekken`
 
+# Boks Techniek
 
-# Techniek
+Fase 1 | Fase 2 | Fase 3
+:----- |:------ |:------
+Jab, Cross, lHoek | |
+Jab, Cross, lHoek |.., lHoek|, Cross
+Jab, rUppercut, lHoek, Cross | | Waar is m'n andere hand
+Cross, .., Cross, lHoek, rHoek, Lever | | Lever vrijmaken
 
+# Kickboks Techniek
 
-Oefening | Aantal | Wissel
---- | --- | ---
-`instoten` | `renders` |
+Fase 1 | Fase 2 | Fase 3
+:----- |:------ |:------
+Jab, Cross, lHoek |, rLowkick |, Lroundhouse
+Jab, Cross, Lever, rHighkick | | moeilijk/hoog
 
 # Hartslag omhoog
 
-Oefening | Aantal | Wissel
---- | --- | ---
-`instoten` | `renders` |
+ Oefening | Uitleg
+:-------- |:------
+Jab, Cross | 50x. B telt
+alles geven | 1min. 20s `rustig`, 10s *hard*, 20s `rustig`, 20s *hard*
+Jab, Jab, Cross | 1-2-3-4-5-6-7-8-`10s rust`-7-6-5-4-3-2-1x. AC werk, B rust.
+Jab, rLowkick | 1-2-3-4-5-6-7-8-`10s rust`-7-6-5-4-3-2-1x. AC werk, B rust.
+rRoundhouse | 1-2-3-4-5-4-3-2-1x. AC werk, B rust.
+lHoek, rHoek, Lever | 1-2-3-4-5-4-3-2-1x. AC werk, B rust.
 
-
-
-# Powering down
-
-
-# 19.00 Warming up: 10min
-
-(kick)Boksers op de mat, grootste jongens even de zakken ophangen
-Alle spullen mogen aan
-Goedenavond allemaal. Leuk dat jullie er zijn.
-
- 1. ABC `rustig instoten eigen tempo`. Maak ze lang, maar zeker niet hard
- 1. ABC `heupen los`
- 1. ABC `alles los`
- 1. ABC *squads. 10x*
- 1. ABC *jump squads. 10x*
- 1. ABC `Benen los. Rust. Uitleg`
-
-# 19.10 Basis-Techniek 1/2
-
-Boksers: Jab - Cross - L Hoek - .. - L Hoek - Cross
-Ik tel tot 10 en wissel 1x. Dan volgende techniek. Max 1 op de grond.
-
- 1. AC  Jab - Cross
-    B   *forward lunges op tel. 1 tel = 1 been*
- 1. ABC `Rust. Uitleg`
- 1. AC  Jab - Cross - L Hoek
-    B   *backward lunges op tel. 1 tel = 1 been*
- 1. ABC `Rust. Uitleg`
- 1. AC  Jab - Cross - L Hoek - R Lowkick
-    B   *opdrukken op tel. 1 tel hoog, 1 tel laag*
- 1. ABC `Benen Rekken. Voorlig steun. Linkervoet bij linkerhand. Rechterknie zakken. viceversa.`
-
-# Alles geven
-
- 1. ABC 1 minuutje Alles Geven! `20s rustig stoten`. *10s hard*. `20s rustig` *10s hard*
- 1. ABC `Rust. Adem. Uitleg`
-
-# Basis-Techniek 2/2
-
-Terug naar dezelfde techniek om hem er goed in te krijgen.
-Zelf wisselen als B klaar is. 3 minuten.
-
- 1. AC  Jab – Cross - L Hoek - R Lowkick.
-    B   *20 situps +uitstoot*
- 1. ABC *allemaal planken*. 1min
- 1. AC  Jab – Cross - L Hoek - R Lowkick - L Roundhouse.
-    B   *20 situps +uitstoot*
-
-# Wakkerschudden
-
- 1. ABC staan, veren op je voeten..
- 1. ABC *springen met pauze*. 10x
- 1. ABC *springen achter elkaar*. 10x
- 1. ABC `Rust. Rekken`
-
-# Leeglopen naar 8
-
-Boksers: Jab - Jab - Cross
-1-2-3-4-5-6-7-8-`10s rust`-7-6-5-4-3-2-1x op tel.
-
- 1. AC  Jab - R Lowkick.
-    B   `Rust. Zak vast`
-
-# Techniek: Waar is m'n hand
-
-Eerst zelf oefenen eigen tempo. 3min
-Daarna: Ik tel tot 10.
-
- 1. ABC Jab - R Uppercut - L Hoek - Cross
- 1. ABC `Rekken`
-
-# Leeglopen naar 5
-
-Boksers: R Hoek - Lever - Milt
-1-2-3-4-5-4-3-2-1x op tel.
-
- 1. AC  R Roundhouse.
-    B   `Rust. Zak vast`
-
-# Techniek: Higkick
-
-Boksers: Cross - .. - Cross - L Hoek - R Hoek - Lever
-Zelf wisselen als AC klaar zijn. 3 minuten
-
- 1. AC  Jab - Cross - Lever - R Highkick
-    B   *burpies. 10x*. `Rust`
- 1. ABC `Rust`
-
-# 19.45 Alles geven
-
- 1. ABC 1 minuutje Alles Geven! `20s rustig stoten`. *10s hard*. `20s rustig` *10s hard*. 2 rondjes
- 1. ABC `Rust`
-
-# 19.50 Power down
-
-Handschoenen uit
-
- 1. ABC *situps - plat linkerhand-rechtervoet, viceversa, beiden*. 3x10
- 1. ABC *situps - schouders van de grond, hielen aantikken*. 20x
- 1. ABC *situps - situps +uitstoot*. 20x
- 1. ABC *pushups - normaal. 10x*. `Rek op knieen`
- 1. ABC *pushups - wijd. 10x*. `Rek op knieen`
- 1. ABC *pushups - smal. 10x*. `Rek op knieen. Overeind.`
+# Niet vergeten
 
 Goed gewerkt. Bedankt voor jullie aandacht. Applaus voor jezelf. En leg de zakken nog even terug.
+
+# Schema
+
+ - spullen aan
+ - 10 minuten warming up
+ - Techniek
+ - Alles geven
+ - Techniek
+ - Alles geven
+ - "bal" overgooien (handschoenen)
+ - spullen uit
+ - 10 minuten power down
+
+# Wisselen
+
+Eerst zelf proberen
+
+  1. 10x op mijn tel
+  2. AC op zak, B rust. Wissel als AC klaar is
+  3. AC op zak, B op grond. Wissel als AC klaar is
+  4. AC op zak, B op grond. Wissel als B klaar is
+  5. Allemaal tegelijk op tijd
+
+Opties voor B: rust, zak vasthouden, grond werken.
 
 # Legend
 

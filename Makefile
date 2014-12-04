@@ -10,6 +10,9 @@ install: help
 start: update
 	node server.js
 
+watch:
+	watch $(MAKE) update
+
 update: install
 	./scripts/manifest.sh > ./manifest.appcache
 
@@ -24,5 +27,6 @@ publish: update
 	help \
 	install \
 	update \
+	watch \
 	publish \
 	start \
