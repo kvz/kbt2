@@ -1,7 +1,6 @@
 les8(kb & b) BLABLA HOI HOI
 
-
-DOEI 
+DAG
 
 # 19.00 Warming up: 10min
 
