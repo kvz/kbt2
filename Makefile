@@ -1,6 +1,9 @@
 SHELL := /usr/bin/env bash
 
-install:
+help:
+	cat USAGE.md
+
+install: help
 	npm install
 
 start: update
@@ -17,6 +20,7 @@ publish: update
 	git push
 
 .PHONY: \
+	help \
 	install \
 	update \
 	publish \
