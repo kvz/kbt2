@@ -1,24 +1,34 @@
 CACHE MANIFEST
-# Version 0.799
+# Version 1.1417697705
 
-lessons/lesson8.md
-lessons/lesson7.md
-lessons/lesson6.md
-lessons/lesson5.md
-lessons/lesson4.md
-lessons/lesson3.md
-lessons/lesson2.md
-lessons/lesson1.md
-index.html
 css/base.css
 css/buttons.css
 css/headers.css
 css/toolbars.css
 css/webapp.css
+fonts/moztt_light-webfont.woff
+fonts/moztt_medium-webfont.woff
+fonts/moztt_regular-webfont.woff
+images/headers/ui/dark/header.png
+images/headers/ui/dark/negative.png
+images/headers/ui/dark/separator.png
+images/headers/ui/dark/subheader.png
+images/toolbars/icons/update.png
+images/toolbars/ui/background.png
+index.html
 js/base.js
 js/markdown.js
-js/stopwatch.js
 js/offline.js
+js/stopwatch.js
+lessons/inspiration.md
+lessons/lesson1.md
+lessons/lesson2.md
+lessons/lesson3.md
+lessons/lesson4.md
+lessons/lesson5.md
+lessons/lesson6.md
+lessons/lesson7.md
+lessons/lesson8.md
 
 NETWORK:
 *
