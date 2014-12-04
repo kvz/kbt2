@@ -1,4 +1,7 @@
-les8(kb & b) BLABLA
+les8(kb & b) BLABLA HOI HOI
+
+
+DOEI 
 
 # 19.00 Warming up: 10min
 
