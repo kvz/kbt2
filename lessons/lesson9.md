@@ -2,39 +2,35 @@ les9.1 (kb & b)
 
 # Kickboksers
 
- Tijd | Oefening
-:----:|:--------
-  00  | spullen aan
-  01  | warming up: veren, springen, schaduw, armen draaien, (jump)squats(vast), lunges, knieen indraaien, alles los gooien
-  10  | techniek1: Jab Cross lHoek | rLowkick. 10x op mijn tel. B lunges
-  18  | allesgeven 1x
-  20  | rekken: ellebogen, lang maken, benen opgooien
-  22  | techniek2: rLowkick lHoek. 1 minuut zelf. 3 minuten wisselen als B klaar is met opdruk hand omhoog
-  26  | poweren: knieheffen, burpies, crunches
-  30  | aanzetten: rRoundhouse | 1x tot 5x en terug. AC werk. B rust
-  38  | techniek3: Jab Cross+rLowkick | .. Cross | lHoek rRoundhouse. na 10x zelf wisselen. B doet squats
-  48  | allesgeven 2x
-  51  | "bal" overgooien (handschoenen)
-  51  | spullen uit
-  52  | power down
+  - 00) spullen aan
+  - 01) warming up: veren, springen, schaduw, armen draaien, (jump)squats(vast), lunges, knieen indraaien, alles los gooien
+  - 10) techniek1: Jab Cross lHoek | rLowkick. 10x op mijn tel. B lunges
+  - 18) allesgeven 1x
+  - 20) rekken: ellebogen, lang maken, benen opgooien
+  - 22) techniek2: rLowkick lHoek. 1 minuut zelf. 3 minuten wisselen als B klaar is met opdruk hand omhoog
+  - 26) poweren: knieheffen, burpies, crunches
+  - 30) aanzetten: rRoundhouse | 1x tot 5x en terug. AC werk. B rust
+  - 38) techniek3: Jab Cross+rLowkick | .. Cross | lHoek rRoundhouse. na 10x zelf wisselen. B doet squats
+  - 48) allesgeven 2x
+  - 51) "bal" overgooien (handschoenen)
+  - 51) spullen uit
+  - 52) power down
 
 # Boksers
 
- Tijd | Oefening
-:----:|:--------
-  00  | spullen aan
-  01  | warming up: veren, springen, schaduw, armen draaien, (jump)squats(vast), lunges, opdrukken vasthouden, alles losgooien
-  10  | techniek1: Jab Cross lHoek | lHoek. 10x op mijn tel. B lunges
-  18  | allesgeven 1x
-  20  | rekken: ellebogen, lang maken, handen plat kruisen en achter gooien
-  22  | techniek2: Jab rUppercut lHoek Cross. 1 minuut zelf. 3 minuten wisselen als B klaar is met opdruk hand omhoog
-  26  | poweren: boksloop opstoot, burpies, crunches
-  30  | aanzetten: lHoek rHoek | 30x op snelheid. B telt
-  38  | techniek3: Jab Cross | rSlip Cross lHoek | .. lHoek Milt. na 10x zelf wisselen. B doet squats
-  48  | allesgeven 2x
-  51  | "bal" overgooien (handschoenen)
-  51  | spullen uit
-  52  | power down
+  - 00) spullen aan
+  - 01) warming up: veren, springen, schaduw, armen draaien, (jump)squats(vast), lunges, opdrukken vasthouden, alles losgooien
+  - 10) techniek1: Jab Cross lHoek | lHoek. 10x op mijn tel. B lunges
+  - 18) allesgeven 1x
+  - 20) rekken: ellebogen, lang maken, handen plat kruisen en achter gooien
+  - 22) techniek2: Jab rUppercut lHoek Cross. 1 minuut zelf. 3 minuten wisselen als B klaar is met opdruk hand omhoog
+  - 26) poweren: boksloop opstoot, burpies, crunches
+  - 30) aanzetten: lHoek rHoek | 30x op snelheid. B telt
+  - 38) techniek3: Jab Cross | rSlip Cross lHoek | .. lHoek Milt. na 10x zelf wisselen. B doet squats
+  - 48) allesgeven 2x
+  - 51) "bal" overgooien (handschoenen)
+  - 51) spullen uit
+  - 52) power down
 
 # Warming up
 
