@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Version 1.1418915167
+# Version 1.1418923069
 
 config.json
 css/base.css
@@ -30,6 +30,7 @@ lessons/lesson5.md
 lessons/lesson6.md
 lessons/lesson7.md
 lessons/lesson8.md
+lessons/lesson9.md
 
 NETWORK:
 *
