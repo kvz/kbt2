@@ -141,6 +141,7 @@ Trio setje: 20min
   - Jab - Cross - L Hoek - R Outside Knee - L afstand houden - R Roundhouse
  - Don: 1-2-3-4-5-6-7-8-9-10..10 tellen uitrusten..9-8-7-6-5-4-3-2-1: Jab - R Lowkick
  - Don: A 20 situps, B Freestylen. 3 minuten.
+ - Achmed: 10x links-rechts, pushup. 2 rondjes
 
 # Theory
 
