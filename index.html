@@ -87,7 +87,10 @@
           // Clock
           setInterval(function() {
             var d = new Date();
-            var t = [ d.getHours(), d.getMinutes(), d.getSeconds() ];
+            var t = [
+              d.getHours(),
+              d.getMinutes()
+            ];
             var s = t.map(function(z) {
               return ('00' + z).slice(-2);
             }).join(':');
