@@ -9,7 +9,7 @@ if (navigator.mozApps) {
     checkIfInstalled.onsuccess = function () {
         if (checkIfInstalled.result) {
             // Already installed, try update
-            webAppIsInstalledAlready = true;
+            window.webAppIsInstalledAlready = true;
             console.log("Checking for update");
             checkIfInstalled.checkForUpdate();
         } else {
