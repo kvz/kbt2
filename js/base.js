@@ -9,6 +9,7 @@ if (navigator.mozApps) {
     checkIfInstalled.onsuccess = function () {
         if (checkIfInstalled.result) {
             // Already installed, try update
+            webAppIsInstalledAlready = true;
             console.log("Checking for update");
             checkIfInstalled.checkForUpdate();
         } else {
@@ -27,8 +28,7 @@ if (navigator.mozApps) {
             };
         }
     };
-}
-else {
+} else {
     installationInstructions.style.display = "none";
     console.log("Open Web Apps not supported");
 }

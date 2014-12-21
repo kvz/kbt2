@@ -116,9 +116,10 @@
             }
           };
 
-          window.addEventListener('focus', lockOrientation, false);
-          lockOrientation();
-
+          if (webAppIsInstalledAlready === true) {
+            window.addEventListener('focus', lockOrientation, false);
+            lockOrientation();
+          }
         })();
     </script>
 </body>
