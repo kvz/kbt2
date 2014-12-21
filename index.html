@@ -51,12 +51,15 @@
         </p>
         <div id="lesson">Loading...</div>
         <ul>
-          <li><a href="/lessons/lesson5.md" class="load-markdown">Lesson 5</li>
-          <li><a href="/lessons/lesson6.md" class="load-markdown">Lesson 6</li>
-          <li><a href="/lessons/lesson7.md" class="load-markdown">Lesson 7</li>
-          <li><a href="/lessons/lesson8.md" class="load-markdown">Lesson 8</li>
           <li><a href="/lessons/lesson9.md" class="load-markdown">Lesson 9</li>
+          <li><a href="/lessons/lesson8.md" class="load-markdown">Lesson 8</li>
+          <li><a href="/lessons/lesson7.md" class="load-markdown">Lesson 7</li>
+          <li><a href="/lessons/lesson6.md" class="load-markdown">Lesson 6</li>
+          <li><a href="/lessons/lesson5.md" class="load-markdown">Lesson 5</li>
         </ul>
+        <p id="clock">
+          00:00:00
+        </p>
     </div>
 
     <script type="text/javascript" src="js/marked.js"></script>
@@ -65,24 +68,34 @@
     <script type="text/javascript" src="js/offline.js"></script>
     <script type="text/javascript">
         (function () {
-          // Instantiate new objects with 'new'
+          // Stopwatch
           var stopwatch = new Stopwatch({
-            "milliStep": 500,
+            "milliStep" : 500,
             "fadeFactor": 0.6,
-            "elements": {
-                "body"     : document.querySelector('body'),
-                "counter"  : document.querySelector('button.counter'),
-                "lesson"   : document.querySelector('#lesson'),
-                "intervals": document.querySelectorAll('button.interval'),
+            "elements"  : {
+              "body"     : document.querySelector('body'),
+              "counter"  : document.querySelector('button.counter'),
+              "lesson"   : document.querySelector('#lesson'),
+              "intervals": document.querySelectorAll('button.interval'),
             }
           });
-
-          // Invoke methods like this
           stopwatch.bind();
           stopwatch.loadConfig(function(err, config) {
             stopwatch.loadMarkdown(config.markdown_index);
           });
 
+          // Clock
+          setInterval(function() {
+            var d = new Date();
+            var t = [ d.getHours(), d.getMinutes(), d.getSeconds() ];
+            var s = t.map(function(z) {
+              return ('00' + z).slice(-2);
+            }).join(':');
+            var clock = document.getElementById('clock');
+            clock.innerHTML = s;
+          }, 1000);
+
+          // Make markdown hrefs load markdown instantly
           [].forEach.call(document.querySelectorAll('.load-markdown'), function(el) {
             el.onclick = function () {
               var href = el.getAttribute('href');
@@ -91,24 +104,20 @@
             };
           });
 
-          // Main
-          if ('mozLockOrientation' in screen) {
-            var portraitLock = screen.mozLockOrientation('portrait-primary');
-            if (portraitLock) {
-              console.log('locked to portrait');
-            } else {
-              console.log('Unable to lock orientation');
-            }
-          }
-
-          window.addEventListener("focus", function(event) {
+          // Lock orientation
+          var lockOrientation = function (event) {
             if ('mozLockOrientation' in screen) {
               var portraitLock = screen.mozLockOrientation('portrait-primary');
               if (portraitLock) {
                 console.log('locked to portrait');
+              } else {
+                console.log('Unable to lock orientation');
               }
             }
-          }, false);
+          };
+
+          window.addEventListener('focus', lockOrientation, false);
+          lockOrientation();
 
         })();
     </script>

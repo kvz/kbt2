@@ -200,13 +200,13 @@ Stopwatch.prototype.loadMarkdown = function (url) {
   var oReq    = new XMLHttpRequest();
   oReq.onload = function () {
     marked.setOptions({
-      renderer: new marked.Renderer(),
-      gfm: true,
-      tables: true,
-      breaks: true,
-      pedantic: false,
-      sanitize: true,
-      smartLists: true,
+      renderer   : new marked.Renderer(),
+      gfm        : true,
+      tables     : true,
+      breaks     : true,
+      pedantic   : false,
+      sanitize   : true,
+      smartLists : true,
       smartypants: false
     });
 

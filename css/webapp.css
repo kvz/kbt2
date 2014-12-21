@@ -21,6 +21,21 @@
   color: green;
 }
 
+#clock {
+  background-color: white;
+  bottom: 0;
+  color: maroon;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 12px;
+  margin: 0;
+  opacity: 0.7;
+  padding: 0;
+  position: fixed;
+  right: 0;
+}
+
+
 button.interval {
   width:  54px !important;
   height: 50px !important;
