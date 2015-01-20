@@ -2,35 +2,41 @@ les10.1 (b & kbz)
 
 # Boksers
 
+  - 00) niet-leden betalen
   - 00) spullen aan
-  - 01) warming up: veren, springen, schaduw, armen draaien, (jump)squats(vast), lunges, opdrukken vasthouden, alles losgooien
-  - 10) techniek1: Jab Cross lHoek | lHoek. 10x op mijn tel. B lunges
+  - 01) warming up: veren, springen, armen draaien, burpies, (jump)squats(vast), lunges, opdrukken vasthouden, alles losgooien
+  - 10) techniek1: Jab Cross lHoek | lHoek. 1 minuut zelf. 10x op mijn tel. B lunges
   - 18) allesgeven 1x
   - 20) rekken: ellebogen, lang maken, handen plat kruisen en achter gooien
-  - 22) techniek2: Jab rUppercut lHoek Cross. 1 minuut zelf. 3 minuten wisselen als B klaar is met opdruk hand omhoog
+  - 22) techniek2: Jab rUppercut lHoek Cross. 3 minuten wisselen als B klaar is met 10x opdrukken arm opgooien
   - 26) poweren: boksloop opstoot, burpies, crunches
   - 30) aanzetten: lHoek rHoek | 30x op snelheid. B telt
   - 38) techniek3: Jab Cross | rSlip Cross lHoek | .. lHoek Milt. na 10x zelf wisselen. B doet squats
   - 48) allesgeven 2x
   - 51) "bal" overgooien (handschoenen)
   - 51) spullen uit
-  - 52) power down
+  - 53) power down: buik
+  - 57) power down: 3 setjes pushups
 
 # Kickboksers
 
+  - 00) zakken ophangen. niet-leden aan het eind betalen
   - 00) spullen aan
-  - 01) warming up: veren, springen, schaduw, armen draaien, (jump)squats(vast), lunges, knieen indraaien, alles los gooien
-  - 10) techniek1: Jab Cross lHoek | rLowkick. 10x op mijn tel. B lunges
+  - 01) warming up: veren, springen, armen draaien, burpies, (jump)squats(vast), lunges, knieen indraaien, lostrappen, alles losgooien
+  - 10) techniek1: Jab Cross lHoek | rLowkick lRoundhouse. 10x op mijn tel. B lunges
   - 18) allesgeven 1x
-  - 20) rekken: ellebogen, lang maken, benen opgooien
-  - 22) techniek2: rLowkick lHoek. 1 minuut zelf. 3 minuten wisselen als B klaar is met opdruk hand omhoog
-  - 26) poweren: knieheffen, burpies, crunches
-  - 30) aanzetten: rRoundhouse | 1x tot 5x en terug. AC werk. B rust
-  - 38) techniek3: Jab Cross+rLowkick | .. Cross | lHoek rRoundhouse. na 10x zelf wisselen. B doet squats
-  - 48) allesgeven 2x
+  - 20) rekken: ellebogen, lang maken, benen opzwaaien
+  - 22) techniek2: Jab Cross Cross+rLowkick. wisselen als B klaar is met 10x crunches uitstoot. 3 minuten.
+  - 28) poweren: knieheffen,uitstoot, rolburpies
+  - 32) aanzetten: rLowkick rRoundhouse rHighkick rRoundhouse rLowkick grondaanraak+spring. AC werk. B rust & telt tot 3. Direct doordraaien. 4 minuten
+  - 38) techniek3: Jab rUppercut lHoek Cross. zelf oefenen. na 10x zelf wisselen. B doet squats
+  - 45) allesgeven 2x
+  - 49) rekken: benen op de grond
   - 51) "bal" overgooien (handschoenen)
-  - 51) spullen uit
-  - 52) power down
+  - 52) spullen uit
+  - 52) power down: buik
+  - 55) power down: 3 setjes pushups
+  - 59) niet-leden betalen. zakken naar beneden
 
 # Warming up
 
@@ -99,6 +105,7 @@ Aantal | Oefening
   K  | rLowkick lHoek | |
   K  | Jab Cross lHoek | rLowkick | lRoundhouse
   K  | Jab Cross+rLowkick | Cross | lHoek rRoundhouse
+  K  | Jab Cross | Cross+rLowkick
   K  | Jab Plexus Fade | Cross Lever | rLowkick
   K  | Cross Lever rLowkick | |
   K  | rKnee Cross | lHoek | rLowkick
@@ -127,11 +134,13 @@ Goed gewerkt. Bedankt voor jullie aandacht. Applaus voor jezelf. En leg de zakke
 Eerst zelf proberen
 
   1. 3x op eigen tel. Zelf meteen doordraaien. 1 tegelijk. 2min
-  1. 10x op mijn tel. Ik draai door. AC tegelijk.
-  2. AC op zak, B rust/zakvast. Wissel als AC klaar is
-  3. AC op zak, B op grond. Wissel als AC klaar is
-  4. AC op zak, B op grond. Wissel als B klaar is
-  5. Allemaal tegelijk op tijd
+  2. 10x op mijn tel. Ik draai door. AC tegelijk.
+  3. 1 minuutje tegelijk voor jezelf. 10x op mijn tel. Ik draai door. AC tegelijk.
+  4. AC op zak, B rust/zakvast. Wissel als AC klaar is
+  5. AC op zak, B rust/zakvast. Wissel als AC klaar is. B telt
+  6. AC op zak, B op grond. Wissel als AC klaar is
+  7. AC op zak, B op grond. Wissel als B klaar is
+  8. Allemaal tegelijk op tijd
 
 # Legend
 
