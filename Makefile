@@ -1,32 +1,32 @@
 SHELL := /usr/bin/env bash
 
 help:
-	cat USAGE.md
+	@cat USAGE.md
 
 install: help
-	npm install
-	cp node_modules/marked/lib/marked.js ./js/
+	@npm install
+	@cp node_modules/marked/lib/marked.js ./js/
 
-start: update
-	node server.js
+start: build
+	@node server.js
 
 watch:
-	watch $(MAKE) update
+	@watch $(MAKE) build
 
-update: install
-	./scripts/manifest.sh > ./manifest.appcache
+build: install
+	@./scripts/manifest.sh > ./manifest.appcache
 
-publish: update
-	git checkout gh-pages
-	git pull
-	git add --all .
-	git commit -am "New lessons"
-	git push
+deploy: build
+	@git checkout gh-pages
+	@git pull
+	@git add --all .
+	@git commit -am "New lessons"
+	@git push
 
 .PHONY: \
 	help \
 	install \
-	update \
+	build \
 	watch \
-	publish \
+	deploy \
 	start \
