@@ -1,4 +1,4 @@
-les8.2 (kb & b)
+les8.2 (kbz & bz)
 
 # Warming up
 

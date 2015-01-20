@@ -1,4 +1,4 @@
-les7 (kb & b)
+les7 (kbz & bz)
 
 # 19.00 Warming up: 10min
 
