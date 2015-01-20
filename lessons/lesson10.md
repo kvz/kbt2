@@ -2,25 +2,26 @@ les10.1 (b & kbz)
 
 # Boksers
 
-  - 00) niet-leden betalen
-  - 00) spullen aan
-  - 01) warming up: veren, springen, armen draaien, burpies, (jump)squats(vast), lunges, opdrukken vasthouden, alles losgooien
-  - 10) techniek1: Jab Cross lHoek | lHoek. 1 minuut zelf. 10x op mijn tel. B lunges
-  - 18) allesgeven 1x
-  - 20) rekken: ellebogen, lang maken, handen plat kruisen en achter gooien
-  - 22) techniek2: Jab rUppercut lHoek Cross. 3 minuten wisselen als B klaar is met 10x opdrukken arm opgooien
-  - 26) poweren: boksloop opstoot, burpies, crunches
-  - 30) aanzetten: lHoek rHoek | 30x op snelheid. B telt
-  - 38) techniek3: Jab Cross | rSlip Cross lHoek | .. lHoek Milt. na 10x zelf wisselen. B doet squats
-  - 48) allesgeven 2x
+  - 00) boksers op de mat. op de knieen
+  - 00) niet-leden betalen. spullen aan
+  - 01) warming up: veren, springen, armen draaien, burpies, (jump)squats(vast), lunges, alles losgooien
+  - 10) aanzetten: klassikaal. tel1=Jabb. tel2=Jabb Cross. tel3=Jab Cross lHoek tel4=Jab Cross lHoek rHoek. na 1 min wissel. 4 rondjes. (4 min)
+  - 16) techniek1: zelf. Jab rUppercut lHoek Cross. na 3x wisselen. 2min
+  - 22) aanzetten: klassikaal. Jab rUppercut lHoek Cross. op tel 10x. 4 rondjes
+  - 24) rekken: ellebogen, lang maken, handen plat kruisen en achter gooien
+  - 27) poweren: knieheffen,uitstoot, rolburpies
+  - 32) techniek2: zelf. Jab Plexus Fade (lHoek) | Cross lHoek Cross. na 3x wisselen. 2min. dan uitbreiding wederom 2min.
+  - 39) poweren: squats met de ruggen tegen elkaar. mijn tel.
+  - 40) aanzetten: zelf. 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunches. 10x lUppercut rUppercut. 2x squats. Wissel. 3 minuten
+  - 46) techniek3: zelf. Jabb rUppercut rUppercut lHoek | lHoek Milt. na 3x wisselen. 1min. dan uitbreiding 2min.
   - 51) "bal" overgooien (handschoenen)
   - 51) spullen uit
-  - 53) power down: buik
-  - 57) power down: 3 setjes pushups
+  - 53) power down: crunches (20x slowstoot, 20x enkels, 10-10-10x plattikken)
+  - 57) power down: pushups (10x normal, 10x diamond, 10x superman)
 
 # Kickboksers
 
-  - 00) zakken ophangen. niet-leden aan het eind betalen
+  - 00) kickboksers op de mat. zakken ophangen
   - 00) spullen aan
   - 01) warming up: veren, springen, armen draaien, burpies, (jump)squats(vast), lunges, knieen indraaien, lostrappen, alles losgooien
   - 10) techniek1: Jab Cross lHoek | rLowkick lRoundhouse. 10x op mijn tel. B lunges
@@ -34,8 +35,9 @@ les10.1 (b & kbz)
   - 49) rekken: benen op de grond
   - 51) "bal" overgooien (handschoenen)
   - 52) spullen uit
-  - 52) power down: buik
-  - 55) power down: 3 setjes pushups
+  - 52) power down: crunches (20x slowstoot, 20x enkels, 10-10-10x plattikken)
+  - 55) power down: pushups (10x normal, 10x diamond, 10x superman)
+  - 59) op de knieen
   - 59) niet-leden betalen. zakken naar beneden
 
 # Warming up
@@ -121,6 +123,7 @@ Aantal | Oefening
   *  | Jab Jab Cross | 1x tot 5x en terug. AC werk. B telt.
   *  | lHoek rHoek Lever Milt | 10x op tel
   *  | rHoek lHoek Milt | 10x op tel
+  *  | lHoek rHoek | 10x op snelheid. 5x mijn tel. om en om
   B  | Jab Cross Lever lHoek Milt rHoek | 10x op tel
   K  | Jab rLowkick | 1x tot 5x en terug. AC werk. B rust.
   K  | rRoundhouse | 1x tot 5x en terug. AC werk. B rust.
