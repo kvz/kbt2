@@ -50,12 +50,8 @@
             Press the + button in the top right corner to install this app.
         </p>
         <div id="lesson">Loading...</div>
-        <ul>
-          <li><a href="/lessons/lesson9.md" class="load-markdown">Lesson 9</li>
-          <li><a href="/lessons/lesson8.md" class="load-markdown">Lesson 8</li>
-          <li><a href="/lessons/lesson7.md" class="load-markdown">Lesson 7</li>
-          <li><a href="/lessons/lesson6.md" class="load-markdown">Lesson 6</li>
-          <li><a href="/lessons/lesson5.md" class="load-markdown">Lesson 5</li>
+        <ul id="lesson-nav">
+
         </ul>
         <p id="clock">
           00:00:00
@@ -80,8 +76,29 @@
             }
           });
           stopwatch.bind();
+
+          // Load config
           stopwatch.loadConfig(function(err, config) {
+            // Show latest lesson
             stopwatch.loadMarkdown(config.markdown_index);
+
+            // Show links to 5 latest lessons
+            var number = (config.markdown_index+'').match(/(\d+)\.md$/)[1];
+            if (number) {
+              var lessonNav = document.querySelector('#lesson-nav');
+              for (var i = number; i >= (number-5); i--) {
+                lessonNav.innerHTML += '<li><a href="/lessons/lesson' +  i + '.md">Lesson ' +  i + '</li>'
+              }
+            }
+
+            // Make any markdown hrefs load markdown instantly
+            [].forEach.call(document.querySelectorAll('a[href$=".md"]'), function(el) {
+              el.onclick = function () {
+                var href = el.getAttribute('href');
+                stopwatch.loadMarkdown(href);
+                return false;
+              };
+            });
           });
 
           // Clock
@@ -97,15 +114,6 @@
             var clock = document.getElementById('clock');
             clock.innerHTML = s;
           }, 1000);
-
-          // Make markdown hrefs load markdown instantly
-          [].forEach.call(document.querySelectorAll('.load-markdown'), function(el) {
-            el.onclick = function () {
-              var href = el.getAttribute('href');
-              stopwatch.loadMarkdown(href);
-              return false;
-            };
-          });
 
           // Lock orientation
           var lockOrientation = function (event) {
