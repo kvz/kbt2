@@ -8,12 +8,12 @@ les10.1 (b & kbz)
   - 10) aanzetten: klassikaal. tel1=Jabb. tel2=Jabb Cross. tel3=Jab Cross lHoek tel4=Jab Cross lHoek rHoek. na 1 min wissel. 4 rondjes. (4 min)
   - 16) techniek1: zelf. Jab rUppercut lHoek Cross. na 3x wisselen. 2min
   - 22) aanzetten: klassikaal. Jab rUppercut lHoek Cross. op tel 10x. 4 rondjes
-  - 24) rekken: ellebogen, lang maken, handen plat kruisen en achter gooien
-  - 27) poweren: knieheffen,uitstoot, rolburpies
-  - 32) techniek2: zelf. Jab Plexus Fade (lHoek) | Cross lHoek Cross. na 3x wisselen. 2min. dan uitbreiding wederom 2min.
+  - 24) poweren: knieheffen,uitstoot, rolburpies
+  - 27) rekken: ellebogen, lang maken, handen plat kruisen en achter gooien
+  - 32) techniek2: zelf. Jab Plexus Fade (lHoek) | Cross lHoek Cross. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
   - 39) poweren: squats met de ruggen tegen elkaar. mijn tel.
-  - 40) aanzetten: zelf. 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunches. 10x lUppercut rUppercut. 2x squats. Wissel. 3 minuten
-  - 46) techniek3: zelf. Jabb rUppercut rUppercut lHoek | lHoek Milt. na 3x wisselen. 1min. dan uitbreiding 2min.
+  - 40) aanzetten: zelf/klassikaal 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x opdrukken. 10x lUppercut rUppercut. 2x opdrukken. Wissel. Als je klaar bent wacht je op de rest, dan kunnen we zien wie de snelste is.
+  - 46) techniek3: zelf. Jabb rUppercut rUppercut lHoek | lHoek Milt. zelf wisselen. 1min. dan uitbreiding van nog eens 2min.
   - 51) "bal" overgooien (handschoenen)
   - 51) spullen uit
   - 53) power down: crunches (20x slowstoot, 20x enkels, 10-10-10x plattikken)
@@ -27,10 +27,10 @@ les10.1 (b & kbz)
   - 10) techniek1: Jab Cross lHoek | rLowkick lRoundhouse. 10x op mijn tel. B lunges
   - 18) allesgeven 1x
   - 20) rekken: ellebogen, lang maken, benen opzwaaien
-  - 22) techniek2: Jab Cross Cross+rLowkick. wisselen als B klaar is met 10x crunches uitstoot. 3 minuten.
+  - 22) techniek2: Jab Cross Cross+rLowkick. wisselen als B klaar is met 20x crunches uitstoot. 3 minuten.
   - 28) poweren: knieheffen,uitstoot, rolburpies
-  - 32) aanzetten: rLowkick rRoundhouse rHighkick rRoundhouse rLowkick grondaanraak+spring. AC werk. B rust & telt tot 3. Direct doordraaien. 4 minuten
-  - 38) techniek3: Jab rUppercut lHoek Cross. zelf oefenen. na 10x zelf wisselen. B doet squats
+  - 32) aanzetten: rLowkick rRoundhouse rHighkick rRoundhouse rLowkick grondaanraak+spring. zelf oefenen. 1min. AC werk. B rust. 3x op mijn tel, dan snelle wissel. 3 minuten
+  - 38) techniek3: Jab rUppercut lHoek Cross. na 10x, zelf wisselen. B telt.
   - 45) allesgeven 2x
   - 49) rekken: benen op de grond
   - 51) "bal" overgooien (handschoenen)
