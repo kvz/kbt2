@@ -1,4 +1,4 @@
-#main, #main code {
+#main {
   font: 13px "mozTT",sans-serif;
 }
 #main h4 {
@@ -13,12 +13,25 @@
 #main h1 {
   font-size: 18px;
 }
+
+/* Power */
 #main i, #main em {
-  color: red;
+  color: purple;
   font-style: normal;
+  font-weight: normal;
 }
+/* Intense */
+#main b, #main strong {
+  color: rgb(195, 0, 0);
+  font-style: normal;
+  font-weight: normal;
+}
+/* Relax */
 #main code {
   color: green;
+  font-style: normal;
+  font-weight: normal;
+  font: 13px "mozTT",sans-serif;
 }
 
 #clock {
