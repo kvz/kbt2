@@ -1,5 +1,9 @@
 les11.3 (b & kbz)
 
+ - Jabb lHoek Cross rHoek 30s. wissel. 3 rondjes
+ - Cross lRoundhouse 1-2-3-4-5-4-3-2-1
+
+
 # Boksers
 
   - 00) goeieavond. boksers op de mat. op de knieen. niet-leden betalen. spullen/partner. links/rechts inslaan
