@@ -1,11 +1,11 @@
-les12.1 (b & kbz)
+les12.2 (b & kbz)
 
 # Boksers
 
   - 00) goeieavond. boksers op de mat. op de knieen. niet-leden betalen. spullen/partner. links/rechts inslaan
   - 03) *veren, schaduwboksen, springen, armen draaien, burpies, (jump)squats(vast), lunges, alles losgooien*
   - 13) **10x Jab Jab Cross. 4x opdrukkend handje schudden. Dan wissel. 2min**
-  - 16) techniek1: Jab Plexus Fade (lHoek) Cross | lHoek Cross. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
+  - 16) techniek1: Jab Cross lUppercut | lUppercut Cross lHoek. volgen. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
   - 21) **tel1=Jab. tel2=Jab Jab. tel3=Jab Jab Cross. tel4=Jab Jab Cross lHoek. na 30s wissel. 4 rondjes. (4 min)**
   - 28) *jumping jacks,boksloop,opstoot,planken 1min*
   - 33) **Jab lHoek Cross rHoek. 30s. wissel. 3 rondjes**
