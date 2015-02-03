@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Version 1.1422982735
+# Version 1.1422982886
 
 config.json
 css/base.css
@@ -22,6 +22,7 @@ js/marked.js
 js/offline.js
 js/stopwatch.js
 lessons/inspiration1.md
+lessons/inspiration2.html
 lessons/inspiration2.md
 lessons/lesson1.md
 lessons/lesson10.md

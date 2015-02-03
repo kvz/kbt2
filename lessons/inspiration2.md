@@ -65,6 +65,7 @@ Aantal | Oefening
   B  | Jab Cross lHoek | .. lHoek | Cross lHoek
   B  | Jab Cross | Fade Cross | lHoek rHoek Lever
   B  | Jab Cross | rSlip Cross lHoek | .. lHoek Milt
+  B  | Jab rUppercut rUppercut lHoek | lHoek Milt |
   B  | Jab Cross rSlip Cross | lHoek lShift lHoek | Cross
   B  | Jab Cross rShift+Lever rOverhand | |
   B  | Jab Cross lUppercut | lUppercut Cross lHoek |
