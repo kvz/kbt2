@@ -53,6 +53,9 @@
         <ul id="lesson-nav">
 
         </ul>
+        <p id="completed">
+          0 completed
+        </p>
         <p id="clock">
           00:00:00
         </p>
@@ -66,13 +69,15 @@
         (function () {
           // Stopwatch
           var stopwatch = new Stopwatch({
-            "milliStep" : 500,
-            "fadeFactor": 0.6,
-            "elements"  : {
-              "body"     : document.querySelector('body'),
-              "counter"  : document.querySelector('button.counter'),
-              "lesson"   : document.querySelector('#lesson'),
-              "intervals": document.querySelectorAll('button.interval'),
+            "milliStep"  : 500,
+            "fadeFactor" : 0.6,
+            "elements"   : {
+              "clock"     : document.querySelector('#clock'),
+              "completed" : document.querySelector('#completed'),
+              "body"      : document.querySelector('body'),
+              "counter"   : document.querySelector('button.counter'),
+              "lesson"    : document.querySelector('#lesson'),
+              "intervals" : document.querySelectorAll('button.interval'),
             }
           });
           stopwatch.bind();

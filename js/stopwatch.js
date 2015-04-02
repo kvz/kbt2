@@ -3,21 +3,29 @@ function Stopwatch(config){
   // Config
   this.config = config;
 
-  // Elemenet Bindings
+  // Element Bindings
   this.elements = config.elements;
   delete config.elements;
 
   // State
-  this.activeSeconds    = false;
-  this.alarmId          = null;
-  this.currentMilliSecs = 0;
-  this.pauzed           = false;
-  this.timer            = null;
+  this.activeSeconds     = false;
+  this.lastActiveSeconds = 0;
+  this.alarmId           = null;
+  this.currentMilliSecs  = 0;
+  this.pauzed            = false;
+  this.timer             = null;
+  this.completed         = 0;
+
+  var self = this;
+
+  self.updateCompleted();
 }
 
 Stopwatch.prototype.bind = function (){
   var self = this;
-  self.elements['counter'].onclick = function () {
+
+  // Bind the countdown with pauze
+  self.elements.counter.onclick = function () {
     if (!self.activeSeconds) {
       return;
     }
@@ -29,13 +37,14 @@ Stopwatch.prototype.bind = function (){
     }
   };
 
-  [].forEach.call(self.elements['intervals'], function(el) {
+  // Bind the interval buttons
+  [].forEach.call(self.elements.intervals, function(el) {
     el.addEventListener('click', function () {
       if (self.activeSeconds && !self.pauzed) {
         return;
       }
 
-      self.initCounter(el.dataset.seconds);
+      self.initCounter(parseInt(el.dataset.seconds, 10));
     });
   }, false);
 
@@ -46,9 +55,9 @@ Stopwatch.prototype.styleBusy = function (busy) {
   var opacityP = busy ? 1 : this.config.fadeFactor;
   var opacityB = busy ? this.config.fadeFactor : 1;
 
-  this.elements['counter'].style.opacity = opacityP;
+  this.elements.counter.style.opacity = opacityP;
 
-  [].forEach.call(this.elements['intervals'], function(el) {
+  [].forEach.call(this.elements.intervals, function(el) {
     el.style.opacity = opacityB;
   }, false);
 };
@@ -61,24 +70,28 @@ Stopwatch.prototype.doPauze = function (want_pauze) {
   this.pauzed = want_pauze;
   if (this.pauzed) {
     this.styleBusy(false);
-    // this.cancelAlarm();
   } else {
     this.styleBusy(true);
-    // this.cancelAlarm();
-    // this.setAlarm(this.currentMilliSecs);
   }
 
   this.vibrate(200);
 };
 
-Stopwatch.prototype.initCounter = function (secs) {
-  console.log('Stopwatch.prototype.initCounter');
-  this.currentMilliSecs = secs * 1000;
-  this.activeSeconds    = secs;
+Stopwatch.prototype.initCounter = function (intSecs) {
+  console.log('Stopwatch.prototype.initCounter ' + intSecs);
+  if (intSecs !== this.lastActiveSeconds) {
+    this.completed = 0;
+    this.updateCompleted();
+  }
+
+  this.currentMilliSecs  = intSecs * 1000;
+  this.activeSeconds     = intSecs;
+  this.lastActiveSeconds = intSecs;
+  this.updateCompleted();
   this.doPauze(false);
   clearTimeout(this.timer);
 
-  this.doCount(secs);
+  this.doCount(intSecs);
 };
 
 Stopwatch.prototype.vibrate = function (ms) {
@@ -97,6 +110,12 @@ Stopwatch.prototype.vibrate = function (ms) {
 Stopwatch.prototype.completeCounter = function () {
   clearTimeout(this.timer);
   this.doPauze(true);
+
+  this.vibrate(2000);
+
+  this.completed++;
+  this.updateCompleted();
+
 
   this.vibrate(2000);
   // alert(this.formatter(this.activeSeconds * 1000, false) + ' this.Timer Complete');
@@ -118,11 +137,20 @@ Stopwatch.prototype.formatter = function (millisecs, with_ms) {
   return text;
 };
 
-Stopwatch.prototype.updateText = function(text) {
-  while(this.elements['counter'].firstChild) {
-    this.elements['counter'].removeChild(this.elements['counter'].firstChild);
+Stopwatch.prototype.updateCompleted = function() {
+  if (!this.lastActiveSeconds) {
+    this.elements.completed.innerHTML = '0 completed';
+    return
   }
-  this.elements['counter'].appendChild(document.createTextNode(text));
+
+  this.elements.completed.innerHTML =  this.completed + ' x ' + this.formatter(this.lastActiveSeconds * 1000) + ' completed';
+};
+
+Stopwatch.prototype.updateText = function(text) {
+  while(this.elements.counter.firstChild) {
+    this.elements.counter.removeChild(this.elements.counter.firstChild);
+  }
+  this.elements.counter.appendChild(document.createTextNode(text));
 };
 
 Stopwatch.prototype.doCount = function(secs) {
@@ -144,45 +172,6 @@ Stopwatch.prototype.doCount = function(secs) {
   self.timer = setTimeout(function () {
     self.doCount(secs);
   }, self.config.milliStep);
-};
-
-Stopwatch.prototype.setAlarm = function (ms_in_future) {
-  if (!('mozAlarms' in navigator)) {
-    return;
-  }
-  if (!('mozSetMessageHandler' in navigator)) {
-    return;
-  }
-
-  // var alarmDate = new Date(new Date() + this.currentMilliSecs);
-  alarmDate = new Date(+new Date() + ms_in_future);
-
-  // Set an alarm and store it's id
-  var request = navigator.mozAlarms.add(alarmDate, 'ignoreTimezone', {
-    message: 'Timer ' + this.formatter(this.activeSeconds * 1000, false) + ' Complete'
-  });
-
-  request.onsuccess = function () {
-    console.log('A new alarm has been set:' + this.result);
-    this.alarmId = this.result.id;
-  }
-
-  navigator.mozSetMessageHandler('alarm', function(mozAlarm) {
-    navigator.vibrate(2000);
-
-    var notification = navigator.mozNotification.createNotification('There you go', mozAlarm.data.label);
-    notification.show();
-  });
-};
-
-Stopwatch.prototype.cancelAlarm = function() {
-  if (!('mozAlarms' in navigator)) {
-    return;
-  }
-
-  if (this.alarmId) {
-    navigator.mozAlarms.remove(this.alarmId);
-  }
 };
 
 Stopwatch.prototype.loadConfig = function (cb) {
@@ -210,7 +199,7 @@ Stopwatch.prototype.loadMarkdown = function (url) {
       smartypants: false
     });
 
-    self.elements['lesson'].innerHTML = marked(this.responseText);
+    self.elements.lesson.innerHTML = marked(this.responseText);
   };
   oReq.open('GET', url, true);
   oReq.send();
