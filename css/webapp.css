@@ -51,7 +51,11 @@
 #statusbar span {
   padding: 0px 2px;
   margin: 0;
-  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+}
+
+#statusbar span:last-child {
+  border-left: 0px none #fff;
 }
 
 button.interval {
