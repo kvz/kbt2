@@ -106,20 +106,6 @@
             });
           });
 
-          // Clock
-          setInterval(function() {
-            var d = new Date();
-            var t = [
-              d.getHours(),
-              d.getMinutes()
-            ];
-            var s = t.map(function(z) {
-              return ('00' + z).slice(-2);
-            }).join(':');
-            var clock = document.getElementById('clock');
-            clock.innerHTML = s;
-          }, 1000);
-
           // Lock orientation
           var lockOrientation = function (event) {
             if ('mozLockOrientation' in screen) {

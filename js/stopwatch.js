@@ -19,6 +19,12 @@ function Stopwatch(config){
   var self = this;
 
   self.updateCompleted();
+  self.updateClock();
+
+  // Time of day Clock
+  setInterval(function() {
+    self.updateClock();
+  }, 1000);
 }
 
 Stopwatch.prototype.bind = function (){
@@ -144,6 +150,20 @@ Stopwatch.prototype.updateCompleted = function() {
   }
 
   this.elements.completed.innerHTML =  this.completed + ' x ' + this.formatter(this.lastActiveSeconds * 1000) + ' completed';
+};
+
+Stopwatch.prototype.updateClock = function() {
+  var d = new Date();
+  var t = [
+    d.getHours(),
+    d.getMinutes()
+  ];
+  var s = t.map(function(z) {
+    return ('00' + z).slice(-2);
+  }).join(':');
+
+  var clock = this.elements.clock;
+  clock.innerHTML = s;
 };
 
 Stopwatch.prototype.updateText = function(text) {
