@@ -145,11 +145,11 @@ Stopwatch.prototype.formatter = function (millisecs, with_ms) {
 
 Stopwatch.prototype.updateCompleted = function() {
   if (!this.lastActiveSeconds) {
-    this.elements.completed.innerHTML = '0 completed';
+    this.elements.completed.innerHTML = '';
     return
   }
 
-  this.elements.completed.innerHTML =  this.completed + ' x ' + this.formatter(this.lastActiveSeconds * 1000) + ' completed';
+  this.elements.completed.innerHTML =  this.completed + ' x ' + this.formatter(this.lastActiveSeconds * 1000);
 };
 
 Stopwatch.prototype.updateClock = function() {

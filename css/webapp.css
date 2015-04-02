@@ -34,7 +34,7 @@
   font: 13px "mozTT",sans-serif;
 }
 
-#clock {
+#statusbar {
   color: #333;
   font-size: 12px;
   font-weight: 400;
@@ -48,18 +48,10 @@
   right: 0;
 }
 
-#completed {
-  color: #333;
-  font-size: 12px;
-  font-weight: 400;
-  line-height: 12px;
+#statusbar span {
+  padding: 0px 2px;
   margin: 0;
-  background-color: white;
-  opacity: 0.8;
-  padding: 3px 0 0 0;
-  position: fixed;
-  top: 5rem;
-  left: 0;
+  border-right: 1px solid #ccc;
 }
 
 button.interval {
