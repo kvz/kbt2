@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "bash3boilerplate": "^1.0.3",
+    "grunt": "^0.4.5",
+    "manifoldjs": "^0.1.0",
     "marked": "^0.3.2",
     "send": "^0.10.1"
   }

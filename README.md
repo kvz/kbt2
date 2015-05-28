@@ -34,4 +34,3 @@ and so that I can more easily install it :)
 The Firefox Phone is targetted at upcoming markets so feature-wise it can't really compete - and wont't replace -
 your modernday iOS/Android device. However, at just 50$ you get a ton of easy-programmable hardware (cpu, ram,
 touchscreen, wifi, usb, etc), which opens up possibilites for all kinds of dedicated applications.
-
