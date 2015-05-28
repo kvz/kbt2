@@ -89,14 +89,15 @@
             // Show latest lesson
             stopwatch.loadMarkdown(config.markdown_index);
 
-            // Show links to 5 latest lessons
-            var number = (config.markdown_index+'').match(/(\d+)\.md$/)[1];
-            if (number) {
-              var lessonNav = document.querySelector('#lesson-nav');
-              for (var i = number; i >= (number-5); i--) {
-                lessonNav.innerHTML += '<li><a href="/lessons/lesson' +  i + '.md">Lesson ' +  i + '</li>'
-              }
-            }
+            // Adding lesson navigation gets me in more trouble than it solves
+            // // Show links to 5 latest lessons
+            // var number = (config.markdown_index+'').match(/(\d+)\.md$/)[1];
+            // if (number) {
+            //   var lessonNav = document.querySelector('#lesson-nav');
+            //   for (var i = number; i >= (number-5); i--) {
+            //     lessonNav.innerHTML += '<li><a href="/lessons/lesson' +  i + '.md">Lesson ' +  i + '</li>'
+            //   }
+            // }
 
             // Make any markdown hrefs load markdown instantly
             [].forEach.call(document.querySelectorAll('a[href$=".md"]'), function(el) {
