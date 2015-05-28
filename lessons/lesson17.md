@@ -22,12 +22,12 @@ les17.0 (b & kbz)
 
   - 00) kickboksers op de mat! goeieavond. mijn naam is kevin en ik geef vanavond de lessen. zakken hangen. spullen aan
   - 01) *veren, heupen los, springen, armen draaien, burpies, (jump)squats(vast), lunges, knieen indraaien, lostrappen, alles losgooien*
-  - 10) **tel1=Jab. tel2=Jab Cross. tel3=Jab Cross lHoek. tel4=Jab Cross lHoek rLowkick. na 30s wissel. 4 rondjes. (4 min)**
-  - 17) **allesgeven 2x**
+  - 10) **tel1=Jab. tel2=Jab Cross. tel3=Jab Cross lHoek. tel4=Jab Cross lHoek rLowkick. na 30s wissel. 6 rondjes. (5 min)** Bij >2 doen (B)C(D) zelfde bij elkaar
+  - 18) **allesgeven 2x**
   - 20) `lang maken, ellebogen pakken, benen opzwaaien`
-  - 22) **Jab Cross-rRoundhouse 1-2-3-4-5-4-3-2-1**. Wissel.
+  - 22) **Jab Cross-rRoundhouse 1-2-3-4-5-4-3-2-1**. Wissel. B rust. Bij >2 doen (B)C(D) **Jab Cross** bij elkaar op zelfde tel
   - 29) techniek2: Jab Cross lHoek rLowkick lRoundhouse. wisselen als B klaar is met 20x crunches uitstoot. 3 minuten.
-  - 33) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnee rKnee. 2x squats. Wissel. Als je team klaar is roep je JA en kijken we wie de 5 snelste zijn.**
+  - 33) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnee rKnee. 2x squats. Wissel. Per zak 2 shifts. Als je team klaar is roep je JA en kijken we wie de 5 snelste zijn.**
   - 38) *knieheffen,uitstoot,10x rolburpies*
   - 43) **allesgeven 2x**
   - 46) `benen op de grond rekken`
