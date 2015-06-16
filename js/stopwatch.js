@@ -200,7 +200,7 @@ Stopwatch.prototype.loadConfig = function (cb) {
   oReq.onload = function () {
     cb(null, JSON.parse(this.responseText));
   };
-  oReq.open('GET', '/config.json', true);
+  oReq.open('GET', '/package.json', true);
   oReq.send();
 }
 

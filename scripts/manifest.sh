@@ -50,7 +50,7 @@ find \
   images/headers/ui/dark \
   images/toolbars \
   index.html \
-  config.json \
+  package.json \
   -type f \
 | grep -v '/.DS_Store' \
 | sort
