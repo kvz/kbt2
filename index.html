@@ -92,18 +92,16 @@
           // Load config
           stopwatch.loadConfig(function(err, config) {
             // Sticky chapters
-            var headers = []
+            var chapters = []
             $(window).on('scroll touchmove', function() {
-
               var scrollPos = window.pageYOffset || window.scrollY;
-
-              scrollPos += $('header').outerHeight();
               var bestMatch = {};
+              scrollPos += $('header').outerHeight() + 15;
 
-              for (var i in headers) {
-                var header = headers[i];
-                if (header.top < scrollPos) {
-                  bestMatch = header
+              for (var i in chapters) {
+                var chapter = chapters[i];
+                if (chapter.top < scrollPos) {
+                  bestMatch = chapter
                 }
               }
 
@@ -111,16 +109,19 @@
             });
 
             // Show latest lesson
-            stopwatch.loadMarkdown(config.markdown_index, function() {
-              // Build header cache index for sticky chapters
+            stopwatch.loadMarkdown(config.markdown_index, function () {
+              // Build chapter cache index for sticky chapters
+              chapters = []
               $('h1').each(function (i, el) {
                 var $h1 = $(el);
-                headers.push({
+                chapters.push({
                   top   : $h1.offset().top,
                   height: $h1.outerHeight(),
                   text  : $h1.text()
                 })
               });
+
+              $('#chapter').text(chapters[0].text)
             });
 
             // Adding lesson navigation gets me in more trouble than it solves
