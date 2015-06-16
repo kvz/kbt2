@@ -88,7 +88,8 @@
           // Load config
           stopwatch.loadConfig(function(err, config) {
             // Show latest lesson
-            stopwatch.loadMarkdown(config.markdown_index);
+            stopwatch.loadMarkdown(config.markdown_index, function() {
+            });
 
             // Adding lesson navigation gets me in more trouble than it solves
             // // Show links to 5 latest lessons

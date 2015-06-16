@@ -204,7 +204,7 @@ Stopwatch.prototype.loadConfig = function (cb) {
   oReq.send();
 }
 
-Stopwatch.prototype.loadMarkdown = function (url) {
+Stopwatch.prototype.loadMarkdown = function (url, cb) {
   var self    = this;
   var oReq    = new XMLHttpRequest();
   oReq.onload = function () {
@@ -220,6 +220,7 @@ Stopwatch.prototype.loadMarkdown = function (url) {
     });
 
     self.elements.lesson.innerHTML = marked(this.responseText);
+    cb();
   };
   oReq.open('GET', url, true);
   oReq.send();
