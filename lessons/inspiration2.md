@@ -5,11 +5,14 @@ Aantal | Oefening
 ------:|:---------
 3min   | `instoten`
 30s    | `heupen los`
+30s    | `achilleswiebelen`
+30s    | `armen zwaaien`
 30s    | `alles los`
 10x    | *squats*
 10x    | *jump squats*
 10x    | *front lunges*
 10x    | *back lunges*
+10x    | *warrior lunges*
 10x    | *jump lunges*
 
 # Rekken / Poweren
@@ -36,8 +39,8 @@ Aantal | Oefening
 10x    | `veren, armen draaien`
 10s    | `staan, handel plat voor je kruisen, dan naar achter gooien`
 20x    | *staan, handen cirkelen*
-10x    | *staan, heupen cirkelen*
-20x    | *staan, hoofd cirkelen*
+10x    | `staan, heupen cirkelen`
+20x    | `staan, hoofd cirkelen`
 10x    | *opdrukken*
 10x    | *opdrukken superman*
 10x    | *opdrukken diamond*
