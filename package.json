@@ -1,4 +1,7 @@
 {
+  "markdown_index": "/lessons/lesson19.md",
+  "repository": "https://github.com/kvz/kbt2",
+  "license": "MIT",
   "dependencies": {
     "bash3boilerplate": "^1.0.3",
     "grunt": "^0.4.5",
