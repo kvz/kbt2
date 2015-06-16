@@ -73,6 +73,25 @@
     <script type="text/javascript" src="js/stopwatch.js"></script>
     <script type="text/javascript" src="js/offline.js"></script>
     <script type="text/javascript">
+        // Returns a function, that, as long as it continues to be invoked, will not
+        // be triggered. The function will be called after it stops being called for
+        // N milliseconds. If `immediate` is passed, trigger the function on the
+        // leading edge, instead of the trailing.
+        function debounce(func, wait, immediate) {
+        	var timeout;
+        	return function() {
+        		var context = this, args = arguments;
+        		var later = function() {
+        			timeout = null;
+        			if (!immediate) func.apply(context, args);
+        		};
+        		var callNow = immediate && !timeout;
+        		clearTimeout(timeout);
+        		timeout = setTimeout(later, wait);
+        		if (callNow) func.apply(context, args);
+        	};
+        };
+
         (function () {
           // Stopwatch
           var stopwatch = new Stopwatch({
@@ -93,7 +112,7 @@
           stopwatch.loadConfig(function(err, config) {
             // Sticky chapters
             var chapters = []
-            $(window).on('scroll touchmove', function() {
+            $(window).on('scroll touchmove', debounce(function() {
               var scrollPos = window.pageYOffset || window.scrollY;
               var bestMatch = {};
               scrollPos += $('header').outerHeight() + 15;
@@ -101,12 +120,12 @@
               for (var i in chapters) {
                 var chapter = chapters[i];
                 if (chapter.top < scrollPos) {
-                  bestMatch = chapter
+                  bestMatch = chapter;
                 }
               }
 
-              $('#chapter').text(bestMatch.text)
-            });
+              $('#chapter').text(bestMatch.text);
+            }, 100));
 
             // Show latest lesson
             stopwatch.loadMarkdown(config.markdown_index, function () {
