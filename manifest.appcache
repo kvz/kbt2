@@ -1,11 +1,13 @@
 CACHE MANIFEST
-# Version 1.1434457893
+# Version 1.1434458267
 
 css/base.css
 css/buttons.css
 css/headers.css
 css/toolbars.css
 css/webapp.css
+favicon-128.png
+favicon-512.png
 favicon.ico
 favicon.png
 fonts/moztt_light-webfont.woff

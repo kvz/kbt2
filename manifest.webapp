@@ -5,11 +5,8 @@
   "type": "web",
   "launch_path": "/index.html",
   "icons": {
-    "16": "images/logo16.png",
-    "32": "images/logo32.png",
-    "48": "images/logo48.png",
-    "64": "images/logo64.png",
-    "128": "images/logo128.png"
+    "128": "/favicon-128.png",
+    "512": "/favicon-512.png"
   },
   "developer": {
     "name": "Kevin van Zonneveld",

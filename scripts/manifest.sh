@@ -50,8 +50,7 @@ find \
   images/headers/ui/dark \
   images/toolbars \
   index.html \
-  favicon.ico \
-  favicon.png \
+  favicon* \
   package.json \
   -type f \
 | grep -v '/.DS_Store' \
