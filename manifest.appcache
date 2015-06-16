@@ -1,12 +1,13 @@
 CACHE MANIFEST
-# Version 1.1434038311
+# Version 1.1434456160
 
-config.json
 css/base.css
 css/buttons.css
 css/headers.css
 css/toolbars.css
 css/webapp.css
+favicon.ico
+favicon.png
 fonts/moztt_light-webfont.woff
 fonts/moztt_medium-webfont.woff
 fonts/moztt_regular-webfont.woff
@@ -18,6 +19,9 @@ images/toolbars/icons/update.png
 images/toolbars/ui/background.png
 index.html
 js/base.js
+js/bling.js
+js/jquery-2.1.1.min.js
+js/jquery.stickyHeaders.js
 js/marked.js
 js/offline.js
 js/stopwatch.js
@@ -34,6 +38,7 @@ lessons/lesson15.md
 lessons/lesson16.md
 lessons/lesson17.md
 lessons/lesson18.md
+lessons/lesson19.md
 lessons/lesson2.md
 lessons/lesson3.md
 lessons/lesson4.md
@@ -42,6 +47,7 @@ lessons/lesson6.md
 lessons/lesson7.md
 lessons/lesson8.md
 lessons/lesson9.md
+package.json
 
 NETWORK:
 *
