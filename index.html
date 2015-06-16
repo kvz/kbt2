@@ -55,6 +55,9 @@
 
         </ul>
         <p id="statusbar">
+          <span id="chapter">
+
+          </span>
           <span id="completed">
 
           </span>
@@ -88,8 +91,36 @@
 
           // Load config
           stopwatch.loadConfig(function(err, config) {
+            // Sticky chapters
+            var headers = []
+            $(window).on('scroll touchmove', function() {
+
+              var scrollPos = window.pageYOffset || window.scrollY;
+
+              scrollPos += $('header').outerHeight();
+              var bestMatch = {};
+
+              for (var i in headers) {
+                var header = headers[i];
+                if (header.top < scrollPos) {
+                  bestMatch = header
+                }
+              }
+
+              $('#chapter').text(bestMatch.text)
+            });
+
             // Show latest lesson
             stopwatch.loadMarkdown(config.markdown_index, function() {
+              // Build header cache index for sticky chapters
+              $('h1').each(function (i, el) {
+                var $h1 = $(el);
+                headers.push({
+                  top   : $h1.offset().top,
+                  height: $h1.outerHeight(),
+                  text  : $h1.text()
+                })
+              });
             });
 
             // Adding lesson navigation gets me in more trouble than it solves
