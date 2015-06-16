@@ -54,7 +54,7 @@
   border-left: 1px solid #ccc;
 }
 
-#statusbar span:last-child {
+#statusbar span:first-child {
   border-left: 0px none #fff;
 }
 
