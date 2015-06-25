@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Version 1.1435249236
+# Version 1.1435249489
 
 css/base.css
 css/buttons.css
@@ -40,6 +40,7 @@ lessons/lesson17.md
 lessons/lesson18.md
 lessons/lesson19.md
 lessons/lesson2.md
+lessons/lesson20.md
 lessons/lesson3.md
 lessons/lesson4.md
 lessons/lesson5.md
@@ -47,7 +48,6 @@ lessons/lesson6.md
 lessons/lesson7.md
 lessons/lesson8.md
 lessons/lesson9.md
-lessons/lessson20.md
 package.json
 
 NETWORK:
