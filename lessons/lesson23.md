@@ -1,4 +1,4 @@
-les23.0 (bb & bg & kbz)
+les23.1 (bb & bg & kbz)
 
 
 # Boksen Beginners
@@ -13,8 +13,9 @@ les23.0 (bb & bg & kbz)
   - 33) **Jab lHoek Cross rHoek. 30s. wissel. 3 rondjes**
   - 38) `handen plat kruisen en achter gooien, ellebogen, lang maken`
   - 39) *10x rollburpies*
-  - 42) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch. 10x lUppercut rUppercut. 2x squats. Wissel. Als je team klaar is roep je JA en kijk ik wie de 5 snelste zijn.**
-  - 46) techniek2: Jab rUppercut rUppercut | lHoek lHoek Milt. om en om zelf oefenen. 2min. uitbreiding. dan op mijn tel
+  - 42) **estafette: 10x Jab Cross. 2x squats. 10x lHoek rHoek. 2x squats. 10x lUppercut rUppercut. 2x squats. Wissel. Als je team klaar is roep je JA en kijk ik wie de 5 snelste zijn.**
+  - 46) techniek2: Cross rUppercut Milt. om en om zelf oefenen. 2min. dan op mijn tel
+  - 49) techniek3: Jab Jab Cross
   - 52) *"bal" overgooien (handschoenen)*
   - 53) spullen uit
   - 54) *crunches (10x slowstoot, 20x enkels, 10-10x plattikken, fietsend 10x, ellebogen-knieen 10x)*
@@ -33,8 +34,8 @@ les23.0 (bb & bg & kbz)
   - 33) **Jab lHoek Cross rHoek. 30s. wissel. 3 rondjes**
   - 38) `handen plat kruisen en achter gooien, ellebogen, lang maken`
   - 39) *10x rollburpies*
-  - 42) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch. 10x lUppercut rUppercut. 2x squats. Wissel. Als je team klaar is roep je JA en kijken we wie de 5 snelste zijn.**
-  - 46) techniek2: Jab rUppercut rUppercut | lHoek | lHoek Milt. 3 om 3 zelf oefenen. 3min. dan op mijn tel
+  - 42) **estafette: 10x Jab Cross. 2x squats. 10x lHoek rHoek. 2x squats. 10x lUppercut rUppercut. 2x squats. Wissel. Als je team klaar is roep je JA en kijken we wie de 5 snelste zijn.**
+  - 46) techniek2: Jab rUppercut rUppercut | lHoek | lHoek Milt. na 3x wisselen. uitbreiden. dan op mijn tel
   - 52) *"bal" overgooien (handschoenen)*
   - 53) spullen uit
   - 54) *crunches (10x slowstoot, 20x enkels, 10-10x plattikken, fietsend 10x, plattehanden 3 standen, ellebogen-knieen 10x)*
@@ -44,17 +45,17 @@ les23.0 (bb & bg & kbz)
 
   - 00) kickboksers op de mat! hallo allemaal. ben kevin. geef vanavond de lessen. zakken/spullen/inslaan
   - 01) *veren, schaduwboksen, heupen los, (jump)squats(vast), armen zwaaien, springen, achilleswiebelen, burpies, lunges, knieen indraaien, lostrappen, alles losgooien*
-  - 10) techniek1: lHoek Cross lHoek. iedereen tegelijk 25x op tel
-  - 13) techniek1: lHoek Cross lHoek rLowkick lRoundhouse. 10x op mijn tel. wissel. C/D squats op tel.
+  - 10) techniek1: Jab Jab Cross. iedereen tegelijk 25x op tel
+  - 13) techniek2: lHoek Cross lHoek rLowkick lRoundhouse. 10x op mijn tel. wissel. C/D squats op tel.
   - 17) **allesgeven 2x**
   - 19) `lang maken, ellebogen pakken, benen opzwaaien`
-  - 21) **Jab Cross Switch rHoek lRoundhouse 1-2-3-4-5-4-3-2-1**. Wissel. B rust. Bij >=3 doen (B)C(D) zelfde bij elkaar
-  - 28) techniek2: Jab Jab Cross - Cross. Allemaal tegelijk op tel.
+  - 21) **Jab Cross-rRoundhouse 1-2-3-4-5-4-3-2-1**. Wissel. B rust. Bij >=3 doen (B)C(D) zelfde bij elkaar
+  - 28) techniek3: Jab Jab Cross - Cross. Allemaal tegelijk op tel.
   - 30) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnee rKnee. 2x squats. Wissel. Per zak 2 shifts. Als je team klaar is roep je JA en kijken we wie de 5 snelste zijn.**
   - 35) *knieheffen,uitstoot,10x rolburpies,planken 1min*
-  - 40) **allesgeven 1x**
+  - 40) **Jab lHoek Cross rHoek. 30s. wissel. 2 rondjes**
   - 42) `benen op de grond rekken`
-  - 45) techniek3: rKnee-Cross lLowkick rElbow rKnee (rRoundhouse). B rust. Na 10x zelf wisselen. C/D doen crunch-uitstoot. 3min.
+  - 45) techniek4: Jab Plexus Fade Cross Lever rHighkick. 1 min zelf oefenen. Dan 10x op mijn tel
   - 47) **freestylen: elke 15s is iemand anders aan het werk op de zak. 3min**
   - 51) *"bal" overgooien (handschoenen)*
   - 52) spullen uit
