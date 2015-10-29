@@ -4,13 +4,13 @@ les24.1
 
   - 00) kickboksers op de mat! hallo allemaal. ben kevin. geef vanavond de lessen. zakken/spullen/inslaan
   - 01) *veren, schaduwboksen, heupen los, (jump)squats(vast), armen zwaaien, springen, achilleswiebelen, burpies, lunges, knieen indraaien, lostrappen, alles losgooien*
-  - 10) techniek1: Jab Jab Cross. iedereen tegelijk 25x op tel
-  - 13) techniek2: lHoek Cross lHoek rLowkick lRoundhouse. 10x op mijn tel. wissel. C/D squats op tel.
+  - 10) techniek1: Jab Jab Cross | rKnie. iedereen tegelijk 25x op tel
+  - 13) techniek2: lHoek Cross lHoek rLowkick lRoundhouse. Na 10x zelf wisselen. 3min
   - 17) **allesgeven 2x**
   - 19) `lang maken, ellebogen pakken, benen opzwaaien`
   - 21) **Jab Cross-rRoundhouse 1-2-3-4-5-4-3-2-1**. Wissel. B rust. Bij >=3 doen (B)C(D) zelfde bij elkaar
-  - 28) techniek3: Jab Jab Cross - Cross. Allemaal tegelijk op tel.
-  - 30) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnee rKnee. 2x squats. Wissel. Per zak 2 shifts. Als je team klaar is roep je JA en kijken we wie de 5 snelste zijn.**
+  - 28) techniek3: Jab Jab Cross - Cross. iedereen tegelijk 25x op tel
+  - 30) **estafette: 10x Jab Cross. 2x squats. 10x lHoek rHoek. 2x squats. 10x lUppercut rUppercut. 2x squats. Wissel. Als je team klaar is roep je JA en kijken we wie de 5 snelste zijn.**
   - 35) *knieheffen,uitstoot,10x rolburpies,planken 1min*
   - 40) **Jab lHoek Cross rHoek. 30s. wissel. 2 rondjes**
   - 42) `benen op de grond rekken`
