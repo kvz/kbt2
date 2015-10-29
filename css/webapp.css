@@ -108,5 +108,11 @@ section[role="region"] > header:first-child menu[type="toolbar"] button:last-chi
 }
 #lesson-nav li {
   display: inline;
-  padding: 11px;
+  padding: 8px;
+}
+#lesson-nav li:first-child {
+  padding-left: 0px;
+}
+#lesson-nav li:last-child {
+  padding-right: 0px;
 }
