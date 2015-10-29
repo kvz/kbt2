@@ -153,6 +153,15 @@
             //   }
             // }
 
+            // Show links to different disciplines in current lesson
+            var number = (config.markdown_index+'').match(/(\d+)(\-[a-z]+)?\.md$/)[1];
+            if (number) {
+              var lessonNav = document.querySelector('#lesson-nav');
+              lessonNav.innerHTML += '<li><a href="/lessons/lesson' +  number + '-bb.md">Lesson ' +  number + ' BB</li>'
+              lessonNav.innerHTML += '<li><a href="/lessons/lesson' +  number + '-bg.md">Lesson ' +  number + ' BG</li>'
+              lessonNav.innerHTML += '<li><a href="/lessons/lesson' +  number + '-kz.md">Lesson ' +  number + ' KZ</li>'
+            }
+
             // Make any markdown hrefs load markdown instantly
             [].forEach.call(document.querySelectorAll('a[href$=".md"]'), function(el) {
               el.onclick = function () {

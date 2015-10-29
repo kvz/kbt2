@@ -220,7 +220,10 @@ Stopwatch.prototype.loadMarkdown = function (url, cb) {
     });
 
     self.elements.lesson.innerHTML = marked(this.responseText);
-    cb();
+    console.log(typeof cb);
+    if (typeof cb === 'function') {
+      cb();
+    }
   };
   oReq.open('GET', url, true);
   oReq.send();

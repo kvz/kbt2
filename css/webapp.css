@@ -102,3 +102,11 @@ section[role="region"] > header:first-child menu[type="toolbar"] button:last-chi
   margin-left: -0.2rem;
   z-index: 1;
 }
+
+#lesson-nav {
+  padding-top: 300px;
+}
+#lesson-nav li {
+  display: inline;
+  padding: 11px;
+}
