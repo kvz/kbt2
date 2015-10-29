@@ -56,6 +56,7 @@
 |  2x10x | *crunch, hand plat, kruislings voet+hand aantikken*          |
 |    10x | *crunch, alles plat, voeten+handen tegelijk aantikken*       |
 |    25x | *crunch, enkels aantikken*                                   |
+|    25x | *crunch, elkaars voeten naar beneden duwen*                  |
 |    10s | `plat, uitrekken`                                            |
 
 # Techniek

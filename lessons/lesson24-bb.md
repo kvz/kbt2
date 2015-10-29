@@ -1,4 +1,4 @@
-les24.0 (bb & bg & kbz)
+les24.1
 
 # Boksen Beginners
 
@@ -8,7 +8,7 @@ les24.0 (bb & bg & kbz)
   - 14) *crunches. planken 1min*
   - 16) techniek1: Jab Cross Lever | lHoek Cross. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
   - 21) **tel1=Jab. tel2=Jab rUppercut. tel3=Jab rUppercut lHoek. tel4=Jab rUppercut lHoek Cross. na 30s wissel. 4 rondjes. (4 min)**
-  - 28) *jumping jacks,knieheffen,opstoot,armen cirkelen 1min*
+  - 28) *crunches: elkaars voeten naar beneden duwen 1min,jumping jacks,knieheffen,opstoot*
   - 33) **Jab lHoek Cross rHoek. 30s. wissel. 3 rondjes**
   - 38) `handen plat kruisen en achter gooien, ellebogen, lang maken`
   - 39) *10x rollburpies*
