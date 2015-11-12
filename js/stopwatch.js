@@ -220,7 +220,6 @@ Stopwatch.prototype.loadMarkdown = function (url, cb) {
     });
 
     self.elements.lesson.innerHTML = marked(this.responseText);
-    console.log(typeof cb);
     if (typeof cb === 'function') {
       cb();
     }
