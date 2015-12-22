@@ -7,7 +7,7 @@ les13.1 (b & kbz) *****
   - 13) **10x Jab Jab Cross. 4x opdrukkend handje schudden. Dan wissel. 2min**
   - 16) techniek1: Jab Cross lUppercut | lUppercut Cross lHoek. volgen. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
   - 21) **tel1=Jab. tel2=Jab Jab. tel3=Jab Jab Cross. tel4=Jab Jab Cross lHoek. na 30s wissel. 4 rondjes. (4 min)**
-  - 28) *jumping jacks,boksloop,opstoot,planken 1min*
+  - 28) *jumpingjacks,boksloop,opstoot,planken 1min*
   - 33) **Jab lHoek Cross rHoek. 30s. wissel. 3 rondjes**
   - 38) *10x rollburpies. 15x squats met de ruggen tegen elkaar. armen cirkelen*
   - 42) `handen plat kruisen en achter gooien, ellebogen, lang maken`

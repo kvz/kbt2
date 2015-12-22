@@ -13,7 +13,7 @@ Ok we beginnen met een looppas!
  1. heupen los: half rondje
  1. voorste krom staan. bokkiespringen: 1 rondje
  1. loopas: 1 rondje
- 1. jumping jacks / andere kant / om en om: 3 rondjes
+ 1. jumpingjacks / andere kant / om en om: 3 rondjes
 
 Even stil staan met je gezicht naar het midden
 

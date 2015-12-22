@@ -10,7 +10,7 @@ Ok we beginnen met een looppas!
  - hakken billen (snel)
  - heupen los
  - lopen
- - jumping jacks
+ - jumpingjacks
 
 Even stil staan
 

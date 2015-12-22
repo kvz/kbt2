@@ -8,7 +8,7 @@
  - hakken billen (snel)
  - heupen los
  - grond aantikken (L, R, Beiden, Springen)
- - jumping jacks
+ - jumpingjacks
 
 ## Vaste plek
  - squads: 10

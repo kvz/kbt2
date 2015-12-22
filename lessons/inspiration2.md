@@ -33,7 +33,7 @@
 |  2x10s | `kleermakerszit, knieen uiteen drukken`                      |
 |    10x | *burpies*                                                    |
 |    10x | *burpies, rol naar achter*                                   |
-|    10x | *jumping jacks*                                              |
+|    10x | *jumpingjacks*                                              |
 |    10x | *springen, veren*                                            |
 |    10x | *springen, continu*                                          |
 |    10x | `veren, armen draaien`                                       |

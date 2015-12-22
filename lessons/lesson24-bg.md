@@ -8,7 +8,7 @@ les24.1
   - 14) *opdrukken, planken 1min*
   - 16) techniek1: Jabb Cross (Jabb) Cross | lHoek (rHoek) lHoek rOverhand. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
   - 21) **tel1=Jab. tel2=Jab rUppercut. tel3=Jab rUppercut lHoek. tel4=Jab rUppercut lHoek Cross. na 30s wissel. 4 rondjes. (4 min)**
-  - 28) *jumping jacks,knieheffen,opstoot,armen cirkelen 1min*
+  - 28) *jumpingjacks,knieheffen,opstoot,armen cirkelen 1min*
   - 33) **Jab lHoek Cross rHoek. 30s. wissel. 3 rondjes**
   - 38) `handen plat kruisen en achter gooien, ellebogen, lang maken`
   - 39) *10x rollburpies*

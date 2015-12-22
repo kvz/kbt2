@@ -8,7 +8,7 @@ les27.2
   - 14) *crunches. planken 1min*
   - 16) **tel1,2,3,4=Jab Jab Cross Cross. na 30s wissel. 4 rondjes. (4 min)**
   - 23) techniek1: Jab Cross Lever | lHoek Cross. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
-  - 28) *crunches: elkaars voeten naar beneden duwen 20x each,jumping jacks,knieheffen,opstoot*
+  - 28) *crunches: elkaars voeten naar beneden duwen 20x each,jumpingjacks,knieheffen,opstoot*
   - 33) **rHoek lHoek Milt Lever Burpie. 10x op tel. 2 rondjes**
   - 38) `handen plat kruisen en achter gooien, ellebogen, lang maken`
   - 39) *10x pushups*
@@ -27,7 +27,7 @@ les27.2
   - 14) *pushups, planken 1min*
   - 16) techniek1: Jab Cross (Jab)Slip Cross lHoek | (rHoek) lHoek rOverhand. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
   - 21) **tel1,2,3,4=Jab Jab Cross Cross. na 30s wissel. 4 rondjes. (4 min)**
-  - 28) *jumping jacks,knieheffen,opstoot,armen cirkelen 1min*
+  - 28) *jumpingjacks,knieheffen,opstoot,armen cirkelen 1min*
   - 33) **Jab lHoek Cross rHoek. 30s. wissel. 3 rondjes**
   - 38) `handen plat kruisen en achter gooien, ellebogen, lang maken`
   - 39) **Boksen op het lichaam, wissel van parter na 1 minuut. 20s pauze. 3 rondjes lichaam. 2 rondjes hoofd (6min 40s)**
