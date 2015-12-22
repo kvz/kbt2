@@ -7,7 +7,7 @@ les28.3
   - 10) techniek1: AC10X Jab Cross lRoundhouse. BD squat+afhouder
   - 12) techniek1: AC10X Jab Cross Switch-rHoek-lRoundhouse. BD squat+afhouder
   - 15) ABCD10X rKneePush. Zak duwen.
-  - 15) techniek2: A Jab rLowkick-rElbow Duw rAfhouder. BCD10x jumpingjacks. 2min. Dan 10X
+  - 15) techniek2: A rLowkick-rElbow TerugDuw rAfhouder AnyCounter. BCD10x jumpingjacks. 2min. Dan 10X
   - 17) **AC5x: Jab rLowkick lHoek rKnie. BD voorligsteun lHand rVoet omhoog**. 2min
   - 19) `lang maken, ellebogen pakken, benen opzwaaien`
   - 21) **AC1-5-1X rRoundhouse. BD pushup.**
