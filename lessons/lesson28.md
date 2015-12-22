@@ -1,14 +1,16 @@
-les28.2
+les28.3
 
 # Kickboksers Heavy Bag
 
   - 00) kickboksers op de mat! goeieavond allemaal. zakken/spullen/inslaan
   - 03) *veren, heupen los, armen zwaaien, springen, (jump)lunges, schaduwboks(Jab rUppercut lHoek Cross), springen, (jump)squats, knieen & trappen, alles losgooien*
-  - 10) techniek1: AC10X Jab Milt lHoek. BD squat+afhouder
-  - 13) techniek2: AC3x Jab rLowkick lRoundhouse rOverhand. BD jumpingjacks. 3min. Dan 10X
-  - 17) **AC5x: Jab rLowkick lHoek rKnie. BD voorligsteun lHand rVoet omhoog**
+  - 10) techniek1: AC10X Jab Cross lRoundhouse. BD squat+afhouder
+  - 12) techniek1: AC10X Jab Cross Switch-rHoek-lRoundhouse. BD squat+afhouder
+  - 15) ABCD10X rKneePush. Zak duwen.
+  - 15) techniek2: A Jab rLowkick-rElbow Duw rAfhouder. BCD10x jumpingjacks. 2min. Dan 10X
+  - 17) **AC5x: Jab rLowkick lHoek rKnie. BD voorligsteun lHand rVoet omhoog**. 2min
   - 19) `lang maken, ellebogen pakken, benen opzwaaien`
-  - 21) **AC1-5-1X rRoundhouse 1-2-3-4-5-4-3-2-1. Wissel. BD pushup.**
+  - 21) **AC1-5-1X rRoundhouse. BD pushup.**
   - 28) techniek3: ABCD25X Jab Jab Cross - Cross
   - 30) **alles geven 2X**
   - 35) *knieheffen,uitstoot,10X rolburpies,planken 1min*
@@ -20,7 +22,7 @@ les28.2
   - 52) spullen uit
   - 54) *crunches (10X slowstoot, 20X enkels, 10-10X plattikken, fietsend 10X, plattehanden 3 standen, 10X ellebogen-knieen)*
   - 55) *pushups (10X normal, 10X diamond, 10X superman, 10X hoog-laag)*
-  - 59) op de knieen. zakken naar beneden
+  - 59) op de knieen. zakken naar beneden. Geniet van de kerstdagen!
 
 # Legend
 
