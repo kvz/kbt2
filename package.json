@@ -1,12 +1,25 @@
 {
-  "markdown_index": "/lessons/lesson31.md",
+  "markdown_index": "/lessons/lesson32.md",
   "repository": "https://github.com/kvz/kbt2",
   "license": "MIT",
+  "scripts": {
+    "help": "cat USAGE.md",
+    "favicon": "scripts/favicon.sh",
+    "browsersync": "browser-sync start  --config bs-config-content.js",
+    "install": "cp node_modules/marked/lib/marked.js ./js/",
+    "start": "npm run build && parallelshell 'npm run watch' 'npm run browsersync'",
+    "watch": "nodemon --verbose --watch . --ignore manifest.* --ext md,js,json --exec 'npm run build'",
+    "build": "scripts/manifest.sh > ./manifest.appcache",
+    "deploy": "npm run build && git checkout gh-pages && git pull && git add --all . && git commit -am 'New lessons' && git push"
+  },
   "dependencies": {
-    "bash3boilerplate": "^1.0.3",
-    "grunt": "^0.4.5",
-    "manifoldjs": "^0.1.0",
-    "marked": "^0.3.2",
-    "send": "^0.10.1"
+    "bash3boilerplate": "1.0.3",
+    "fakefile": "0.0.5",
+    "grunt": "0.4.5",
+    "manifoldjs": "0.1.0",
+    "marked": "0.3.2",
+    "nodemon": "1.8.1",
+    "parallelshell": "2.0.0",
+    "send": "0.10.1"
   }
 }
