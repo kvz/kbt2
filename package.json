@@ -3,14 +3,14 @@
   "repository": "https://github.com/kvz/kbt2",
   "license": "MIT",
   "scripts": {
-    "help": "cat USAGE.md",
-    "favicon": "scripts/favicon.sh",
     "browsersync": "browser-sync start  --config bs-config-content.js",
+    "build": "scripts/manifest.sh > ./manifest.appcache",
+    "deploy": "npm run build && git checkout gh-pages && git pull && git add --all . && git commit -am 'New lessons' && git push",
+    "favicon": "scripts/favicon.sh",
+    "help": "cat USAGE.md",
     "install": "cp node_modules/marked/lib/marked.js ./js/",
     "start": "npm run help && npm run build && parallelshell 'npm run watch' 'npm run browsersync'",
-    "watch": "nodemon --verbose --watch . --ignore manifest.* --ext md,js,json --exec 'npm run build'",
-    "build": "scripts/manifest.sh > ./manifest.appcache",
-    "deploy": "npm run build && git checkout gh-pages && git pull && git add --all . && git commit -am 'New lessons' && git push"
+    "watch": "nodemon --verbose --watch . --ignore manifest.* --ext md,js,json,sh,css --exec 'npm run build'"
   },
   "dependencies": {
     "bash3boilerplate": "1.0.3",
