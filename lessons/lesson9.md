@@ -101,7 +101,7 @@ Aantal | Oefening
   K  | Jab Cross+rLowkick | Cross | lHoek rRoundhouse
   K  | Jab Plexus Fade | Cross Lever | rLowkick
   K  | Cross Lever rLowkick | |
-  K  | rKnee Cross | lHoek | rLowkick
+  K  | rKnie Cross | lHoek | rLowkick
   K  | Jab Cross Lever | rHighkick | |
 
 # Aanzetten

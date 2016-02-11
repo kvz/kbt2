@@ -27,7 +27,7 @@ les16.0 (b & kbz)
   - 20) `lang maken, ellebogen pakken, benen opzwaaien`
   - 22) **Jab Cross-rRoundhouse 1-2-3-4-5-4-3-2-1**. Wissel.
   - 29) techniek2: Jab Cross lHoek rLowkick lRoundhouse. wisselen als B klaar is met 20x crunches uitstoot. 3 minuten.
-  - 33) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnee rKnee. 2x squats. Wissel. Als je team klaar is roep je JA en kijken we wie de 5 snelste zijn.**
+  - 33) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnie rKnie. 2x squats. Wissel. Als je team klaar is roep je JA en kijken we wie de 5 snelste zijn.**
   - 38) *knieheffen,uitstoot,10x rolburpies*
   - 43) **allesgeven 2x**
   - 46) `benen op de grond rekken`

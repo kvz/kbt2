@@ -31,7 +31,7 @@ les11.3 (b & kbz)
   - 20) `ellebogen, lang maken, benen opzwaaien`
   - 22) techniek2: Cross Lever rLowkick. wisselen als B klaar is met 20x crunches uitstoot. 3 minuten.
   - 28) *knieheffen,uitstoot, rolburpies*
-  - 32) **10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch. 10x lKnee rKnee. 2x squats. Wissel. Als je klaar bent mag je uitrusten en de achterblijvers aanmoedigen.**
+  - 32) **10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch. 10x lKnie rKnie. 2x squats. Wissel. Als je klaar bent mag je uitrusten en de achterblijvers aanmoedigen.**
   - 38) techniek3: Jab rUppercut lHoek Cross. na 10x, zelf wisselen. B telt.
   - 45) **allesgeven 1x**
   - 47) `benen op de grond`
@@ -117,7 +117,7 @@ Aantal | Oefening
   K  | Jab Cross | Cross+rLowkick
   K  | Jab Plexus Fade | Cross Lever | rLowkick
   K  | Cross Lever rLowkick | |
-  K  | rKnee Cross | lHoek | rLowkick
+  K  | rKnie Cross | lHoek | rLowkick
   K  | Jab Cross Lever | rHighkick | |
 
 # Aanzetten

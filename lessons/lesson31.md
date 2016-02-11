@@ -31,7 +31,7 @@ les31.1
   - 10) *squats, 10x spiderman pushups*
   - 21) **tel1,2,3,4=Jab rUppercut lHoek Cross. na 30s wissel. 4 rondjes. (4 min)**
   - 28) *crunches: elkaars voeten naar beneden duwen 20x each,jumpingjacks,knieheffen,uitstoot*
-  - 33) techniek3: A3X Jab Milt, Jab Milt, Jab FakeMilt Lever | lHoek. 2min. dan uitbreiding 1min
+  - 33) techniek3: A3X Jab Milt, Jab Milt, Jab MiltFake Lever | lHoek. 2min. dan uitbreiding 1min
   - 38) `lang maken, handen plat kruisen en achter gooien, ellebogen`
   - 39) **Boksen op het lichaam, wissel van parter na 1 minuut. 20s pauze. 3 rondjes lichaam. 2 rondjes hoofd (6min 40s)**
   - 46) techniek4: A3x Jab Jab rUppercut rUppercut | lHoek | lHoek Milt. uitbreiden. 2min. dan A10X. dan uitbreiding 2min.
@@ -50,12 +50,12 @@ les31.1
   - 17) techniek2: AC3x Jab Plexus Fade Cross Lever rLowkick. BD squatsit. 1min. Dan 10X
   - 19) `lang maken, ellebogen pakken, benen opzwaaien`
   - 21) **AC1-5-1X rRoundhouse. BD pushup.**
-  - 28) ABCD25X Jab rKneePush. Zak duwen.
+  - 28) ABCD25X Jab rKniePush. Zak duwen.
   - 30) **alles geven 2X**
   - 35) *knieheffen,uitstoot,10X rolburpies,planken 1min*
   - 40) **AC lLowkick-Cross Lever rHighkick. BD10x crunches. 2min**
   - 42) `benen op de grond rekken`
-  - 45) techniek3: A rLowkick-rElbow TerugDuw rAfhouder (zak zwaait terug) rKneePush. BCD10x jumpingjacks. 2min.
+  - 45) techniek3: A rLowkick-rElbow TerugDuw rAfhouder (zak zwaait terug) rKniePush. BCD10x jumpingjacks. 2min.
   - 47) **freestylen: elke 15s is iemand anders aan het werk op de zak. 3min**
   - 51) *"bal" overgooien (handschoenen)*
   - 52) spullen uit

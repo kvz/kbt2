@@ -22,12 +22,12 @@ les12.2 (b & kbz)
 
   - 00) goeieavond. kickboksers op de mat. zakken ophangen. spullen aan
   - 01) *veren, schaduwboksen, springen, armen draaien, burpies, (jump)squats(vast), lunges, knieen indraaien, lostrappen, alles losgooien*
-  - 10) techniek1: Jab rLowkick | lHoek rKnee. 10x op mijn tel. B lunges
+  - 10) techniek1: Jab rLowkick | lHoek rKnie. 10x op mijn tel. B lunges
   - 18) **allesgeven 1x**
   - 20) `lang maken, ellebogen, benen opzwaaien`
   - 22) **Cross lRoundhouse 1-2-3-4-5-4-3-2-1**. Wissel.
   - 29) techniek2: Jab Cross Lever rHighkick. wisselen als B klaar is met 20x crunches uitstoot. 3 minuten.
-  - 33) **10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnee rKnee. 2x squats. Wissel. Als je team klaar is steek je je hand op en kijk ik wie er gewonnen heeft.**
+  - 33) **10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnie rKnie. 2x squats. Wissel. Als je team klaar is steek je je hand op en kijk ik wie er gewonnen heeft.**
   - 38) *knieheffen,uitstoot,rolburpies*
   - 43) **allesgeven 2x**
   - 46) `benen op de grond`

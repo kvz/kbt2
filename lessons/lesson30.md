@@ -32,7 +32,7 @@ les30.1
   - 16) techniek2: A3x Jab Plexus (lHoek)Fade Cross | Lever lUppercut Cross lHoek. 2min. dan uitbreiding 2min.
   - 21) **tel1,2,3,4=Jab rUppercut lHoek Cross. na 30s wissel. 4 rondjes. (4 min)**
   - 28) *crunches: elkaars voeten naar beneden duwen 20x each,jumpingjacks,knieheffen,uitstoot*
-  - 33) techniek3: A3X Jab Milt, Jab Milt, Jab FakeMilt Lever | lHoek. 2min. dan uitbreiding 1min
+  - 33) techniek3: A3X Jab Milt, Jab Milt, Jab MiltFake Lever | lHoek. 2min. dan uitbreiding 1min
   - 38) `lang maken, handen plat kruisen en achter gooien, ellebogen`
   - 39) **Boksen op het lichaam, wissel van parter na 1 minuut. 20s pauze. 3 rondjes lichaam. 2 rondjes hoofd (6min 40s)**
   - 46) techniek4: A3x Jab Jab rUppercut rUppercut | lHoek | lHoek Milt. uitbreiden. 2min. dan A10X. dan uitbreiding 2min.
@@ -48,8 +48,8 @@ les30.1
   - 09) zakken ophangen/spullen aan
   - 10) techniek1: AC10X Jab Cross-lRoundhouse. BD squat+afhouder
   - 12) techniek1: AC10X Jab Cross Switch-rHoek-lRoundhouse. BD squat+afhouder
-  - 15) ABCD10X Jab rKneePush. Zak duwen.
-  - 15) techniek2: A rLowkick-rElbow TerugDuw rAfhouder (zak zwaait terug) rKneePush. BCD10x jumpingjacks. 2min.
+  - 15) ABCD10X Jab rKniePush. Zak duwen.
+  - 15) techniek2: A rLowkick-rElbow TerugDuw rAfhouder (zak zwaait terug) rKniePush. BCD10x jumpingjacks. 2min.
   - 17) **AC5x: Jab rLowkick lHoek rKnie. BD voorligsteun lHand rVoet omhoog**. 2min
   - 19) `lang maken, ellebogen pakken, benen opzwaaien`
   - 21) **AC1-5-1X rRoundhouse. BD pushup.**

@@ -54,7 +54,7 @@ les8.2 (kbz & bz)
 | B | Jab Cross rSlip Cross           | lHoek lShift lHoek | Cross             |
 | B | Jab Cross                       | Fade Cross         | lHoek rHoek Lever |
 | K | Cross Lever rLowkick            |                    |                   |
-| K | rKnee Cross                     | lHoek              | rLowkick          |
+| K | rKnie Cross                     | lHoek              | rLowkick          |
 | K | Jab Plexus Fade                 | Cross Lever        | rLowkick          |
 | K | Jab Cross lHoek                 | rLowkick           | lRoundhouse       |
 | K | Jab Cross Lever                 | rHighkick          |                   |

@@ -28,7 +28,7 @@ les20.1 (bg & kbhb)
   - 19) `lang maken, ellebogen pakken, benen opzwaaien`
   - 21) **Jab Cross-rRoundhouse 1-2-3-4-5-4-3-2-1**. Wissel. B rust. Bij >=3 doen (B)C(D) **Jab Cross (lHoek x 1-5-1)** bij elkaar op zelfde tel
   - 28) techniek2: Jab Jab Cross - Cross. Allemaal tegelijk op tel.
-  - 30) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnee rKnee. 2x squats. Wissel. Per zak 2 shifts. Als je team klaar is roep je JA en kijk ik wie de 5 snelste zijn.**
+  - 30) **estafette: 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch-voeten-zak. 10x lKnie rKnie. 2x squats. Wissel. Per zak 2 shifts. Als je team klaar is roep je JA en kijk ik wie de 5 snelste zijn.**
   - 35) *knieheffen,uitstoot,10x rolburpies,planken 1min*
   - 40) **allesgeven 1x**
   - 42) `benen op de grond rekken`
