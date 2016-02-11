@@ -5,7 +5,7 @@ les10.2 (b & kbz)
   - 00) boksers op de mat. op de knieen
   - 00) niet-leden betalen. spullen aan
   - 01) warming up: veren, springen, armen draaien, burpies, (jump)squats(vast), lunges, alles losgooien
-  - 10) aanzetten: klassikaal. tel1=Jabb. tel2=Jabb Cross. tel3=Jab Cross lHoek tel4=Jab Cross lHoek rHoek. na 1 min wissel. 4 rondjes. (4 min)
+  - 10) aanzetten: klassikaal. tel1=Jab. tel2=Jab Cross. tel3=Jab Cross lHoek tel4=Jab Cross lHoek rHoek. na 1 min wissel. 4 rondjes. (4 min)
   - 16) techniek1: zelf. Jab rUppercut lHoek Cross. na 3x wisselen. 2min
   - 22) aanzetten: klassikaal. Jab rUppercut lHoek Cross. op tel 10x. 4 rondjes
   - 24) poweren: knieheffen,uitstoot, rolburpies
@@ -13,7 +13,7 @@ les10.2 (b & kbz)
   - 32) techniek2: zelf. Jab Plexus Fade (lHoek) | Cross lHoek Cross. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
   - 39) poweren: squats met de ruggen tegen elkaar. mijn tel.
   - 40) aanzetten: zelf/klassikaal 10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x opdrukken. 10x lUppercut rUppercut. 2x opdrukken. Wissel. Als je klaar bent wacht je op de rest, dan kunnen we zien wie de snelste is.
-  - 46) techniek3: zelf. Jabb rUppercut rUppercut lHoek | lHoek Milt. zelf wisselen. 1min. dan uitbreiding van nog eens 2min.
+  - 46) techniek3: zelf. Jab rUppercut rUppercut lHoek | lHoek Milt. zelf wisselen. 1min. dan uitbreiding van nog eens 2min.
   - 51) "bal" overgooien (handschoenen)
   - 51) spullen uit
   - 53) power down: crunches (20x slowstoot, 20x enkels, 10-10-10x plattikken)

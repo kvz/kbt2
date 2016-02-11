@@ -1,6 +1,6 @@
 les11.3 (b & kbz)
 
- - Jabb lHoek Cross rHoek 30s. wissel. 3 rondjes
+ - Jab lHoek Cross rHoek 30s. wissel. 3 rondjes
  - Cross lRoundhouse 1-2-3-4-5-4-3-2-1
 
 

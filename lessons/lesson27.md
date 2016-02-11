@@ -31,7 +31,7 @@ les27.2
   - 33) **Jab lHoek Cross rHoek. 30s. wissel. 3 rondjes**
   - 38) `handen plat kruisen en achter gooien, ellebogen, lang maken`
   - 39) **Boksen op het lichaam, wissel van parter na 1 minuut. 20s pauze. 3 rondjes lichaam. 2 rondjes hoofd (6min 40s)**
-  - 46) techniek2: Jabb Cross lHoek Milt Lever | lHoek Cross lUppercut. na 3x wisselen. uitbreiden. dan op mijn tel
+  - 46) techniek2: Jab Cross lHoek Milt Lever | lHoek Cross lUppercut. na 3x wisselen. uitbreiden. dan op mijn tel
   - 52) *"bal" overgooien (handschoenen)*
   - 53) spullen uit
   - 54) *crunches (10x slowstoot, 20x enkels, 10-10x plattikken, fietsend 10x, plattehanden 3 standen, ellebogen-knieen 10x)*

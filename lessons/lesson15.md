@@ -5,14 +5,14 @@ les15.1 (b & kbz)
   - 00) goeieavond. boksers op de mat. op de knieen. niet-leden betalen. spullen/partner. links/rechts inslaan
   - 03) *veren, heupen los, schaduwboksen, springen, armen draaien, burpies, (jump)squats(vast), lunges, alles losgooien*
   - 13) **10x Jab rUppercut. 4x opdrukkend handje schudden. Dan wissel. 2min**
-  - 16) techniek1: Jabb Cross (Lever) rUppercut | lHoek Cross. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
-  - 21) **tel1=Jab. tel2=Jab rUppercut. tel3=Jab rUppercut lHoek. tel4=Jabb rUppercut lHoek Cross. na 30s wissel. 4 rondjes. (4 min)**
+  - 16) techniek1: Jab Cross (Lever) rUppercut | lHoek Cross. na 3x wisselen. 2min. dan uitbreiding van nog eens 2min.
+  - 21) **tel1=Jab. tel2=Jab rUppercut. tel3=Jab rUppercut lHoek. tel4=Jab rUppercut lHoek Cross. na 30s wissel. 4 rondjes. (4 min)**
   - 28) *jumpingjacks,boksloop,opstoot,planken 1min*
   - 33) **Jab lHoek Cross rHoek. 30s. wissel. 3 rondjes**
   - 38) *10x rollburpies. 15x squats met de ruggen tegen elkaar. armen cirkelen*
   - 42) `handen plat kruisen en achter gooien, ellebogen, lang maken`
   - 43) **10x Jab Cross. 2x opdrukken. 10x lHoek rHoek. 2x crunch. 10x lUppercut rUppercut. 2x squats. Wissel. Als je team klaar is steek je je hand op en kijk ik wie de snelste 5 teams zijn.**
-  - 47) techniek2: Jab Cross rSlip (Jabb) rUppercut lHoek Cross. 3om3 zelf wisselen. 3min. dan op tel
+  - 47) techniek2: Jab Cross rSlip (Jab) rUppercut lHoek Cross. 3om3 zelf wisselen. 3min. dan op tel
   - 52) *"bal" overgooien (handschoenen)*
   - 53) spullen uit
   - 54) *crunches (10x slowstoot, 20x enkels, 10-10-10x plattikken, ellebogen-knieen)*
@@ -22,7 +22,7 @@ les15.1 (b & kbz)
 
   - 00) goeieavond. kickboksers op de mat. zakken ophangen. spullen aan
   - 01) *veren, heupen los, schaduwboksen, springen, armen draaien, burpies, (jump)squats(vast), lunges, knieen indraaien, lostrappen, alles losgooien*
-  - 10) techniek1: Jabb Plexus .. Cross Lever lHoek. 3x op mijn tel wissel. B zak vasthouden
+  - 10) techniek1: Jab Plexus .. Cross Lever lHoek. 3x op mijn tel wissel. B zak vasthouden
   - 17) **allesgeven 2x**
   - 20) `lang maken, ellebogen pakken, benen opzwaaien`
   - 22) **Jab Cross-rRoundhouse 1-2-3-4-5-4-3-2-1**. Wissel.
