@@ -26,7 +26,7 @@ module.exports = {
   'server': {
     'baseDir': '.'
   },
-  'logLevel': 'debug',
+  'logLevel': 'info',
   'logPrefix': 'BS',
   'logConnections': true,
   'logFileChanges': true,
