@@ -1,5 +1,7 @@
 {
-  "markdown_index": "/lessons/lesson32.md",
+  "kbt2": {
+    "markdownIndex": "/lessons/lesson33.md"
+  },
   "repository": "https://github.com/kvz/kbt2",
   "license": "MIT",
   "scripts": {
