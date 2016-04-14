@@ -1,11 +1,11 @@
 {
   "kbt2": {
-    "markdownIndex": "/lessons/lesson35.md"
+    "markdownIndex": "/lessons/lesson36.md"
   },
   "repository": "https://github.com/kvz/kbt2",
   "license": "MIT",
   "scripts": {
-    "browsersync": "browser-sync start  --config bs-config-content.js",
+    "browsersync": "browser-sync start --config bs-config-content.js",
     "build": "scripts/manifest.sh > ./manifest.appcache",
     "deploy": "npm run build && git checkout gh-pages && git pull && git add --all . && git commit -am 'New lessons' && git push",
     "favicon": "scripts/favicon.sh",

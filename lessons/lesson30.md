@@ -26,8 +26,8 @@ les30.1
   - 00) boksers op de mat! goeieavond allemaal. we beginnen meteen met de warming-up
   - 02) *veren, heupen los, armen zwaaien, springen, (jump)lunges, schaduwboks(Jab rUppercut lHoek Cross), springen, (jump)squats, alles losgooien*
   - 09) spullen aan! En als je klaar bent een partner zoeken en Links Rechts inslaan
-  - 10) techniek1: A5x Jab Cross (lHoek)Roll Cross Lever lHoek. AB5x squat. Dan wissel. 2min
-  - 13) techniek1: A5x Jab Cross (lHoek)Roll Cross Lever-lHoek. Dan wissel. 1min
+  - 10) techniek1: A5x Jab Cross (lHoek)rRoll Cross Lever lHoek. AB5x squat. Dan wissel. 2min
+  - 13) techniek1: A5x Jab Cross (lHoek)rRoll Cross Lever-lHoek. Dan wissel. 1min
   - 14) *pushups, planken 1min*
   - 16) techniek2: A3x Jab Plexus (lHoek)Fade Cross | Lever lUppercut Cross lHoek. 2min. dan uitbreiding 2min.
   - 21) **tel1,2,3,4=Jab rUppercut lHoek Cross. na 30s wissel. 4 rondjes. (4 min)**

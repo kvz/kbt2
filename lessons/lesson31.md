@@ -25,7 +25,7 @@ les31.1
   - 00) boksers op de mat! goeieavond allemaal. we beginnen meteen met de warming-up
   - 02) *veren, heupen los, armen zwaaien, springen, (jump)lunges, schaduwboks(Jab rUppercut lHoek Cross), springen, (jump)squats, burpies, alles losgooien*
   - 09) spullen aan! En als je klaar bent een partner zoeken en om-en-om Links Rechts inslaan
-  - 10) opbouw: A1x Jab Cross lHoek | (rHoek) Roll lHoek Cross | (Jab) Slip Cross. valse start afstraffen met pushups. 2min
+  - 10) opbouw: A1x Jab Cross lHoek | (rHoek)lRoll lHoek Cross | (Jab)rSlip Cross. valse start afstraffen met pushups. 2min
   - 14) *pushups, planken 1min*
   - 16) techniek2: A3x Jab Plexus (lHoek)Fade rOverhand | Lever lHoek rUppercut. 2min. dan uitbreiding 2min.
   - 10) *squats, 10x spiderman pushups*
