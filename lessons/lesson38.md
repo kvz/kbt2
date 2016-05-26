@@ -1,8 +1,8 @@
-38.6 2016-05-26
+38.7 2016-05-26
 
 # Boksen Beginners
 
-  - 16:00) boksers op de mat! welkom allemaal. we beginnen meteen met de warming-up (2min)
+  - 18:00) boksers op de mat! welkom allemaal. we beginnen meteen met de warming-up (2min)
   - 18:02) _veren, heupen los, armen zwaaien, springen, (jump)lunges, schaduwboks(Jab rUppercut lHoek Cross), springen-snel, (jump)squats, burpies, alles losgooien_ (7min)
   - 18:09) spullen aan! Als je klaar bent, partner zoeken en drie-om-drie rustig inslaan met Jab Cross (1min)
   - 18:10) opbouw: A3x Jab Cross lHoek | (rHoek)lRoll lHoek Cross (4min)
