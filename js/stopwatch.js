@@ -175,14 +175,14 @@ Stopwatch.prototype.grayOutHistory = function(fourDigits) {
 
   if (!this.lis || !this.lis.length) {
     this.lis = this.elements.lesson.querySelectorAll('li')
+    this.timeMap = {}
     if (this.lis) {
-      this.timeMap = {}
       for (var i in this.lis) {
         var li = this.lis[i]
-        if (!li.innerText) {
+        if (!li.textContent) {
           continue
         }
-        var matches = li.innerText.match(/^(\d{2}):(\d{2})\)/)
+        var matches = li.textContent.match(/^(\d{2}):(\d{2})\)/)
         if (!matches) {
           continue
         }
@@ -198,9 +198,9 @@ Stopwatch.prototype.grayOutHistory = function(fourDigits) {
       if (diff >= 4) {
         li.className = 'history'
       }
-      if (diff >= 25) {
-        li.remove()
-      }
+      // if (diff >= 25) {
+      //   li.remove()
+      // }
     }
   }
 }
