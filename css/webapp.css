@@ -117,6 +117,10 @@ section[role="region"] > header:first-child menu[type="toolbar"] button:last-chi
   padding-right: 0px;
 }
 
+#lesson ul {
+  padding: 0;
+}
+
 #lesson li.history {
   background: #ccc;
 }
