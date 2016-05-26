@@ -199,7 +199,7 @@ Stopwatch.prototype.grayOutHistory = function(fourDigits) {
         li.className = 'history'
       }
       if (diff >= 25) {
-        li.remove()
+        li.parentNode.removeChild(li)
       }
     }
   }
