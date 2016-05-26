@@ -171,7 +171,7 @@ Stopwatch.prototype.updateClock = function() {
 
 Stopwatch.prototype.grayOutHistory = function(fourDigits) {
   // This is a bit wieldy in an attempt to save
-  // the phone's battery, otherwise going over the DOM every second
+  // the phone's battery, instead of going over the DOM every second
 
   if (!this.lis || !this.lis.length) {
     this.lis = this.elements.lesson.querySelectorAll('li')
