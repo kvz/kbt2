@@ -196,7 +196,7 @@ Stopwatch.prototype.grayOutHistory = function(fourDigits) {
       var li = this.timeMap[liFourDigits]
       var diff = (fourDigits * 1) - (liFourDigits * 1)
       if (diff >= 4) {
-        li.classList.add('history')
+        li.className = 'history'
       }
       // if (diff > 25) {
       //   li.remove()
