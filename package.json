@@ -1,6 +1,6 @@
 {
   "kbt2": {
-    "markdownIndex": "/lessons/lesson37.md"
+    "markdownIndex": "/lessons/lesson38.md"
   },
   "repository": "https://github.com/kvz/kbt2",
   "license": "MIT",
@@ -12,7 +12,7 @@
     "help": "cat USAGE.md",
     "install": "cp node_modules/marked/lib/marked.js ./js/",
     "start": "npm run help && npm run build && parallelshell 'npm run watch' 'npm run browsersync'",
-    "watch": "nodemon --verbose --watch . --ignore manifest.* --ext md,js,json,sh,css --exec 'npm run build'"
+    "watch": "nodemon --verbose --watch . js --ignore manifest.* --ext md,js,json,sh,css --exec 'npm run build'"
   },
   "dependencies": {
     "bash3boilerplate": "1.0.3",

@@ -116,3 +116,7 @@ section[role="region"] > header:first-child menu[type="toolbar"] button:last-chi
 #lesson-nav li:last-child {
   padding-right: 0px;
 }
+
+#lesson li.history {
+  background: #ccc;
+}

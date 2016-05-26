@@ -158,13 +158,52 @@ Stopwatch.prototype.updateClock = function() {
     d.getHours(),
     d.getMinutes()
   ];
+  var fourDigits = t.join('')
   var s = t.map(function(z) {
     return ('00' + z).slice(-2);
   }).join(':');
 
   var clock = this.elements.clock;
   clock.innerHTML = s;
+
+  this.grayOutHistory(fourDigits)
 };
+
+Stopwatch.prototype.grayOutHistory = function(fourDigits) {
+  // This is a bit wieldy in an attempt to save
+  // the phone's battery, otherwise going over the DOM every second
+
+  if (!this.lis || !this.lis.length) {
+    this.lis = this.elements.lesson.querySelectorAll('li')
+    if (this.lis) {
+      this.timeMap = {}
+      for (var i in this.lis) {
+        var li = this.lis[i]
+        if (!li.innerText) {
+          continue
+        }
+        var matches = li.innerText.match(/^(\d{2}):(\d{2})\)/)
+        if (!matches) {
+          continue
+        }
+        liFourDigits = (matches[1] + '' + matches[2])
+        this.timeMap[liFourDigits] = li
+      }
+    }
+  }
+  if (this.timeMap) {
+    for (var liFourDigits in this.timeMap) {
+      var li = this.timeMap[liFourDigits]
+      var diff = (fourDigits * 1) - (liFourDigits * 1)
+      if (diff >= 4) {
+        li.classList.add('history')
+      }
+      // if (diff > 25) {
+      //   li.remove()
+      // }
+    }
+  }
+}
 
 Stopwatch.prototype.updateText = function(text) {
   while(this.elements.counter.firstChild) {
