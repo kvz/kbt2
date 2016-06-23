@@ -12,7 +12,7 @@
     "help": "cat USAGE.md",
     "install": "cp node_modules/marked/lib/marked.js ./js/",
     "start": "npm-run-all help build --parallel watch serve",
-    "watch": "nodemon --verbose --watch . js --ignore manifest.* --ext md,js,json,sh,css --exec 'npm run build'"
+    "watch": "nodemon --verbose --watch . lessons js --ignore 'manifest.*' --ext md,js,json,sh,css --exec 'npm run build'"
   },
   "dependencies": {
     "bash3boilerplate": "1.0.3",

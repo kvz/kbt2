@@ -176,6 +176,7 @@ Stopwatch.prototype.grayOutHistory = function(fourDigits) {
   if (!this.lis || !this.lis.length) {
     this.lis = this.elements.lesson.querySelectorAll('li')
     this.timeMap = {}
+    this.timeMapIndex = {}
     if (this.lis) {
       for (var i in this.lis) {
         var li = this.lis[i]
@@ -188,18 +189,27 @@ Stopwatch.prototype.grayOutHistory = function(fourDigits) {
         }
         liFourDigits = (matches[1] + '' + matches[2])
         this.timeMap[liFourDigits] = li
+        this.timeMapIndex[liFourDigits] = i
       }
     }
   }
   if (this.timeMap) {
     for (var liFourDigits in this.timeMap) {
       var li = this.timeMap[liFourDigits]
+      var index = this.timeMapIndex[liFourDigits]
       var diff = (fourDigits * 1) - (liFourDigits * 1)
       if (diff >= 4) {
         li.className = 'history'
       }
       if (diff >= 25) {
-        li.parentNode.removeChild(li)
+        try {
+          li.parentNode.removeChild(li)
+          delete this.lis[index]
+          delete this.timeMap[liFourDigits]
+          delete this.timeMapIndex[liFourDigits]
+        } catch (e) {
+          break
+        }
       }
     }
   }
