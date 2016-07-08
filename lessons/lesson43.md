@@ -1,4 +1,4 @@
-41.0 2016-06-27 
+43.0 2016-07-08 
 
 # Kickboksers Gemengd
 
@@ -19,6 +19,26 @@
   - 18:55) handschoenen uit (0min)
   - 18:55) _crunches (10X slowstoot, 20X enkels, 10-10X plattikken, fietsend 10X, plattehanden 3 standen, 10X ellebogen-knieen)_ (2min)
   - 18:57) _pushups (10X normal, 10X diamond, 10X superman, 10X hoog-laag)_ (3min)
+
+# Kickboksers Heavy Bag
+
+  - 20:00) kickboksers op de mat! welkom allemaal. we beginnen meteen met de warming-up (2min)
+  - 20:02) _veren, heupen los, armen zwaaien, springen, (jump)lunges, schaduwboks(Jab rUppercut lHoek Cross), springen-snel, (jump)squats, burpies, alles losgooien_ (7min)
+  - 20:09) zakken ophangen en spullen aan! Als je klaar bent, rustig inslaan met Jab Jab Cross Cross (1min)
+  - 20:10) ABCD30X Jab Jab Cross - Cross (2min)
+  - 20:12) techniek: AC Jab rLowkick lHoek rKnieSide. BD10x squat+afhouder (5min)
+  - 20:17) **alles geven 2X** (3min)
+  - 20:20) techniek: AC Jab Plexus Fade rOverhand Lever. BD10x squat+afhouder (5min)
+  - 20:25) **10X spiderman pushups, 10X springen** (2min)
+  - 20:27) `lang maken, benen op de grond rekken, benen opzwaaien` (3min)
+  - 20:30) **ABCD1-5-1X Grondtik-Spring Jab Cross Lever Milt** (6min)
+  - 20:36) techniek: AC5x Jab rPlexus Fade Cross Lever rLowkick. BD voorligsteun (6min)
+  - 20:42) **jumpingjacks,knieheffen,uitstoot** (1min)
+  - 20:43) techniek: A rLowkick-rElbow TerugDuw rAfhouder (zak zwaait terug) rKniePush. BCD10x duo-opdruk (6min)
+  - 20:49) **freestylen: elke 15s is iemand anders aan het werk op de zak. 3min** (4min)
+  - 20:53) spullen uit & zakken langs de kant (1min)
+  - 20:55) _crunches (10X slowstoot, 20X enkels, 10-10X plattikken, fietsend 10X, plattehanden 3 standen, 10X ellebogen-knieen)_ (2min)
+  - 20:57) _pushups (10X normal, 10X diamond, 10X superman, 10X hoog-laag)_ (3min)
 
 # Legend
 
