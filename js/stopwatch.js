@@ -166,7 +166,7 @@ Stopwatch.prototype.updateClock = function() {
   var clock = this.elements.clock;
   clock.innerHTML = s;
 
-  this.grayOutHistory(fourDigits)
+  // this.grayOutHistory(fourDigits)
 };
 
 Stopwatch.prototype.grayOutHistory = function(fourDigits) {
