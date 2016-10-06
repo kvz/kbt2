@@ -1,4 +1,4 @@
-47.0 2016-10-06 
+47.1 2016-10-06 
 
 # Boksen Beginners
 
@@ -8,7 +8,7 @@
   - 18:10) opbouw: A3x Jab Cross lHoek | (rHoek)lRoll lHoek Cross (4min)
   - 18:14) _crunches. planken 1min_ (2min)
   - 18:16) **A??x10X zacht:Jab Cross | hard: lHoek rHoek** (6min)
-  - 18:22) techniek: A3x (Jab)Block (Jab)Parry (Jab)rSlip rUppercut lHoek Cross (5min)
+  - 18:22) techniek: A3x (Jab)Block (Jab)Parry (Jab)Fade Cross Lever lHoek (5min)
   - 18:28) _crunches: elkaars voeten naar beneden duwen 20x each,jumpingjacks,knieheffen,uitstoot_ (5min)
   - 18:33) **A5x Jab rPlexus (lHoek)-Fade Cross Lever lHoek. @wissel:AB2x opdruk-aantik. 5X** (5min)
   - 18:38) `lang maken, ellebogen pakken, armen cirkelen` (2min)
@@ -27,7 +27,7 @@
   - 19:09) spullen aan! Als je klaar bent, partner zoeken en drie-om-drie rustig inslaan met Jab Cross (1min)
   - 19:10) opbouw: A3x Jab rUppercut | rUppercut lHoek Cross | Cross Lever rOverhand (5min)
   - 19:15) _10X pushups, planken 1min_ (2min)
-  - 19:17) techniek: A3x (Jab)Block (Jab)Parry (Jab)rSlip rUppercut Lever (4min)
+  - 19:17) techniek: A3x (Jab)Block (Jab)Parry (Jab)Fade Cross Lever lHoek (4min)
   - 19:21) _10X squats, 10X spiderman pushups_ (1min)
   - 19:22) **A??x10X zacht:Jab Cross | hard: lHoek rHoek** (4min)
   - 19:26) _crunches: elkaars voeten naar beneden duwen 20x each_ (3min)
@@ -51,7 +51,7 @@
   - 20:10) ABCD30X Jab Jab Cross - Cross (2min)
   - 20:12) techniek: AC Jab rLowkick lHoek rKnieSide. BD10x squat+afhouder (5min)
   - 20:17) **alles geven 2X** (3min)
-  - 20:20) techniek: AC Jab Plexus Fade rOverhand Lever. BD10x squat+afhouder (5min)
+  - 20:20) techniek: AC Jab Cross lHoek rLowkick - rRoundhouse. BD10x squat+afhouder (5min)
   - 20:25) **10X spiderman pushups, 10X springen** (2min)
   - 20:27) `lang maken, benen op de grond rekken, benen opzwaaien` (3min)
   - 20:30) **ABCD1-5-1X Grondtik-Spring Jab Cross Lever Milt** (6min)
