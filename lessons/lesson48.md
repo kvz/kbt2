@@ -1,4 +1,4 @@
-48.0 2016-12-23 
+48.1 2016-12-23 
 
 # Kickboksers Gemengd
 
@@ -32,7 +32,7 @@
   - 20:25) **10X spiderman pushups, 10X springen** (2min)
   - 20:27) `lang maken, benen op de grond rekken, benen opzwaaien` (3min)
   - 20:30) **ABCD1-5-1X Grondtik-Spring Jab Cross Lever Milt** (6min)
-  - 20:36) techniek: A3X Jab rLowkick | Jab Cross lRoundhouse | Jab Cross lHoek rHighkick (5min)
+  - 20:36) techniek: A3X Jab rLowkick | Jab Cross lRoundhouse | Jab Cross lHoek rHighkick (6min)
   - 20:42) **jumpingjacks,knieheffen,uitstoot** (1min)
   - 20:43) techniek: A rLowkick-rElbow TerugDuw rAfhouder (zak zwaait terug) rKniePush. BCD10x duo-opdruk (6min)
   - 20:49) **freestylen: elke 15s is iemand anders aan het werk op de zak. 3min** (4min)
