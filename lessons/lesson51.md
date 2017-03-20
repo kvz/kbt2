@@ -1,4 +1,4 @@
-51.1 2017-03-20
+51.2 2017-03-20
 
 # Kickboksen: Gevorderd
 
@@ -7,7 +7,7 @@
 - 19:09) spullen aan! Als je klaar bent, partner zoeken en drie-om-drie rustig inslaan met Jab Cross (1min)
 - 19:10) opbouw: Jab rLowkick | (Block-lRoundhouse) | Block-Cross lHoek rRoundhouse | (Block-lHoek Cross) (5min)
 - 19:15) _10X pushups, planken 1min_ (2min)
-- 19:17) techniek: A3x Jab rUppercut | rUppercut lHoek Cross | Cross Lever rHighkick
+- 19:17) Sparren met lowkicks, eerste die er 5 ontvangt doet 5 pushups (4min)
 - 19:21) _10X squats, 10X spiderman pushups_ (1min)
 - 19:22) **A??x10X zacht:Jab Cross | hard: lHoek rHoek** (4min)
 - 19:26) _crunches: elkaars voeten naar beneden duwen 20x each_ (3min)
@@ -26,6 +26,7 @@
 extra:
 
 - **Jab lHoek Cross rHoek. 30s. wissel. 2 rondjes** (3min)
+- techniek: A3x Jab rUppercut | rUppercut lHoek Cross | Cross Lever rHighkick (4min)
 
 # Boksen: Zaktraining
 
