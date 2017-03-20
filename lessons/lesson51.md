@@ -42,9 +42,9 @@
 
 # Legend
 
- 1. technique / explanation / normal
- 1. _warming up / strength / powerdown_
- 1. **intense**
- 1. `stretch / relax`
- 1. X = mijn tel (eerst minuutje zelf oefenen)
- 1. x = eigen tel, zelf wisselen
+1. technique / explanation / normal
+1. _warming up / strength / powerdown_
+1. **intense**
+1. `stretch / relax`
+1. X = mijn tel (eerst minuutje zelf oefenen)
+1. x = eigen tel, zelf wisselen
