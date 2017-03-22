@@ -1,5 +1,7 @@
 51.2 2017-03-20
 
+140 voor deze les, 180 daarna
+
 # Kickboksen: Gevorderd
 
 - 19:00) kickboksers op de mat! welkom allemaal. we beginnen meteen met de warming-up (2min)

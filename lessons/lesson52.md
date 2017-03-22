@@ -1,6 +1,6 @@
-50.0 2017-03-15 
+52.0 2017-03-22 
 
-140 voor deze les, 140 daarna, want veel te laat
+180 voor deze les, 220 daarna 
 
 # Boksen: Alle Niveaus
 
