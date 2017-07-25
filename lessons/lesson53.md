@@ -1,4 +1,4 @@
-53.0 2017-07-25
+53.1 2017-07-25
 
 220 voor deze les, 280 daarna 
 
@@ -48,15 +48,15 @@
 # Kickboksers Heavy Bag
 
 - 20:00) kickboksers op de mat! welkom allemaal. we beginnen meteen met de warming-up (2min)
-- 20:02) _veren, heupen los, armen zwaaien, springen, (jump)lunges, schaduwboks(Jab rUppercut lHoek Cross), springen-snel, (jump)squats, burpies, alles losgooien_ (7min)
+- 20:02) _veren, heupen los, armen zwaaien, springen, (jump)lunges, schaduwboks(Jab rUppercut lHoek Cross), springen-snel, (jump)squats, burpies, alles losgooien, knieen & trappen_ (7min)
 - 20:09) zakken ophangen en spullen aan! Als je klaar bent, rustig inslaan met Jab Jab Cross Cross (1min)
 - 20:10) ABCD30X Jab Jab Cross - Cross (2min)
 - 20:12) techniek: AC Jab rLowkick lHoek rKnieSide. BD10x squat+afhouder (5min)
 - 20:17) **alles geven 2X** (3min)
-- 20:20) techniek: AC Jab Cross lHoek rLowkick - rRoundhouse. BD10x squat+afhouder (5min)
+- 20:20) techniek: AC Jab Cross lHoek rLowkick | lRoundhouse. BD10x squat+afhouder (5min)
 - 20:25) **10X spiderman pushups, 10X springen** (2min)
 - 20:27) `lang maken, benen op de grond rekken, benen opzwaaien` (3min)
-- 20:30) **ABCD1-5-1X Grondtik-Spring Jab Cross Lever Milt** (6min)
+- 20:30) **AC1-5-1X rRoundhouse. BD pushup.** (6min)
 - 20:36) techniek: AC5x Jab rPlexus Fade Cross Lever rLowkick. BD voorligsteun (6min)
 - 20:42) **jumpingjacks,knieheffen,uitstoot** (1min)
 - 20:43) techniek: A rLowkick-rElbow TerugDuw rAfhouder (zak zwaait terug) rKniePush. BCD10x duo-opdruk (6min)
